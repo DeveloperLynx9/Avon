@@ -1,0 +1,117 @@
+<apex:page standardController="Movimiento__c" extensions="ctrlModificaciones">
+    <apex:sectionHeader title="Modificaciones" subtitle="235/236/Dígitos"/>
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockButtons >
+                <apex:commandButton value="Regresar" action="{!returnTo}" />
+                <apex:commandButton value="Guardar y Ver Detalle" action="{!saveAndDetail}" />
+                <apex:commandButton value="Guardar y Regresar" action="{!saveAndReturn}" />
+                <apex:commandButton value="Guardar y Nuevo" action="{!saveAndNew}" />
+            </apex:pageBlockButtons>
+            
+            <apex:actionRegion >
+                <apex:pageBlockSection columns="1">
+
+                    <apex:inputField taborderhint="1" value="{!mov.Tipo_Modificacion__c}">
+                        <apex:actionSupport event="onchange" action="{!fRenderMod}" reRender="panelCOD,panelOtro" />
+                    </apex:inputField>
+                    <apex:inputField required="false" value="{!mov.Representante__c}" >
+                        <apex:actionSupport event="onchange" action="{!obtenerLinea}" reRender="displayDigits" />
+                    </apex:inputField>
+                    <apex:inputField style="width:75%" value="{!mov.Comentarios__c}" />
+
+                    <apex:outputPanel id="errors">
+                        <apex:messages styleClass="errorMsg"  />
+                    </apex:outputPanel>
+                    <apex:outputPanel id="panelCOD" >
+                        <apex:pageBlockSection title="COD" collapsible="false" columns="1" rendered="{!mostrarCOD}"> 
+
+                            <apex:inputField id="oMotivo" value="{!mov.Motivo__c}">
+                                <apex:actionSupport event="onchange" action="{!fRenderCOD}" reRender="panel03,panel0514,panel09" />
+                            </apex:inputField>
+
+                            <apex:pageBlockSection columns="2">
+                                <apex:pageBlockSection collapsible="false" columns="1">
+                                    
+                                    <apex:pageBlockSectionItem >
+                                        <apex:outputLabel value="De Campaña" for="fCampaign" />
+                                        <apex:selectList multiselect="false" size="1" id="fCampaign" value="{!fromCampaign}">
+                                            <apex:selectOptions value="{!campaignOptions}" />
+                                        </apex:selectList>
+                                    </apex:pageBlockSectionItem>
+                                    <apex:inputField value="{!mov.De_Valor__c}"/>
+                                </apex:pageBlockSection>
+                                <apex:pageBlockSection collapsible="false" columns="1">
+                                    <apex:pageBlockSectionItem >
+                                        <apex:outputLabel value="A Campaña" for="tCampaign" />
+                                        <apex:selectList multiselect="false" size="1" id="tCampaign" value="{!toCampaign}">
+                                            <apex:selectOptions value="{!campaignOptions}" />
+                                        </apex:selectList>
+                                    </apex:pageBlockSectionItem>
+                                    <apex:inputField value="{!mov.A_Valor__c}"/>
+                                </apex:pageBlockSection>
+                            </apex:pageBlockSection>
+                            
+                            <apex:outputPanel id="panel03">
+                                <apex:pageBlockSection rendered="{!motivo03}" columns="1" collapsible="false" title="Recibos no aplicados, cobranzas, reingresos">
+                                    <apex:inputField value="{!mov.Num_Pago__c}"/>
+                                    <apex:inputField value="{!mov.Monto__c}"/>
+                                    <apex:inputField value="{!mov.Tipo_de_Pago__c}"/>
+                                </apex:pageBlockSection>
+                            </apex:outputPanel>
+                            
+                            <apex:outputPanel id="panel0514">
+                                <apex:pageBlockSection rendered="{!motivo0514}" columns="1" collapsible="false" title="05 - Control de Ingresos, pagos pendientes por aplicar / 14 - Ficha extrav. por representante, no aplicada POP">
+                                    <apex:inputField value="{!mov.Banco__c}"/>
+                                    <apex:inputField value="{!mov.Monto__c}"/>
+                                    
+                                    <apex:pageBlockSectionItem >
+                                        <apex:outputLabel value="Campaña de Pago" for="pCampaign" />
+                                        <apex:selectList multiselect="false" size="1" id="pCampaign" value="{!paymentCampaign}">
+                                            <apex:selectOptions value="{!campaignOptions}" />
+                                        </apex:selectList>
+                                    </apex:pageBlockSectionItem>
+
+                                </apex:pageBlockSection>
+                            </apex:outputPanel>
+                            
+                            <apex:outputPanel id="panel09">
+                                <apex:pageBlockSection rendered="{!motivo09}" columns="1" collapsible="false" title="09 - PND's No Aplicados">
+                                    <apex:inputField value="{!mov.Num_Pago__c}"/>
+                                    <apex:inputField value="{!mov.Monto__c}"/>
+
+                                    <apex:pageBlockSectionItem >
+                                        <apex:outputLabel value="Campaña de Pago" for="pCampaign" />
+                                        <apex:selectList multiselect="false" size="1" id="pCampaign" value="{!paymentCampaign}">
+                                            <apex:selectOptions value="{!campaignOptions}" />
+                                        </apex:selectList>
+                                    </apex:pageBlockSectionItem>
+
+                                </apex:pageBlockSection>
+                            </apex:outputPanel>
+                        </apex:pageBlockSection>
+                    </apex:outputPanel>
+                    
+                    <apex:outputPanel id="panelOtro">
+                        <apex:pageBlockSection title="{!tituloOtro}" collapsible="false" rendered="{!mostrarOtro}" columns="1">
+                            <apex:pageBlockSectionItem >
+                                <apex:outputLabel value="De Campaña" for="fCampaign" />
+                                <apex:selectList multiselect="false" size="1" id="fCampaign" value="{!fromCampaign}">
+                                    <apex:actionSupport event="onchange" action="{!obtenerLinea}" reRender="displayDigits" />
+                                    <apex:selectOptions value="{!campaignOptions}" />
+                                </apex:selectList>
+                            </apex:pageBlockSectionItem>
+                            
+                            <apex:inputField value="{!mov.A_Valor__c}">
+                                <apex:actionSupport event="onchange" action="{!obtenerLinea}" reRender="displayDigits" />
+                            </apex:inputField>
+                            <apex:outputField value="{!mov.Digitos__c}" id="displayDigits" rendered="{!mostrarDigitos}"/>
+                        </apex:pageBlockSection>
+                    </apex:outputPanel>
+                                        
+                </apex:pageBlockSection>
+            </apex:actionRegion>
+        </apex:pageBlock>
+        
+    </apex:form>
+</apex:page>

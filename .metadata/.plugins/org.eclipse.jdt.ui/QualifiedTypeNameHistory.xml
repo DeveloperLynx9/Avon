@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.avon.Loader"/>
+<fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.avon.parser.Gerentes"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Account"/>
+<fullyQualifiedTypeName name="com.ibm.wsdl.util.StringUtils"/>
+<fullyQualifiedTypeName name="com.avon.parser.JerarquiaProceso"/>
+<fullyQualifiedTypeName name="com.avon.parserontact.ParserRegion"/>
+<fullyQualifiedTypeName name="com.avon.parserontact.ParserZona"/>
+<fullyQualifiedTypeName name="com.avon.parserontact.ParserDivision"/>
+<fullyQualifiedTypeName name="com.avon.parser.RootParser"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.mail.Store"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.sforce.async.SObject"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Contact"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Movimiento__c"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Campania_Avon__c"/>
+<fullyQualifiedTypeName name="com.avon.parser.util.Loader"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="org.apache.axis.utils.StringUtils"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.UserRole"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.User"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+</qualifiedTypeNameHistroy>

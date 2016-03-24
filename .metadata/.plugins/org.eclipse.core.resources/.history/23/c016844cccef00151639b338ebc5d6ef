@@ -1,0 +1,190 @@
+package com.avon.parser;
+
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.HashMap;
+
+import org.apache.commons.lang.StringUtils;
+import org.apache.log4j.Logger;
+
+import com.avon.parser.util.AvonDAO;
+import com.avon.parser.util.Loader;
+import com.avon.parser.util.SForceClient;
+import com.sforce.soap.enterprise.sobject.Movimiento__c;
+
+
+public class ivrParser {
+
+	protected Logger logger = Logger.getLogger(this.getClass());
+	
+	private String sFilesPath;
+	private boolean isDevEnv;
+	
+	private String ivMod=null;
+	private String ivMan=null;
+
+	public StringBuffer messages = null;
+	
+	protected File fMAN2610 = null;
+	protected File fMOD2610 = null;
+
+	//Mapas
+	private HashMap<String, Movimiento__c>mapMan;
+	private HashMap<String, Movimiento__c>mapMod;
+
+	
+	public static void main(String[] args) {
+			String myDate		= null;
+				if(args.length > 0){
+					myDate = StringUtils.trimToNull(args[0]);
+		}
+		
+		ivrParser rp = new ivrParser();
+		Boolean success = rp.init(myDate);
+		if(!success){
+			rp.finalizar(false, rp.messages.toString());
+			return;
+		}
+		rp.parse();
+		rp.finalizar(true, rp.messages.toString());
+		}
+		
+	public void finalizar(Boolean success, String emailBody) {
+		// Liberar recursos
+		// Cerrar conexiones.
+		SForceClient sfc = new SForceClient();
+		try{
+			sfc.sendEmail(success, emailBody, this.date);
+		} catch (Exception e) {
+			logger.error(e);
+		}
+		
+		logger.info( "Proceso terminado");
+	}
+
+		public ivrParser(){
+				messages = new StringBuffer();
+		};
+		
+		private Date   	date;
+		
+		private Boolean init(String indate){
+
+			SimpleDateFormat sdf 			= new SimpleDateFormat("ddMMyyyy");
+			indate							= StringUtils.trimToNull(indate);
+			
+			if(indate==null){
+				this.date = new Date();
+				
+				Calendar c = Calendar.getInstance(); 
+				c.setTime(this.date); 
+				c.add(Calendar.DATE, -1);
+				this.date = c.getTime();
+				logger.debug("Fecha a procesar:" + sdf.format(this.date) );
+			}
+			else{
+				try{
+					this.date = sdf.parse(indate);
+				}
+				catch(Exception e){
+					this.date = new Date();
+					logger.error("Error parseando la fecha", e);
+				}
+			}
+			
+			AvonDAO ivr = new AvonDAO ();
+			try{
+				logger.info("Consultando los registros MOD & MAN ... ");
+				ivMod=ivr.getRecordType("Movimiento__c", "Modificaciones");
+			}catch(Exception e){
+				logger.error("error" + e.getMessage());
+				messages.append("Error en registros" + e.getMessage());
+				return false;
+			}
+		
+			try{
+				//Leer Configuración 
+				String loaderName		= new String("");
+				Loader verify 			= new Loader("parser.properties");
+				isDevEnv				= verify.getBoolean("parser.isDevEnv");
+
+				if(isDevEnv)
+					loaderName			= "dev.properties";
+				else
+					loaderName			= "prod.properties";
+				logger.debug("loadername = " + loaderName);
+
+				Loader loader			= new Loader(loaderName);
+				sFilesPath		 	    = loader.getString("files.path");
+
+				//Buscar Archvo
+				StringBuilder sbFile = new StringBuilder();
+				sbFile.append(sFilesPath);
+				sbFile.append("fMOD2610.csv");
+				
+				StringBuilder sbFile_d = new StringBuilder();
+				sbFile_d.append(sFilesPath);
+				sbFile_d.append("fMAN2610.csv");
+				
+				File fTempMay = new File( sbFile.toString() );
+				logger.info("Buscando archivo: "+fTempMay);
+					if ( fTempMay.exists() ) {
+						fMOD2610 = fTempMay;
+					}
+		File fTempMay_d = new File( sbFile_d.toString() );
+				logger.info("Buscando archivo: "+fTempMay_d);
+				if ( fTempMay.exists() ) {
+						fMAN2610 = fTempMay_d;	
+				}
+				if (fMOD2610==null){
+				logger.error( "No se encontro el archivo: Mod.txt" );
+				messages.append( "No se encontro el archivo: Mod236.txt\n");
+			} 
+				if(fMAN2610==null){
+				logger.error( "No se encontro el archivo: Mod.txt" );
+				messages.append( "No se encontro el archivo: Man235.tx\n");
+			} 
+		}
+		catch(Exception e){
+			e.printStackTrace();
+		}
+		return true;
+}
+		
+		protected void parse(){
+			// parser jerarquia
+			
+			if (fMOD2610 != null) {
+				logger.info("Parseando archivo:" + fMOD2610.getName() );
+				//revisar
+				ModParser p = new ModParser(fMOD2610, "Movimiento__c");
+				try {
+					p.parse();
+				} catch (Exception e) {
+					logger.error("Error parseando el archivo: " + fMOD2610.getName() + ", error:" + e.getMessage());
+					messages.append("Error parseando el archivo: " + fMOD2610.getName() + ", error:" + e.getMessage());
+				}
+				
+				mapMod  = p.getmapMod();
+				logger.info("Total de archivos procesados < Código 235 >: " + mapMod.size());
+			}
+		
+		 if (fMAN2610 != null) {
+			logger.info("Parseando archivo:" + fMAN2610.getName() );
+			ManParser p = new ManParser(fMAN2610,"MAN");
+			try {
+				p.parse();
+			} catch (Exception e) {
+				logger.error("Error parseando el archivo: " + fMAN2610.getName() + ", error:" + e.getMessage());
+				messages.append("Error parseando el archivo: " + fMAN2610.getName() + ", error:" + e.getMessage());
+			}
+			mapMan = p.getmapMan();
+			logger.info("Total de archivos procesados < Código 236 >: " + mapMan.size());
+			
+		}
+		} 
+}	
+
+

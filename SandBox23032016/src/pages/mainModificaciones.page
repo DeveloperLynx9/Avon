@@ -1,0 +1,119 @@
+<apex:page controller="ctrlMainModificaciones" tabStyle="Movimiento__c" >
+    <apex:sectionHeader title="Modificaciones" subtitle="Consulta"/>
+    <apex:form >
+        <apex:pageBlock >
+            <apex:pageBlockButtons >
+                <apex:commandButton value="Buscar" action="{!search}" reRender="results,displayErrors" />
+                <apex:commandButton value="Agregar" action="{!add}" />
+                <apex:commandButton value="Autorizar" action="{!createFile}" />
+            </apex:pageBlockButtons>
+            <apex:pageBlockSection columns="1" >
+                <apex:pageBlockSection columns="2" >
+                    <apex:pageBlockSection id="filtros" columns="1" >
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Registro" />
+                            <apex:inputText value="{!registro}" />
+                        </apex:pageBlockSectionItem>
+                        <apex:inputField value="{!mov.Estado__c}" />
+                        <apex:inputField value="{!mov.Tipo_Modificacion__c}" />
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Región" />
+                            <apex:selectList multiselect="false" size="1" value="{!regionId}">
+                                <apex:actionSupport event="onchange" action="{!onChangeRegion}" reRender="filtros" />
+                                <apex:selectOptions value="{!listRegiones}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="División" />
+                            <apex:selectList multiselect="false" size="1" value="{!divisionId}">
+                                <apex:actionSupport event="onchange" action="{!onChangeDivision}" reRender="filtros" />
+                                <apex:selectOptions value="{!listDivisiones}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Zona" />
+                            <apex:selectList multiselect="false" size="1" value="{!zonaId}">
+                                <apex:selectOptions value="{!listZonas}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                    </apex:pageBlockSection>
+                    
+                    <apex:pageBlockSection columns="1" >
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Bodega" />
+                            <apex:selectList multiselect="false" size="1" value="{!bodegaId}">
+                                <apex:selectOptions value="{!listBodegas}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Campaña" />
+                            <apex:selectList multiselect="false" size="1" value="{!campaniaId}">
+                                <apex:selectOptions value="{!listCampanias}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Fecha de creación" />
+                            <apex:inputField value="{!mov.Fecha_IVR__c}" />
+                        </apex:pageBlockSectionItem>
+                        <apex:pageBlockSectionItem >
+                            <apex:outputLabel value="Usuario" />
+                            <apex:selectList multiselect="false" size="1" value="{!usuarioId}">
+                                <apex:selectOptions value="{!listUsuarios}"></apex:selectOptions>
+                            </apex:selectList>
+                        </apex:pageBlockSectionItem>
+                        
+                        
+                    </apex:pageBlockSection>
+                </apex:pageBlockSection>
+                <apex:inputField value="{!mov.Motivo__c}" />
+                <apex:outputPanel id="displayErrors">
+                    <apex:messages styleClass="errorMsg" />
+                </apex:outputPanel>
+            </apex:pageBlockSection>
+        </apex:pageBlock>
+        <apex:pageBlock id="results" title="Modificaciones">
+            <apex:pageBlockTable columns="14" value="{!modificaciones}" var="mod"  >
+                <apex:column >
+                    <apex:inputCheckbox value="{!mod.selected}" />
+                </apex:column>
+                <apex:column headerValue="Código">
+                    <apex:outputLink value="/{!mod.mov.Id}" target="_blank" >{!mod.mov.Name}</apex:outputLink>
+                </apex:column>
+                <apex:column headerValue="Tipo" value="{!mod.mov.Tipo_Modificacion__c}" />
+                <apex:column headerValue="Región" value="{!mod.mov.Representante__r.Region__c}" />
+                <apex:column headerValue="División" value="{!mod.mov.Representante__r.Division__c}" />
+                <apex:column headerValue="Zona" value="{!mod.mov.Representante__r.Account.Name}" />
+                <apex:column headerValue="Registro" value="{!mod.mov.Representante__r.Registro__c}" />
+                <apex:column headerValue="Representante" value="{!mod.mov.Representante__c}" />
+                <apex:column headerValue="Motivo" value="{!mod.mov.Motivo__c}" />
+                <apex:column headerValue="De Valor" value="{!mod.mov.De_Valor__c}" />
+                <apex:column headerValue="A Valor" value="{!mod.mov.A_Valor__c}" />
+                <apex:column headerValue="Diferencia" value="{!mod.mov.Diferencia__c}" />
+                <apex:column headerValue="Fecha de creación" value="{!mod.mov.CreatedDate}" />
+                <apex:column headerValue="Estado" value="{!mod.mov.Estado__c}" />
+            </apex:pageBlockTable>
+            <!-- Pagination -->
+            <table style="width: 100%"><tr>
+                
+                <td style="width: 30%">
+                    &nbsp;
+                </td>            
+                
+                <td style="width: 40%" align="center">
+
+                    <apex:commandLink action="{!previous}" value="« Anterior" rendered="{!hasPrevious }" reRender="results,displayErrors" />
+                    <apex:outputText style="color: #ccc;" value="« Anterior" rendered="{! NOT(hasPrevious) }"/>
+                    &nbsp;&nbsp;  
+                    <apex:commandLink action="{!next}" value="Siguiente »" rendered="{!hasNext }" reRender="results,displayErrors" />
+                    <apex:outputText style="color: #ccc;" value="Siguiente »" rendered="{! NOT(hasNext) }"/>
+
+                </td>
+                
+                <td style="width: 30%" align="right">
+                    &nbsp;
+                </td>
+                
+                </tr></table>
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>

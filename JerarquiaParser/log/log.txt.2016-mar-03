@@ -1,0 +1,85 @@
+2016-03-03 17:51:21,307 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 17:51:34,014 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:19:09,743 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:19:18,923 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-03 21:19:18,925 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\div.txt
+2016-03-03 21:19:18,926 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-03 21:19:18,928 ERROR [main] - No se encontro el archivo: reegion.txt
+2016-03-03 21:19:18,930 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:19:18,931 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:20:02,947 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:20:12,680 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-03 21:20:12,681 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\div.txt
+2016-03-03 21:20:12,682 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-03 21:20:12,683 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:20:12,683 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:20:12,683 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:21:37,458 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:21:46,570 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-03 21:21:46,570 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-03 21:21:46,573 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-03 21:21:46,574 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:21:46,574 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:21:46,574 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:23:57,083 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:24:06,653 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:24:06,655 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:24:06,655 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:24:06,655 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:25:10,632 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:25:19,754 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:25:19,759 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:25:19,760 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:25:19,760 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:27:39,680 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:27:57,985 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:27:57,989 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:27:57,990 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:27:57,990 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:28:31,867 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:28:41,155 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:28:41,155 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:28:41,155 ERROR [main] - No se encontro el archivo: división.txt
+2016-03-03 21:28:41,159 ERROR [main] - No se encontro el archivo: zona.txt
+2016-03-03 21:31:10,059 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:31:18,989 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:31:18,993 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:33:19,841 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:33:29,494 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:33:29,498 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:34:36,656 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:34:45,341 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:34:45,345 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:35:02,844 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:35:15,950 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:35:15,951 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:39:25,478 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:39:34,912 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:39:34,916 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:46:07,742 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:46:18,765 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txtdivision.txtzona.txt
+2016-03-03 21:46:18,765 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 21:54:02,118 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 21:54:11,656 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-03 21:54:11,657 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-03 21:54:11,657 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-03 21:54:11,659 ERROR [main] - No se encontro el archivo: region.txt
+2016-03-03 22:06:33,917 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-03 22:06:44,206 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-03 22:06:44,206 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-03 22:06:44,206 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-03 22:06:44,217 INFO  [main] - Parseando archivo:region-manager-data.txt
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@3403e2ac
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@6c4980d3
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@19c65cdc
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@54504ecd
+2016-03-03 22:06:44,219 INFO  [main] - Parseando archivo:region-manager-data.txt
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@1fb669c3
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@6239aba6
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@12359a82
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@479460a6
+2016-03-03 22:06:44,219 INFO  [main] - Parseando archivo:region-manager-data.txt
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@5be46f9d
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@68702e03
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@2421cc4
+2016-03-03 22:06:44,219 INFO  [main] - [Ljava.lang.String;@59a008ba

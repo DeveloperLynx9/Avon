@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<project name="AVON" default="buildStubs" basedir=".">
+	<property name="JarsDir"  		value="${basedir}/build/jars" />
+	<property name="ClassesDir"  	value="${basedir}/build/classes" />
+	<property name="nowrapped" 		value="true" /> 
+	<property name="wraparrays" 	value="false" />
+	<property name="soapVersion" 	value="1.1" />
+	<property name="verbose" 		value="true" />
+
+	<!-- Este es el classpath donde estan los jars de Axis. -->
+	<path id="axis.classpath">
+		<fileset dir="${basedir}/lib/"> <include name="*.jar" /></fileset>
+	</path> 
+
+	<!-- Con este tag se define la tarea de wsdl2Java--> 
+	<taskdef resource="axis-tasks.properties" classpathref="axis.classpath" />
+		
+
+	<!-- Se manda llamar a buildStub tantas veces como WSDL's se necesiten -->
+	<target name="buildStubs">
+		<antcall target="buildStub" >	
+			<!-- <param name="wsdl" value="${basedir}/build/wsdl/ClienteDatosgralesSoap.wsdl.xml" /> -->
+			<param name="wsdl" value="${basedir}/build/wsdl/09032016.xml" />
+			
+		</antcall>
+	</target>
+
+	<!-- Genera los stubs para Axis -->
+	<target name="buildStub">
+		<axis-wsdl2java  output="${basedir}/../src-sfdc/" verbose="${verbose}"  all="true" nowrapped="${nowrapped}" wraparrays="${wraparrays}" typemappingversion="${soapVersion}" url="${wsdl}"  ></axis-wsdl2java>
+	</target>
+		
+	<target name="Create-Jars">
+					<jar 
+					jarfile="${JarsDir}/sf-avon.jar" 
+					basedir="${ClassesDir}" 
+					includes="**"
+					update="false" ></jar> 
+		</target>
+</project>
+

@@ -1,0 +1,1118 @@
+2016-03-08 09:46:01,329 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 09:46:12,094 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 09:46:12,096 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 09:46:12,097 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 09:46:12,098 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 09:46:12,164 INFO  [main] - Total de regiones:3
+2016-03-08 09:46:12,165 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 09:46:12,193 INFO  [main] - Total de Divisiones:13
+2016-03-08 09:46:12,194 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 09:46:12,362 INFO  [main] - Total de Zonas:2
+2016-03-08 09:46:13,889 INFO  [main] - The email was sent successfully.
+2016-03-08 09:46:13,889 INFO  [main] - Proceso terminado
+2016-03-08 10:14:37,852 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 10:14:47,950 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 10:14:47,950 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 10:14:47,950 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 10:14:47,950 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 10:14:47,965 INFO  [main] - Total de regiones:3
+2016-03-08 10:14:47,965 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 10:14:47,982 INFO  [main] - Total de Divisiones:13
+2016-03-08 10:14:47,986 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 10:14:48,056 INFO  [main] - Total de Zonas:2
+2016-03-08 10:14:49,498 INFO  [main] - The email was sent successfully.
+2016-03-08 10:14:49,499 INFO  [main] - Proceso terminado
+2016-03-08 10:15:41,747 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 10:15:52,156 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 10:15:52,156 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 10:15:52,167 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 10:15:52,169 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 10:15:52,172 INFO  [main] - Total de regiones:3
+2016-03-08 10:15:52,172 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 10:15:52,172 INFO  [main] - Total de Divisiones:13
+2016-03-08 10:15:52,188 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 10:15:52,272 INFO  [main] - Total de Zonas:2
+2016-03-08 10:15:53,374 INFO  [main] - The email was sent successfully.
+2016-03-08 10:15:53,374 INFO  [main] - Proceso terminado
+2016-03-08 10:31:18,645 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 10:31:28,045 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 10:31:28,047 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 10:31:28,048 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 10:31:28,049 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 10:31:28,057 INFO  [main] - Total de regiones:3
+2016-03-08 10:31:28,058 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 10:31:28,069 INFO  [main] - Total de Divisiones:13
+2016-03-08 10:31:28,076 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 10:31:28,166 INFO  [main] - Total de Zonas:2
+2016-03-08 10:31:53,877 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 10:32:03,530 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 10:32:03,531 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 10:32:03,532 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 10:32:03,533 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 10:32:03,540 INFO  [main] - Total de regiones:3
+2016-03-08 10:32:03,540 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 10:32:03,546 INFO  [main] - Total de Divisiones:13
+2016-03-08 10:32:03,551 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 10:32:03,622 INFO  [main] - Total de Zonas:2
+2016-03-08 10:32:05,001 INFO  [main] - The email was sent successfully.
+2016-03-08 10:32:05,002 INFO  [main] - Proceso terminado
+2016-03-08 10:58:07,976 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 10:58:17,923 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 10:58:17,925 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 10:58:17,928 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 10:58:17,929 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 10:58:17,938 INFO  [main] - Total de regiones:3
+2016-03-08 10:58:17,938 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 10:58:17,945 INFO  [main] - Total de Divisiones:13
+2016-03-08 10:58:17,951 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 10:58:18,028 INFO  [main] - Total de Zonas:2
+2016-03-08 11:01:08,566 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:01:18,457 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:01:18,458 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:01:18,462 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:01:18,464 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:01:18,471 INFO  [main] - Total de regiones:3
+2016-03-08 11:01:18,471 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:01:18,479 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:01:18,482 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:01:18,550 INFO  [main] - Total de Zonas:2
+2016-03-08 11:01:49,672 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:01:58,699 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:01:58,700 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:01:58,702 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:01:58,703 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:01:58,710 INFO  [main] - Total de regiones:3
+2016-03-08 11:01:58,711 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:01:58,718 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:01:58,724 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:01:58,794 INFO  [main] - Total de Zonas:2
+2016-03-08 11:02:59,108 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:03:08,230 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:03:08,232 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:03:08,237 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:03:08,238 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:03:08,251 INFO  [main] - Total de regiones:3
+2016-03-08 11:03:08,251 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:03:08,256 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:03:08,258 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:03:08,316 INFO  [main] - Total de Zonas:2
+2016-03-08 11:05:28,438 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:05:37,622 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:05:37,623 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:05:37,624 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:05:37,625 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:05:37,631 INFO  [main] - Total de regiones:3
+2016-03-08 11:05:37,631 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:05:37,640 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:05:37,646 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:05:37,716 INFO  [main] - Total de Zonas:2
+2016-03-08 11:05:38,904 INFO  [main] - The email was sent successfully.
+2016-03-08 11:05:38,905 INFO  [main] - Proceso terminado
+2016-03-08 11:08:59,370 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:09:08,880 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:09:08,881 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:09:08,882 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:09:08,883 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:09:08,893 INFO  [main] - Total de regiones:3
+2016-03-08 11:09:08,894 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:09:08,907 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:09:08,911 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:09:08,970 INFO  [main] - Total de Zonas:2
+2016-03-08 11:09:10,348 INFO  [main] - The email was sent successfully.
+2016-03-08 11:09:10,348 INFO  [main] - Proceso terminado
+2016-03-08 11:12:06,410 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:12:16,272 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:12:16,273 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:12:16,276 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:12:16,277 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:12:16,286 INFO  [main] - Total de regiones:3
+2016-03-08 11:12:16,287 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:12:16,293 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:12:16,296 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:12:16,361 INFO  [main] - Total de Zonas:2
+2016-03-08 11:12:17,645 INFO  [main] - The email was sent successfully.
+2016-03-08 11:12:17,648 INFO  [main] - Proceso terminado
+2016-03-08 11:22:09,167 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:22:18,689 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:22:18,690 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:22:18,691 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:22:18,692 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:22:18,701 INFO  [main] - Total de regiones:3
+2016-03-08 11:22:18,702 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:22:18,710 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:22:18,719 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:22:18,779 INFO  [main] - Total de Zonas:2
+2016-03-08 11:22:20,161 INFO  [main] - The email was sent successfully.
+2016-03-08 11:22:20,162 INFO  [main] - Proceso terminado
+2016-03-08 11:23:31,403 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:23:40,710 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:23:40,711 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:23:40,712 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:23:40,715 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:23:40,724 INFO  [main] - Total de regiones:3
+2016-03-08 11:23:40,724 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:23:40,732 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:23:40,739 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:23:40,802 INFO  [main] - Total de Zonas:2
+2016-03-08 11:23:42,058 INFO  [main] - The email was sent successfully.
+2016-03-08 11:23:42,065 INFO  [main] - Proceso terminado
+2016-03-08 11:28:50,942 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:29:00,607 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:29:00,609 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:29:00,610 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:29:00,611 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:29:00,620 INFO  [main] - Total de regiones:3
+2016-03-08 11:29:00,621 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:29:00,629 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:29:00,632 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:29:00,695 INFO  [main] - Total de Zonas:2
+2016-03-08 11:29:02,054 INFO  [main] - The email was sent successfully.
+2016-03-08 11:29:02,055 INFO  [main] - Proceso terminado
+2016-03-08 11:34:40,799 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:34:50,981 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:34:50,985 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:34:50,988 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:34:50,989 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:34:50,997 INFO  [main] - Total de regiones:3
+2016-03-08 11:34:50,998 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:34:51,004 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:34:51,008 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:34:51,070 INFO  [main] - Total de Zonas:2
+2016-03-08 11:34:52,700 INFO  [main] - true
+2016-03-08 11:34:52,703 INFO  [main] - The email was sent successfully.
+2016-03-08 11:34:52,704 INFO  [main] - Proceso terminado
+2016-03-08 11:41:38,656 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 11:41:49,113 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 11:41:49,115 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 11:41:49,117 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 11:41:49,118 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 11:41:49,122 INFO  [main] - Total de regiones:3
+2016-03-08 11:41:49,123 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 11:41:49,127 INFO  [main] - Total de Divisiones:13
+2016-03-08 11:41:49,131 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 11:41:49,197 INFO  [main] - Total de Zonas:2
+2016-03-08 11:41:50,793 INFO  [main] - true
+2016-03-08 11:41:50,794 INFO  [main] - The email was sent successfully.
+2016-03-08 11:41:50,794 INFO  [main] - Proceso terminado
+2016-03-08 12:23:48,861 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 12:23:58,935 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 12:23:58,936 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 12:23:58,940 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 12:23:58,941 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 12:23:58,952 INFO  [main] - Total de regiones:3
+2016-03-08 12:23:58,953 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 12:23:58,963 INFO  [main] - Total de Divisiones:13
+2016-03-08 12:23:58,974 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 12:23:59,055 INFO  [main] - Total de Zonas:2
+2016-03-08 12:24:20,631 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 12:24:30,334 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 12:24:30,334 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 12:24:30,336 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 12:24:30,337 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 12:24:30,342 INFO  [main] - Total de regiones:3
+2016-03-08 12:24:30,342 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 12:24:30,346 INFO  [main] - Total de Divisiones:13
+2016-03-08 12:24:30,349 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 12:24:30,410 INFO  [main] - Total de Zonas:2
+2016-03-08 12:24:31,766 INFO  [main] - The email was sent successfully.
+2016-03-08 12:24:31,767 INFO  [main] - Proceso terminado
+2016-03-08 13:37:33,334 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 13:37:42,122 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 13:37:42,125 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 13:37:42,127 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 13:37:42,128 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 13:37:42,156 INFO  [main] - Total de regiones:3
+2016-03-08 13:37:42,156 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 13:37:42,169 INFO  [main] - Total de Divisiones:13
+2016-03-08 13:37:42,172 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 13:37:42,309 INFO  [main] - Total de Zonas:2
+2016-03-08 13:37:43,611 INFO  [main] - The email was sent successfully.
+2016-03-08 13:37:43,614 INFO  [main] - Proceso terminado
+2016-03-08 13:42:00,682 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 13:42:09,454 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 13:42:09,455 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 13:42:09,456 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 13:42:09,459 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 13:42:09,467 INFO  [main] - Total de regiones:3
+2016-03-08 13:42:09,467 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 13:42:09,472 INFO  [main] - Total de Divisiones:13
+2016-03-08 13:42:09,476 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 13:42:09,566 INFO  [main] - Total de Zonas:2
+2016-03-08 13:42:10,710 INFO  [main] - The email was sent successfully.
+2016-03-08 13:42:10,711 INFO  [main] - Proceso terminado
+2016-03-08 14:07:40,533 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:07:49,309 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:07:49,310 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:07:49,310 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:07:49,313 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:07:49,367 INFO  [main] - Total de regiones:3
+2016-03-08 14:07:49,367 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:07:49,384 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:07:49,387 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:07:49,563 INFO  [main] - Total de Zonas:2
+2016-03-08 14:07:50,687 INFO  [main] - The email was sent successfully.
+2016-03-08 14:07:50,691 INFO  [main] - Proceso terminado
+2016-03-08 14:18:15,932 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:18:24,278 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:18:24,281 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:18:24,282 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:18:24,285 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:18:24,293 INFO  [main] - Total de regiones:3
+2016-03-08 14:18:24,294 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:18:24,300 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:18:24,303 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:18:24,356 INFO  [main] - Total de Zonas:2
+2016-03-08 14:18:25,506 INFO  [main] - The email was sent successfully.
+2016-03-08 14:18:25,507 INFO  [main] - Proceso terminado
+2016-03-08 14:28:00,249 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:28:08,708 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:28:08,709 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:28:08,710 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:28:08,712 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:28:08,783 INFO  [main] - Total de regiones:3
+2016-03-08 14:28:08,784 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:28:08,808 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:28:08,818 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:28:08,924 INFO  [main] - Total de Zonas:2
+2016-03-08 14:28:10,116 INFO  [main] - The email was sent successfully.
+2016-03-08 14:28:10,117 INFO  [main] - Proceso terminado
+2016-03-08 14:30:26,868 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:30:35,436 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:30:35,437 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:30:35,438 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:30:35,441 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:30:35,505 INFO  [main] - Total de regiones:3
+2016-03-08 14:30:35,505 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:30:35,522 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:30:35,527 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:30:35,646 INFO  [main] - Total de Zonas:2
+2016-03-08 14:30:36,794 INFO  [main] - The email was sent successfully.
+2016-03-08 14:30:36,795 INFO  [main] - Proceso terminado
+2016-03-08 14:31:01,686 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:31:09,737 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:31:09,741 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:31:09,744 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:31:09,746 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:31:09,751 INFO  [main] - Total de regiones:3
+2016-03-08 14:31:09,752 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:31:09,756 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:31:09,760 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:31:09,818 INFO  [main] - Total de Zonas:2
+2016-03-08 14:31:10,940 INFO  [main] - The email was sent successfully.
+2016-03-08 14:31:10,941 INFO  [main] - Proceso terminado
+2016-03-08 14:43:36,001 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:43:44,215 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:43:44,216 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:43:44,217 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:43:44,220 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:43:44,227 INFO  [main] - Total de regiones:3
+2016-03-08 14:43:44,228 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:43:44,236 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:43:44,249 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:43:44,296 INFO  [main] - Total de Zonas:2
+2016-03-08 14:43:45,338 INFO  [main] - The email was sent successfully.
+2016-03-08 14:43:45,339 INFO  [main] - Proceso terminado
+2016-03-08 14:53:50,482 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 14:53:58,733 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 14:53:58,734 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 14:53:58,735 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 14:53:58,741 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 14:53:58,745 INFO  [main] - Total de regiones:3
+2016-03-08 14:53:58,746 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 14:53:58,749 INFO  [main] - Total de Divisiones:13
+2016-03-08 14:53:58,753 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 14:53:58,827 INFO  [main] - Total de Zonas:2
+2016-03-08 14:53:59,979 INFO  [main] - The email was sent successfully.
+2016-03-08 14:53:59,979 INFO  [main] - Proceso terminado
+2016-03-08 15:08:42,135 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 15:08:52,353 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 15:08:52,354 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 15:08:52,359 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 15:08:52,360 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 15:08:52,370 INFO  [main] - Total de regiones:3
+2016-03-08 15:08:52,371 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 15:08:52,379 INFO  [main] - Total de Divisiones:13
+2016-03-08 15:08:52,384 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 15:08:52,464 INFO  [main] - Total de Zonas:2
+2016-03-08 15:12:37,652 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 15:12:48,090 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 15:12:48,091 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 15:12:48,096 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 15:12:48,097 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 15:12:48,102 INFO  [main] - Total de regiones:3
+2016-03-08 15:12:48,103 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 15:12:48,111 INFO  [main] - Total de Divisiones:13
+2016-03-08 15:12:48,115 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 15:12:48,182 INFO  [main] - Total de Zonas:2
+2016-03-08 15:12:49,059 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:12:49,060 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:12:49,072 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:12:49,898 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:12:49,901 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:12:49,901 ERROR [main] - Error en registro 'C': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:12:49,904 ERROR [main] - Error en registro 'S': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:12:49,906 ERROR [main] - Error en registro 'N': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:12:49,907 INFO  [main] - success:0, errors:3
+2016-03-08 15:12:51,246 INFO  [main] - The email was sent successfully.
+2016-03-08 15:12:51,247 INFO  [main] - Proceso terminado
+2016-03-08 15:27:50,723 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 15:28:01,379 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 15:28:01,381 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 15:28:01,382 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 15:28:01,383 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 15:28:01,389 INFO  [main] - Total de regiones:3
+2016-03-08 15:28:01,390 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 15:28:01,398 INFO  [main] - Total de Divisiones:13
+2016-03-08 15:28:01,403 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 15:28:01,469 INFO  [main] - Total de Zonas:2
+2016-03-08 15:28:02,412 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:28:02,413 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:28:02,425 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:28:02,967 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:28:02,967 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:28:02,968 ERROR [main] - Error en registro 'C': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:28:02,968 ERROR [main] - Error en registro 'S': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:28:02,968 ERROR [main] - Error en registro 'N': More than 1 field provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 15:28:02,969 INFO  [main] - success:0, errors:3
+2016-03-08 15:28:04,342 INFO  [main] - The email was sent successfully.
+2016-03-08 15:28:04,343 INFO  [main] - Proceso terminado
+2016-03-08 15:37:32,857 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 15:37:43,727 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 15:37:43,728 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 15:37:43,729 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 15:37:43,730 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 15:37:43,738 INFO  [main] - Total de regiones:3
+2016-03-08 15:37:43,739 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 15:37:43,747 INFO  [main] - Total de Divisiones:13
+2016-03-08 15:37:43,754 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 15:37:43,825 INFO  [main] - Total de Zonas:2
+2016-03-08 15:37:44,757 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:37:44,757 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:37:44,769 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:37:46,046 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:37:46,047 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:37:46,784 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:37:46,784 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:37:46,786 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:37:47,827 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:37:47,828 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:37:47,829 ERROR [main] - Error en registro 'C': Foreign key external ID: 0000000o not found for field Registro__c in entity Contact (INVALID_FIELD)
+2016-03-08 15:37:47,830 ERROR [main] - Error en registro 'S': Solo puede seleccionar contactos cuyo tipo de registro es &quot;Gerente&quot; (FIELD_FILTER_VALIDATION_EXCEPTION)
+2016-03-08 15:37:47,831 ERROR [main] - Error en registro 'N': Solo puede seleccionar contactos cuyo tipo de registro es &quot;Gerente&quot; (FIELD_FILTER_VALIDATION_EXCEPTION)
+2016-03-08 15:37:47,832 INFO  [main] - success:0, errors:3
+2016-03-08 15:37:49,045 INFO  [main] - The email was sent successfully.
+2016-03-08 15:37:49,046 INFO  [main] - Proceso terminado
+2016-03-08 15:40:43,229 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 15:40:53,018 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 15:40:53,019 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 15:40:53,021 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 15:40:53,022 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 15:40:53,032 INFO  [main] - Total de regiones:3
+2016-03-08 15:40:53,034 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 15:40:53,040 INFO  [main] - Total de Divisiones:13
+2016-03-08 15:40:53,046 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 15:40:53,144 INFO  [main] - Total de Zonas:2
+2016-03-08 15:40:53,956 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:40:53,957 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:40:53,967 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:40:54,614 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:40:54,615 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:40:55,398 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 15:40:55,399 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 15:40:55,400 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 15:40:56,136 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 15:40:56,137 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 15:40:56,138 ERROR [main] - Error en registro 'C': Foreign key external ID: 0000000o not found for field Registro__c in entity Contact (INVALID_FIELD)
+2016-03-08 15:40:56,139 INFO  [main] - success:2, errors:1
+2016-03-08 15:40:57,572 INFO  [main] - The email was sent successfully.
+2016-03-08 15:40:57,573 INFO  [main] - Proceso terminado
+2016-03-08 16:54:07,191 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 16:54:19,283 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-08 16:54:19,285 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-08 16:54:19,286 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-08 16:54:19,287 INFO  [main] - Parseando archivo:region.txt
+2016-03-08 16:54:19,298 INFO  [main] - Total de regiones:3
+2016-03-08 16:54:19,299 INFO  [main] - Parseando archivo:division.txt
+2016-03-08 16:54:19,307 INFO  [main] - Total de Divisiones:13
+2016-03-08 16:54:19,314 INFO  [main] - Parseando archivo:zona.txt
+2016-03-08 16:54:19,381 INFO  [main] - Total de Zonas:2
+2016-03-08 16:54:19,987 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 16:54:19,989 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 16:54:19,999 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 16:54:20,613 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 16:54:20,616 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 16:54:21,386 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 3 registros
+2016-03-08 16:54:21,387 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 16:54:21,387 INFO  [main] - Contenido del Array con UPSERT 3 registros
+2016-03-08 16:54:21,929 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 16:54:21,930 INFO  [main] - Contenido del Array de Resultados 3 registros
+2016-03-08 16:54:21,931 ERROR [main] - El error es [Lcom.sforce.soap.enterprise.Error;@3adcc812
+2016-03-08 16:54:21,932 ERROR [main] - Error en registro 'C': Foreign key external ID: 0000000o not found for field Registro__c in entity Contact (INVALID_FIELD)
+2016-03-08 16:54:21,933 INFO  [main] - success:2, errors:1
+2016-03-08 16:54:23,209 INFO  [main] - The email was sent successfully.
+2016-03-08 16:54:23,210 INFO  [main] - Proceso terminado
+2016-03-08 17:38:23,226 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 17:38:32,768 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 17:38:32,769 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 17:38:32,770 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 17:38:32,773 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 17:38:32,782 INFO  [main] - Total de regiones:1
+2016-03-08 17:38:32,782 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 17:38:32,789 INFO  [main] - Total de Divisiones:1
+2016-03-08 17:38:32,792 INFO  [main] - Parseando archivo:zona.csv
+2016-03-08 17:38:32,964 INFO  [main] - Total de Zonas:1
+2016-03-08 17:38:33,593 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-08 17:38:33,596 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 17:38:33,621 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-08 17:38:34,195 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 17:38:34,195 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-08 17:38:34,840 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-08 17:38:34,841 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 17:38:34,841 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-08 17:38:35,366 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 17:38:35,367 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-08 17:38:35,367 ERROR [main] - Error en registro '0': Foreign key external ID: 0000000~ not found for field Registro__c in entity Contact (INVALID_FIELD)
+2016-03-08 17:38:35,370 INFO  [main] - success:0, errors:1
+2016-03-08 17:38:36,694 INFO  [main] - The email was sent successfully.
+2016-03-08 17:38:36,695 INFO  [main] - Proceso terminado
+2016-03-08 17:54:48,373 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 17:54:59,096 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 17:54:59,098 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 17:54:59,099 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 17:54:59,100 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 17:54:59,339 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 17:55:10,085 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 17:55:10,087 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 17:55:10,088 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 17:55:10,089 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 17:58:35,080 INFO  [main] - Total de regiones:1
+2016-03-08 17:58:35,085 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 18:01:03,983 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 18:01:14,315 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 18:01:14,317 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 18:01:14,318 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 18:01:14,321 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 20:09:09,385 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 20:09:18,684 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 20:09:18,685 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 20:09:18,686 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 20:09:18,687 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 20:10:43,640 INFO  [main] - Total de regiones:1
+2016-03-08 20:10:48,695 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 20:11:43,987 INFO  [main] - Total de Divisiones:1
+2016-03-08 20:11:47,876 INFO  [main] - Parseando archivo:zona.csv
+2016-03-08 20:16:33,295 INFO  [main] - Registro: 00000000
+2016-03-08 20:16:37,506 INFO  [main] - Registro: 00000000
+2016-03-08 20:16:56,454 INFO  [main] - Registro: 00000003
+2016-03-08 20:20:12,352 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 20:20:20,937 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 20:20:20,938 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 20:20:20,939 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 20:20:20,940 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 20:35:14,310 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 20:35:22,541 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 20:35:22,542 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 20:35:22,543 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 20:35:22,544 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 20:36:18,456 INFO  [main] - Total de regiones:1
+2016-03-08 20:36:18,462 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 21:07:20,929 INFO  [main] - Total de Divisiones:1
+2016-03-08 21:07:22,180 INFO  [main] - Parseando archivo:zona.csv
+2016-03-08 21:13:29,816 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 21:13:39,744 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 21:13:39,745 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 21:13:39,746 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 21:13:39,747 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 21:17:18,203 INFO  [main] - Variable:0000000~
+2016-03-08 21:17:28,674 INFO  [main] - Variable:0000000~
+2016-03-08 21:40:22,633 INFO  [main] - Variable:0000000~
+2016-03-08 21:41:06,722 INFO  [main] - Total de regiones:1
+2016-03-08 21:41:09,297 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 21:41:17,767 INFO  [main] - Variable:00000003
+2016-03-08 21:41:18,858 INFO  [main] - Variable:00000002
+2016-03-08 21:42:19,203 INFO  [main] - Variable:00000004
+2016-03-08 21:42:21,992 INFO  [main] - Variable:00000001
+2016-03-08 21:43:33,404 INFO  [main] - Variable:00000004
+2016-03-08 21:44:17,835 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 21:44:27,393 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 21:44:27,394 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 21:44:27,395 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 21:44:27,396 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 21:46:06,352 INFO  [main] - Variable:0000000~
+2016-03-08 21:46:07,571 INFO  [main] - Variable:0000000~
+2016-03-08 21:46:08,939 INFO  [main] - Variable:0000000~
+2016-03-08 21:46:11,695 INFO  [main] - Variable:0000000~
+2016-03-08 21:46:27,774 INFO  [main] - Total de regiones:1
+2016-03-08 21:46:30,450 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 21:46:38,062 INFO  [main] - Variable:00000003
+2016-03-08 21:46:58,170 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 21:47:06,506 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 21:47:06,507 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 21:47:06,507 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 21:47:06,508 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 21:47:06,511 INFO  [main] - Variable:0000000~
+2016-03-08 21:47:06,512 INFO  [main] - Variable:0000000~
+2016-03-08 21:47:06,513 INFO  [main] - Variable:0000000~
+2016-03-08 21:47:06,517 INFO  [main] - Variable:0000000~
+2016-03-08 21:47:06,517 INFO  [main] - Total de regiones:1
+2016-03-08 21:47:06,517 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 21:47:06,521 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,522 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,523 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,523 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,524 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,524 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,525 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,526 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,527 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,528 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,528 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,529 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,529 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,530 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,531 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,531 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,531 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,532 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,533 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,534 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,534 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,535 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,535 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,535 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,536 INFO  [main] - Total de Divisiones:1
+2016-03-08 21:47:06,536 INFO  [main] - Parseando archivo:zona.csv
+2016-03-08 21:47:06,538 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,539 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,539 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,539 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,540 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,540 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,540 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,541 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,541 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,542 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,542 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,542 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,543 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,543 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,544 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,544 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,545 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,545 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,545 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,546 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,546 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,547 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,547 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,548 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,548 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,548 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,549 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,550 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,550 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,550 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,551 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,551 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,552 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,552 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,553 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,553 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,554 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,554 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,555 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,555 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,555 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,556 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,556 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,557 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,557 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,557 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,557 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,558 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,558 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,558 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,559 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,559 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,560 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,561 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,563 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,564 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,564 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,565 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,565 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,565 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,566 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,566 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,566 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,567 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,568 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,568 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,574 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,574 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,575 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,575 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,576 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,577 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,578 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,579 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,580 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,581 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,584 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,587 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,589 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,590 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,590 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,591 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,591 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,596 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,597 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,598 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,598 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,601 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,603 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,607 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,609 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,611 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,613 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,614 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,615 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,616 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,617 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,617 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,619 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,638 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,639 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,639 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,639 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,640 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,640 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,641 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,660 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,662 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,665 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,667 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,669 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,671 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,673 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,675 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,676 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,676 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,676 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,677 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,677 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,677 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,677 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,678 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,678 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,678 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,679 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,679 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,679 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,680 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,680 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,680 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,681 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,681 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,681 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,682 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,682 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,684 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,684 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,685 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,685 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,685 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,686 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,686 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,686 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,687 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,687 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,687 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,689 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,694 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,694 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,695 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,696 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,696 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,696 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,697 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,697 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,697 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,698 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,698 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,698 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,699 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,710 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,710 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,715 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,719 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,720 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,720 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,720 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,721 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,721 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,721 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,721 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,722 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,722 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,722 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,723 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,723 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,723 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,723 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,724 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,726 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,728 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,729 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,731 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,732 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,732 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,732 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,735 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,737 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,738 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,739 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,739 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,740 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,740 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,740 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,741 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,741 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,741 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,742 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,743 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,745 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,746 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,746 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,746 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,759 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,759 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,760 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,760 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,760 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,761 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,763 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,763 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,763 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,765 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,766 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,767 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,768 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,768 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,768 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,769 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,769 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,769 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,770 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,770 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,770 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,770 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,771 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,771 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,771 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,771 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,772 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,772 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,772 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,772 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,773 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,773 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,773 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,773 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,774 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,774 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,774 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,774 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,775 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,775 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,776 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,776 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,776 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,777 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,777 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,777 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,777 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,778 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,778 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,778 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,779 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,779 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,779 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,780 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,780 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,781 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,784 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,784 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,784 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,785 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,785 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,786 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,786 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,787 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,787 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,787 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,788 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,788 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,788 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,789 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,789 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,789 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,789 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,790 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,790 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,790 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,790 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,790 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,791 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,791 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,791 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,791 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,792 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,792 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,792 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,792 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,793 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,793 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,793 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,793 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,793 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,796 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,798 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,800 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,812 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,864 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,866 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,866 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,866 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,867 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,867 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,867 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,867 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,867 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,868 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,868 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,868 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,869 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,869 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,869 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,869 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,870 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,873 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,873 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,873 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,874 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,874 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,874 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,875 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,875 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,875 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,875 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,876 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,876 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,883 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,883 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,883 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,883 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,884 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,884 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,884 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,884 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,885 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,885 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,885 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,886 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,886 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,886 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,886 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,886 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,887 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,887 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,887 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,887 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,888 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,888 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,888 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,888 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,889 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,892 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,892 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,893 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,893 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,894 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,894 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,894 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,894 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,895 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,895 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,895 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,895 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,896 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,896 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,896 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,896 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,896 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,897 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,898 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,898 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,899 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,899 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,899 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,900 INFO  [main] - Variable:00000001
+2016-03-08 21:47:06,901 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,901 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,901 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,902 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,902 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,902 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,902 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,903 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,903 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,903 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,903 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,903 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,904 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,904 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,904 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,904 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,904 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,905 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,905 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,905 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,905 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,906 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,907 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,908 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,909 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,910 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,911 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,912 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,913 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,914 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,914 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,914 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,914 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,915 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,915 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,915 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,915 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,916 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,917 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,917 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,917 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,918 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,918 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,918 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,918 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,918 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,919 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,920 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,920 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,920 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,921 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,926 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,928 INFO  [main] - Variable:00000002
+2016-03-08 21:47:06,928 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,928 INFO  [main] - Variable:00000004
+2016-03-08 21:47:06,928 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,929 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,930 INFO  [main] - Variable:00000003
+2016-03-08 21:47:06,931 INFO  [main] - Total de Zonas:4
+2016-03-08 21:47:07,440 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-08 21:47:07,440 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 21:47:07,445 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-08 21:47:08,087 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 21:47:08,089 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-08 21:47:08,705 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-08 21:47:08,705 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-08 21:47:08,706 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-08 21:47:09,095 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-08 21:47:09,096 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-08 21:47:09,097 ERROR [main] - Error en registro '0': No fields provided in an external foreign key reference in entity: Contact (INVALID_FIELD)
+2016-03-08 21:47:09,097 INFO  [main] - success:0, errors:1
+2016-03-08 21:47:10,316 INFO  [main] - The email was sent successfully.
+2016-03-08 21:47:10,316 INFO  [main] - Proceso terminado
+2016-03-08 21:54:36,929 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-08 21:54:45,507 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.csv
+2016-03-08 21:54:45,508 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.csv
+2016-03-08 21:54:45,509 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.csv
+2016-03-08 21:54:45,510 INFO  [main] - Parseando archivo:region.csv
+2016-03-08 21:54:52,574 INFO  [main] - Variable:0000000~
+2016-03-08 21:55:13,531 INFO  [main] - Variable:0000000~
+2016-03-08 21:55:40,160 INFO  [main] - Variable:0000000~
+2016-03-08 21:55:42,072 INFO  [main] - Variable:0000000~
+2016-03-08 21:55:58,120 INFO  [main] - Total de regiones:1
+2016-03-08 21:56:04,662 INFO  [main] - Parseando archivo:division.csv
+2016-03-08 21:56:16,582 INFO  [main] - Variable:00000003
+2016-03-08 21:56:21,477 INFO  [main] - Variable:00000002
+2016-03-08 21:56:43,776 INFO  [main] - Variable:00000004
+2016-03-08 21:57:08,409 INFO  [main] - Variable:00000001
+2016-03-08 21:57:11,319 INFO  [main] - Variable:00000004
+2016-03-08 21:57:12,505 INFO  [main] - Variable:00000003
+2016-03-08 21:57:13,724 INFO  [main] - Variable:00000001
+2016-03-08 21:57:15,106 INFO  [main] - Variable:00000003
+2016-03-08 21:57:16,486 INFO  [main] - Variable:00000001
+2016-03-08 21:57:17,894 INFO  [main] - Variable:00000004
+2016-03-08 21:57:18,939 INFO  [main] - Variable:00000002
+2016-03-08 21:57:20,042 INFO  [main] - Variable:00000001

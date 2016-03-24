@@ -1,0 +1,1791 @@
+2016-03-10 09:31:24,387 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 09:31:37,332 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 09:31:37,385 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 09:31:37,386 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 09:31:37,387 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 09:31:37,419 INFO  [main] - Total de regiones:4
+2016-03-10 09:31:37,420 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 09:31:37,453 INFO  [main] - Total de Divisiones:1
+2016-03-10 09:31:37,453 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 09:31:37,521 INFO  [main] - Total de Zonas:2
+2016-03-10 09:31:37,522 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 09:31:38,548 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 09:31:38,549 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 09:31:38,562 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 09:32:56,999 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 09:33:09,378 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 09:33:09,380 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 09:33:09,380 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 09:33:09,381 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 09:33:09,388 INFO  [main] - Total de regiones:4
+2016-03-10 09:33:09,389 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 09:33:09,394 INFO  [main] - Total de Divisiones:1
+2016-03-10 09:33:09,396 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 09:33:09,429 INFO  [main] - Total de Zonas:2
+2016-03-10 09:33:20,105 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 09:33:42,000 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 09:33:42,002 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 09:33:42,010 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 09:35:58,153 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 09:36:09,288 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 09:36:09,289 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 09:36:09,289 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 09:36:09,291 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 09:36:09,295 INFO  [main] - Total de regiones:4
+2016-03-10 09:36:09,295 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 09:36:09,297 INFO  [main] - Total de Divisiones:1
+2016-03-10 09:36:09,299 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 09:36:09,316 INFO  [main] - Total de Zonas:2
+2016-03-10 09:36:35,172 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 09:38:12,284 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 09:38:13,473 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 09:38:26,006 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 09:38:26,007 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 09:38:26,007 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 09:38:26,008 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 09:38:26,022 INFO  [main] - Total de regiones:4
+2016-03-10 09:38:26,023 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 09:38:26,035 INFO  [main] - Total de Divisiones:1
+2016-03-10 09:38:26,036 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 09:38:26,070 INFO  [main] - Total de Zonas:2
+2016-03-10 09:38:27,321 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 09:38:27,321 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 09:38:27,322 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 09:38:27,322 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 09:38:27,325 INFO  [main] - Total de regiones:4
+2016-03-10 09:38:27,326 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 09:38:27,328 INFO  [main] - Total de Divisiones:1
+2016-03-10 09:38:27,330 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 09:38:27,347 INFO  [main] - Total de Zonas:2
+2016-03-10 09:38:32,396 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 09:38:52,551 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 09:38:52,553 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 09:38:52,562 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 10:24:16,793 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 10:24:26,176 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 10:24:26,224 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 10:24:26,224 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 10:24:26,226 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 10:24:50,060 INFO  [main] - Total de regiones:4
+2016-03-10 10:24:54,219 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 10:25:04,874 INFO  [main] - Total de Divisiones:1
+2016-03-10 10:25:10,501 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 10:25:23,848 INFO  [main] - Total de Zonas:2
+2016-03-10 10:25:44,580 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 10:32:21,551 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@57f791c6
+2016-03-10 10:32:22,713 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 10:32:22,714 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 10:32:22,720 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 10:33:21,523 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 10:33:30,695 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 10:33:30,696 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 10:33:30,697 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 10:33:30,698 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 10:33:30,704 INFO  [main] - Total de regiones:4
+2016-03-10 10:33:30,704 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 10:33:30,708 INFO  [main] - Total de Divisiones:1
+2016-03-10 10:33:30,708 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 10:33:30,731 INFO  [main] - Total de Zonas:2
+2016-03-10 10:33:46,265 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 10:44:50,167 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6c4f9535
+2016-03-10 10:44:51,273 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 10:44:51,274 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 10:44:51,280 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 10:45:06,876 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 10:45:16,399 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 10:45:16,400 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 10:45:16,401 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 10:45:16,402 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 10:45:16,410 INFO  [main] - Total de regiones:4
+2016-03-10 10:45:16,411 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 10:45:16,416 INFO  [main] - Total de Divisiones:1
+2016-03-10 10:45:16,421 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 10:45:16,437 INFO  [main] - Total de Zonas:2
+2016-03-10 11:06:17,460 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 11:10:44,714 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 11:10:56,530 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 11:10:56,531 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 11:10:56,532 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 11:10:56,533 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 11:10:56,598 INFO  [main] - Total de regiones:4
+2016-03-10 11:10:56,598 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 11:10:56,613 INFO  [main] - Total de Divisiones:1
+2016-03-10 11:10:56,614 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 11:10:56,664 INFO  [main] - Total de Zonas:2
+2016-03-10 11:11:03,775 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 11:11:03,780 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 11:11:04,438 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 11:11:04,438 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 11:11:04,447 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 11:11:09,173 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6c451c9c
+2016-03-10 11:11:09,173 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 11:11:09,177 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 11:11:49,940 ERROR [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 11:11:53,141 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@4e9658b5
+2016-03-10 11:11:54,003 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 11:11:54,005 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 11:11:54,006 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 11:12:12,618 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@37d3d232
+2016-03-10 11:12:12,619 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 11:12:12,619 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 11:12:12,620 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@4e9658b5
+2016-03-10 11:12:12,620 INFO  [main] - 492252770
+2016-03-10 11:15:28,055 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 11:15:37,865 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 11:15:37,867 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 11:15:37,868 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 11:15:37,869 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 11:15:37,875 INFO  [main] - Total de regiones:4
+2016-03-10 11:15:37,875 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 11:17:00,731 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 11:17:11,356 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 11:17:11,357 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 11:17:11,358 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 11:17:11,359 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 11:17:11,365 INFO  [main] - Total de regiones:4
+2016-03-10 11:17:11,366 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 11:17:22,663 INFO  [main] - Total de Divisiones:1
+2016-03-10 11:17:25,661 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 11:17:25,702 INFO  [main] - Total de Zonas:2
+2016-03-10 11:17:25,704 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 11:17:32,004 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 11:17:32,636 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 11:17:32,637 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 11:17:32,643 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 11:17:38,929 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@32f61a31
+2016-03-10 11:17:38,930 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 11:17:38,930 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 11:18:08,449 ERROR [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 11:18:10,377 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@49a64d82
+2016-03-10 11:18:11,543 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 11:18:11,544 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 11:18:11,546 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 11:18:20,240 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3e2fc448
+2016-03-10 11:18:20,241 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 11:18:20,241 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 11:18:20,241 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@49a64d82
+2016-03-10 11:18:20,242 INFO  [main] - 764358458
+2016-03-10 11:18:38,031 INFO  [main] - success:4, errors:0
+2016-03-10 11:48:20,048 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 11:48:31,135 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 11:48:31,136 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 11:48:31,137 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 11:48:31,138 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 11:48:31,145 INFO  [main] - Total de regiones:4
+2016-03-10 11:48:31,146 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 11:48:31,151 INFO  [main] - Total de Divisiones:1
+2016-03-10 11:48:31,152 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 11:48:31,168 INFO  [main] - Total de Zonas:2
+2016-03-10 12:37:46,567 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 12:37:56,121 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 12:37:56,122 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 12:37:56,122 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 12:37:56,123 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 12:37:56,142 INFO  [main] - Total de regiones:4
+2016-03-10 12:37:56,143 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 12:37:56,155 INFO  [main] - Total de Divisiones:1
+2016-03-10 12:37:56,157 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 12:37:56,183 INFO  [main] - Total de Zonas:2
+2016-03-10 12:37:56,183 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 12:37:56,189 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 12:37:56,905 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 12:37:56,906 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 12:37:56,920 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 12:38:07,662 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 12:38:07,663 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 12:38:07,663 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 12:39:03,327 ERROR [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 12:39:09,618 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@32f61a31
+2016-03-10 12:39:10,647 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 12:39:10,648 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 12:39:10,650 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 12:39:16,793 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1804f60d
+2016-03-10 12:39:16,794 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 12:39:16,795 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 12:39:16,796 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@32f61a31
+2016-03-10 12:39:16,797 INFO  [main] - 456785282
+2016-03-10 12:40:06,621 ERROR [main] - Error actualizando registros:null
+2016-03-10 12:42:01,114 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 12:42:09,299 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@c8b96ec
+2016-03-10 12:42:10,326 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 12:42:10,327 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 12:42:10,329 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 12:42:15,828 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@24855019
+2016-03-10 12:42:15,829 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 12:42:15,829 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 12:43:05,534 ERROR [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@c8b96ec
+2016-03-10 12:43:07,748 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3fabf088
+2016-03-10 12:43:08,714 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 12:43:08,715 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 12:43:08,717 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 12:43:20,091 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@169da7f2
+2016-03-10 12:43:20,092 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 12:43:20,093 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 12:43:20,094 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3fabf088
+2016-03-10 12:43:20,094 INFO  [main] - 1455177644
+2016-03-10 12:44:47,377 ERROR [main] - Error actualizando registros:null
+2016-03-10 13:05:01,980 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:05:12,751 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:05:12,752 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:05:12,753 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:05:12,754 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:05:12,781 INFO  [main] - Total de regiones:4
+2016-03-10 13:05:12,781 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:05:12,805 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:05:12,808 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:05:12,878 INFO  [main] - Total de Zonas:2
+2016-03-10 13:05:33,946 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:05:40,338 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 13:05:41,488 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 13:05:41,491 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:05:41,500 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 13:05:47,130 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 13:05:47,131 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:05:47,131 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 13:05:54,201 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 13:05:55,260 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:05:55,261 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:05:55,262 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:06:02,772 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 13:06:02,773 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:06:02,774 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:06:02,775 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 13:06:31,242 ERROR [main] - Error actualizando registros:null
+2016-03-10 13:06:39,480 INFO  [main] - The email was sent successfully.
+2016-03-10 13:06:39,480 INFO  [main] - Proceso terminado
+2016-03-10 13:21:13,131 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:21:24,345 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:21:24,346 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:21:24,347 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:21:24,348 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:21:24,355 INFO  [main] - Total de regiones:4
+2016-03-10 13:21:24,356 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:21:24,362 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:21:24,362 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:21:24,387 INFO  [main] - Total de Zonas:2
+2016-03-10 13:21:32,160 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:21:42,717 ERROR [main] - Error actualizando registros:null
+2016-03-10 13:21:52,241 INFO  [main] - The email was sent successfully.
+2016-03-10 13:21:52,241 INFO  [main] - Proceso terminado
+2016-03-10 13:40:26,139 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:40:37,209 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:40:37,210 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:40:37,211 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:40:37,212 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:40:37,218 INFO  [main] - Total de regiones:4
+2016-03-10 13:40:37,219 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:40:37,227 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:40:37,227 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:42:23,598 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:42:34,242 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:42:34,243 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:42:34,244 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:42:34,245 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:42:34,249 INFO  [main] - Total de regiones:4
+2016-03-10 13:42:34,249 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:42:34,253 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:42:34,255 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:44:00,615 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:44:11,876 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:44:11,876 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:44:11,877 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:44:11,878 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:44:11,882 INFO  [main] - Total de regiones:4
+2016-03-10 13:44:11,883 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:44:11,887 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:44:11,887 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:44:11,912 INFO  [main] - Total de Zonas:2
+2016-03-10 13:44:18,082 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:44:26,449 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 13:44:27,734 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 13:44:27,738 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:44:27,753 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 13:44:36,059 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 13:44:36,059 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:44:36,060 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 13:44:36,061 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 13:44:36,981 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:44:36,982 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:44:36,983 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:44:49,188 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 13:44:49,189 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:44:49,190 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:44:49,191 INFO  [main] - 402978317
+2016-03-10 13:45:37,373 ERROR [main] - Error actualizando registros:null
+2016-03-10 13:46:30,506 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:46:41,893 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:46:41,893 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:46:41,894 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:46:41,895 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:46:41,899 INFO  [main] - Total de regiones:4
+2016-03-10 13:46:41,900 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:46:41,903 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:46:41,904 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:46:41,932 INFO  [main] - Total de Zonas:2
+2016-03-10 13:46:48,725 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:46:55,730 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 13:46:56,793 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 13:46:56,795 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:46:56,806 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 13:47:07,406 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 13:47:07,407 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:47:07,407 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 13:47:07,408 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 13:47:08,312 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:47:08,313 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:47:08,314 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:47:19,625 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 13:47:19,626 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:47:19,627 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:47:19,627 INFO  [main] - 402978317
+2016-03-10 13:47:55,411 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:48:02,750 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c807b1d
+2016-03-10 13:48:03,942 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 13:48:03,943 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:48:03,944 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 13:48:11,648 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@4d0402b
+2016-03-10 13:48:11,649 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:48:11,649 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 13:48:11,650 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3153ddfc
+2016-03-10 13:48:12,954 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:48:12,955 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:48:12,955 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:48:25,754 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5c09d180
+2016-03-10 13:48:25,755 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:48:25,756 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:48:25,759 INFO  [main] - 2057077925
+2016-03-10 13:48:34,625 INFO  [main] - 1
+2016-03-10 13:48:43,340 INFO  [main] - 2
+2016-03-10 13:48:48,212 INFO  [main] - 3
+2016-03-10 13:48:53,946 INFO  [main] - 4
+2016-03-10 13:49:42,235 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@26f1249d
+2016-03-10 13:49:43,597 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:49:43,599 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:49:43,601 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:49:55,833 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6a078481
+2016-03-10 13:49:55,833 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:49:55,833 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:49:55,834 INFO  [main] - 670283478
+2016-03-10 13:50:00,120 INFO  [main] - success:8, errors:0
+2016-03-10 13:58:19,304 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 13:58:29,583 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 13:58:29,584 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 13:58:29,585 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 13:58:29,586 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 13:58:29,592 INFO  [main] - Total de regiones:4
+2016-03-10 13:58:29,592 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 13:58:29,598 INFO  [main] - Total de Divisiones:1
+2016-03-10 13:58:29,602 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 13:58:29,634 INFO  [main] - Total de Zonas:2
+2016-03-10 13:58:29,635 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 13:58:29,639 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 13:58:30,516 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 13:58:30,517 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:58:30,530 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 13:58:31,233 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 13:58:31,237 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:58:31,237 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 13:58:31,237 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 13:58:32,154 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:58:32,155 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:58:32,156 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:58:32,840 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 13:58:32,841 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:58:32,842 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:58:32,843 INFO  [main] - 940087898
+2016-03-10 13:58:32,843 INFO  [main] - 1
+2016-03-10 13:58:32,844 INFO  [main] - 2
+2016-03-10 13:58:32,844 INFO  [main] - 3
+2016-03-10 13:58:32,845 INFO  [main] - 4
+2016-03-10 13:58:32,846 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 13:58:33,663 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 13:58:33,664 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 13:58:33,665 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 13:58:34,276 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 13:58:34,277 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 13:58:34,278 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 13:58:34,279 INFO  [main] - 242282810
+2016-03-10 13:58:34,279 INFO  [main] - success:8, errors:0
+2016-03-10 13:58:35,832 INFO  [main] - The email was sent successfully.
+2016-03-10 13:58:35,833 INFO  [main] - Proceso terminado
+2016-03-10 14:13:20,335 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:13:31,426 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:13:31,427 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:13:31,428 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:13:31,429 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:13:31,457 INFO  [main] - Total de regiones:4
+2016-03-10 14:13:31,457 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:13:31,475 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:13:31,478 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:13:31,532 INFO  [main] - Total de Zonas:2
+2016-03-10 14:13:37,644 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:13:42,126 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 14:13:43,224 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:13:43,227 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:13:43,243 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:13:49,909 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 14:13:49,910 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:13:49,911 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:13:49,911 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 14:13:50,676 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:13:50,676 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:13:50,677 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:14:02,961 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@547e29a4
+2016-03-10 14:14:02,962 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:14:02,963 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:14:02,964 INFO  [main] - 1043317832
+2016-03-10 14:14:09,406 INFO  [main] - 1
+2016-03-10 14:14:14,491 INFO  [main] - 2
+2016-03-10 14:14:21,188 INFO  [main] - 3
+2016-03-10 14:14:29,170 INFO  [main] - 4
+2016-03-10 14:15:04,444 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@2024293c
+2016-03-10 14:15:05,768 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:15:05,770 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:15:05,771 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:15:17,125 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@60afd40d
+2016-03-10 14:15:17,126 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:15:17,127 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:15:17,128 INFO  [main] - 245530164
+2016-03-10 14:15:17,129 INFO  [main] - success:8, errors:0
+2016-03-10 14:15:17,129 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:15:17,130 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1dfd5f51
+2016-03-10 14:15:18,019 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:15:18,021 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:15:18,022 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:15:26,437 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@28b576a9
+2016-03-10 14:15:26,438 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:15:26,438 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:15:26,438 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@18151a14
+2016-03-10 14:15:27,242 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:15:27,242 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:15:27,243 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:15:32,030 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5eefa415
+2016-03-10 14:15:32,031 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:15:32,031 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:15:32,032 INFO  [main] - 215632153
+2016-03-10 14:15:32,033 INFO  [main] - 1
+2016-03-10 14:15:32,033 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@344b8190
+2016-03-10 14:15:32,851 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:15:32,852 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:15:32,852 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:15:43,364 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5aa6202e
+2016-03-10 14:15:43,364 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:15:43,365 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:15:43,366 INFO  [main] - 1657842786
+2016-03-10 14:15:43,366 INFO  [main] - success:5, errors:0
+2016-03-10 14:15:48,633 INFO  [main] - The email was sent successfully.
+2016-03-10 14:15:48,634 INFO  [main] - Proceso terminado
+2016-03-10 14:25:48,258 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:25:59,149 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:25:59,150 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:25:59,151 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:25:59,152 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:25:59,161 INFO  [main] - Total de regiones:4
+2016-03-10 14:25:59,161 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:25:59,167 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:25:59,168 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:25:59,204 INFO  [main] - Total de Zonas:2
+2016-03-10 14:26:32,304 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:26:37,572 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 14:26:38,650 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:26:38,654 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:26:38,669 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:26:47,843 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 14:26:47,844 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:26:47,845 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:26:47,846 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 14:26:48,705 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:26:48,707 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:26:48,712 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:26:58,435 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 14:26:58,435 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:26:58,436 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:26:58,436 INFO  [main] - 402978317
+2016-03-10 14:27:03,412 INFO  [main] - 1
+2016-03-10 14:27:05,261 INFO  [main] - 2
+2016-03-10 14:27:10,123 INFO  [main] - 3
+2016-03-10 14:27:12,818 INFO  [main] - 4
+2016-03-10 14:27:28,895 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@3e2fc448
+2016-03-10 14:27:29,907 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:27:29,909 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:27:29,911 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:27:40,359 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@182b435b
+2016-03-10 14:27:40,360 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:27:40,361 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:27:40,362 INFO  [main] - 923013679
+2016-03-10 14:27:40,363 INFO  [main] - success:8, errors:0
+2016-03-10 14:27:40,363 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:27:40,364 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3f2049b6
+2016-03-10 14:27:41,250 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:27:41,251 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:27:41,252 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:27:46,080 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@50d68830
+2016-03-10 14:27:46,081 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:27:46,082 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:27:46,082 INFO  [main] - 1733619456
+2016-03-10 14:27:46,083 INFO  [main] - 1
+2016-03-10 14:27:46,084 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@a23a01d
+2016-03-10 14:27:46,792 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:27:46,793 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:27:46,794 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:27:49,267 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@78e16155
+2016-03-10 14:27:49,269 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:27:49,270 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:27:49,271 INFO  [main] - 428245792
+2016-03-10 14:27:49,272 INFO  [main] - success:2, errors:0
+2016-03-10 14:27:55,365 INFO  [main] - The email was sent successfully.
+2016-03-10 14:27:55,365 INFO  [main] - Proceso terminado
+2016-03-10 14:32:06,850 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:32:17,821 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:32:17,822 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:32:17,823 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:32:17,824 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:32:17,831 INFO  [main] - Total de regiones:4
+2016-03-10 14:32:17,832 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:32:17,840 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:32:17,841 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:32:17,870 INFO  [main] - Total de Zonas:2
+2016-03-10 14:32:57,693 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:33:03,747 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 14:33:04,889 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:33:04,891 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:33:04,898 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:33:13,889 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 14:33:13,890 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:33:13,891 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:33:13,892 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 14:33:14,741 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:33:14,742 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:33:14,743 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:33:22,652 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 14:33:22,652 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:33:22,653 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:33:22,654 INFO  [main] - 402978317
+2016-03-10 14:33:27,733 INFO  [main] - 1
+2016-03-10 14:33:29,547 INFO  [main] - 2
+2016-03-10 14:33:31,248 INFO  [main] - 3
+2016-03-10 14:33:33,475 INFO  [main] - 4
+2016-03-10 14:33:44,614 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@3e2fc448
+2016-03-10 14:33:45,764 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:33:45,766 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:33:45,768 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:33:50,931 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@182b435b
+2016-03-10 14:33:50,932 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:33:50,933 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:33:50,933 INFO  [main] - 923013679
+2016-03-10 14:33:50,934 INFO  [main] - success:8, errors:0
+2016-03-10 14:33:50,935 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:33:50,936 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3f2049b6
+2016-03-10 14:33:51,841 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:33:51,842 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:33:51,843 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:33:57,842 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@50d68830
+2016-03-10 14:33:57,843 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:33:57,843 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:33:57,844 INFO  [main] - 1733619456
+2016-03-10 14:33:57,845 INFO  [main] - 1
+2016-03-10 14:33:57,846 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@a23a01d
+2016-03-10 14:33:58,593 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:33:58,594 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:33:58,595 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:34:02,767 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@78e16155
+2016-03-10 14:34:02,768 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:34:02,769 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:34:02,770 INFO  [main] - 428245792
+2016-03-10 14:34:02,770 INFO  [main] - success:2, errors:0
+2016-03-10 14:34:02,771 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 14:34:02,773 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3ef41c66
+2016-03-10 14:34:03,913 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 14:34:03,914 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:34:03,915 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 14:35:03,116 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:35:06,469 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:35:12,975 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:35:12,976 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:35:12,978 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:35:12,979 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:35:12,985 INFO  [main] - Total de regiones:4
+2016-03-10 14:35:12,987 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:35:12,991 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:35:12,995 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:35:13,016 INFO  [main] - Total de Zonas:2
+2016-03-10 14:35:13,017 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:35:13,021 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:35:13,651 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:35:13,652 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:13,669 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:35:14,245 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:35:14,246 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:14,247 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:35:14,248 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:35:14,902 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:35:14,903 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:14,903 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:35:15,332 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:35:15,333 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:35:15,334 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:35:15,334 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:35:15,340 INFO  [main] - Total de regiones:4
+2016-03-10 14:35:15,341 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:35:15,346 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:35:15,351 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:35:15,387 INFO  [main] - Total de Zonas:2
+2016-03-10 14:35:15,388 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:35:15,396 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:35:15,484 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:35:15,484 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:15,484 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:35:15,485 INFO  [main] - 940087898
+2016-03-10 14:35:15,485 INFO  [main] - 1
+2016-03-10 14:35:15,485 INFO  [main] - 2
+2016-03-10 14:35:15,486 INFO  [main] - 3
+2016-03-10 14:35:15,486 INFO  [main] - 4
+2016-03-10 14:35:15,487 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:35:16,070 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:35:16,071 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:16,081 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:35:16,269 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:35:16,270 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:16,273 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:35:16,659 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:35:16,662 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:16,664 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:35:16,667 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:35:16,797 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:35:16,798 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:16,799 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:35:16,799 INFO  [main] - 242282810
+2016-03-10 14:35:16,800 INFO  [main] - success:8, errors:0
+2016-03-10 14:35:16,800 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:35:16,801 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@42b02722
+2016-03-10 14:35:17,262 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:35:17,263 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:17,264 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:35:17,400 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:35:17,400 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:17,400 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:35:17,776 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:35:17,776 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:17,777 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:35:17,778 INFO  [main] - 940087898
+2016-03-10 14:35:17,778 INFO  [main] - 1
+2016-03-10 14:35:17,779 INFO  [main] - 2
+2016-03-10 14:35:17,779 INFO  [main] - 3
+2016-03-10 14:35:17,780 INFO  [main] - 4
+2016-03-10 14:35:17,780 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:35:17,978 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6b88ca8c
+2016-03-10 14:35:17,979 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:17,979 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:35:17,980 INFO  [main] - 434437292
+2016-03-10 14:35:17,980 INFO  [main] - 1
+2016-03-10 14:35:17,980 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@53941c2f
+2016-03-10 14:35:18,478 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:35:18,479 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:18,480 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:35:18,672 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:35:18,672 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:18,673 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:35:19,019 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:35:19,019 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:19,020 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:35:19,021 INFO  [main] - 242282810
+2016-03-10 14:35:19,022 INFO  [main] - success:8, errors:0
+2016-03-10 14:35:19,022 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:35:19,023 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@42b02722
+2016-03-10 14:35:19,115 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1f010bf0
+2016-03-10 14:35:19,116 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:19,117 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:35:19,117 INFO  [main] - 250112971
+2016-03-10 14:35:19,118 INFO  [main] - success:2, errors:0
+2016-03-10 14:35:19,119 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 14:35:19,120 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@2631f68c
+2016-03-10 14:35:19,800 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:35:19,800 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:19,801 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:35:19,816 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 14:35:19,817 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:19,818 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 14:35:20,344 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6b88ca8c
+2016-03-10 14:35:20,344 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:20,344 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:35:20,344 INFO  [main] - 434437292
+2016-03-10 14:35:20,345 INFO  [main] - 1
+2016-03-10 14:35:20,345 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@53941c2f
+2016-03-10 14:35:21,081 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:35:21,082 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:21,083 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:35:21,635 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1f010bf0
+2016-03-10 14:35:21,636 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:35:21,637 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:35:21,638 INFO  [main] - 250112971
+2016-03-10 14:35:21,639 INFO  [main] - success:2, errors:0
+2016-03-10 14:35:21,639 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 14:35:21,640 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@2631f68c
+2016-03-10 14:35:22,545 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 14:35:22,546 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:35:22,546 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 14:37:18,312 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:37:29,324 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:37:29,326 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:37:29,326 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:37:29,327 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:37:29,334 INFO  [main] - Total de regiones:4
+2016-03-10 14:37:29,335 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:37:29,340 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:37:29,344 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:37:29,365 INFO  [main] - Total de Zonas:2
+2016-03-10 14:37:29,368 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:37:29,374 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:37:30,052 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:37:30,053 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:30,064 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:37:30,694 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:37:30,699 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:30,704 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:37:30,708 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:37:31,459 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:37:31,459 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:31,463 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:37:32,086 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:37:32,087 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:32,088 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:37:32,088 INFO  [main] - 940087898
+2016-03-10 14:37:32,089 INFO  [main] - 1
+2016-03-10 14:37:32,089 INFO  [main] - 2
+2016-03-10 14:37:32,090 INFO  [main] - 3
+2016-03-10 14:37:32,090 INFO  [main] - 4
+2016-03-10 14:37:32,091 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:37:32,813 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:37:32,814 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:32,814 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:37:33,327 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:37:33,327 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:33,328 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:37:33,329 INFO  [main] - 242282810
+2016-03-10 14:37:33,329 INFO  [main] - success:8, errors:0
+2016-03-10 14:37:33,330 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:37:33,330 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@42b02722
+2016-03-10 14:37:34,140 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:37:34,141 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:34,142 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:37:34,836 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6b88ca8c
+2016-03-10 14:37:34,837 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:34,837 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:37:34,838 INFO  [main] - 434437292
+2016-03-10 14:37:34,838 INFO  [main] - 1
+2016-03-10 14:37:34,839 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@53941c2f
+2016-03-10 14:37:35,777 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:37:35,778 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:35,778 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:37:36,294 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1f010bf0
+2016-03-10 14:37:36,294 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:36,295 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:37:36,296 INFO  [main] - 250112971
+2016-03-10 14:37:36,296 INFO  [main] - success:2, errors:0
+2016-03-10 14:37:36,297 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 14:37:36,298 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@2631f68c
+2016-03-10 14:37:37,088 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 14:37:37,089 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:37,089 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 14:37:45,214 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:37:55,642 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:37:55,644 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:37:55,645 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:37:55,646 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:37:55,653 INFO  [main] - Total de regiones:4
+2016-03-10 14:37:55,654 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:37:55,659 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:37:55,665 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:37:55,696 INFO  [main] - Total de Zonas:2
+2016-03-10 14:37:55,696 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:37:55,700 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:37:56,570 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:37:56,571 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:56,584 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:37:57,237 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:37:57,238 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:57,238 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:37:57,239 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:37:58,096 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:37:58,097 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:58,098 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:37:58,814 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:37:58,815 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:37:58,815 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:37:58,816 INFO  [main] - 940087898
+2016-03-10 14:37:58,817 INFO  [main] - 1
+2016-03-10 14:37:58,817 INFO  [main] - 2
+2016-03-10 14:37:58,818 INFO  [main] - 3
+2016-03-10 14:37:58,819 INFO  [main] - 4
+2016-03-10 14:37:58,819 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:37:59,623 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:37:59,623 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:37:59,624 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:38:00,254 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:38:00,255 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:38:00,256 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:38:00,256 INFO  [main] - 242282810
+2016-03-10 14:38:00,257 INFO  [main] - success:8, errors:0
+2016-03-10 14:38:00,257 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 14:38:00,258 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@42b02722
+2016-03-10 14:38:01,231 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:38:01,232 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:38:01,232 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:38:01,879 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6b88ca8c
+2016-03-10 14:38:01,880 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:38:01,880 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:38:01,881 INFO  [main] - 434437292
+2016-03-10 14:38:01,881 INFO  [main] - 1
+2016-03-10 14:38:01,882 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@53941c2f
+2016-03-10 14:38:02,778 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 14:38:02,780 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:38:02,780 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 14:38:03,305 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1f010bf0
+2016-03-10 14:38:03,306 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:38:03,307 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 14:38:03,307 INFO  [main] - 250112971
+2016-03-10 14:38:03,308 INFO  [main] - success:2, errors:0
+2016-03-10 14:38:03,309 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 14:38:03,310 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@2631f68c
+2016-03-10 14:38:04,347 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 14:38:04,348 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:38:04,348 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 14:48:09,926 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:48:21,225 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:48:21,226 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:48:21,227 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:48:21,228 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:48:21,235 INFO  [main] - Total de regiones:4
+2016-03-10 14:48:21,236 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:48:21,243 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:48:21,244 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:48:21,276 INFO  [main] - Total de Zonas:2
+2016-03-10 14:48:35,768 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:48:52,359 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1a15b789
+2016-03-10 14:48:53,403 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:48:53,405 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:48:53,411 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:49:17,273 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@2a551a63
+2016-03-10 14:49:17,274 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:49:17,274 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:49:17,275 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@6cc0bcf6
+2016-03-10 14:49:18,375 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:49:18,376 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:49:18,379 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:49:48,876 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5851bd4f
+2016-03-10 14:49:48,877 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:49:48,877 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:49:48,878 INFO  [main] - 1774468680
+2016-03-10 14:49:48,879 INFO  [main] - 1
+2016-03-10 14:49:48,879 INFO  [main] - 2
+2016-03-10 14:49:48,880 INFO  [main] - 3
+2016-03-10 14:49:48,880 INFO  [main] - 4
+2016-03-10 14:49:54,478 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1b39fd82
+2016-03-10 14:49:55,660 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:49:55,661 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:49:55,662 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:50:09,896 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@160c3ec1
+2016-03-10 14:50:09,897 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:50:09,897 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:50:09,898 INFO  [main] - 1970779713
+2016-03-10 14:50:09,898 INFO  [main] - Total de Reiones 
+
+2016-03-10 14:50:09,899 INFO  [main] - success:8, errors:0
+2016-03-10 14:50:47,318 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:50:58,392 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:50:58,393 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:50:58,394 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:50:58,395 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:50:58,404 INFO  [main] - Total de regiones:4
+2016-03-10 14:50:58,405 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:50:58,415 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:50:58,418 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:50:58,439 INFO  [main] - Total de Zonas:2
+2016-03-10 14:51:01,765 INFO  [main] - The email was sent successfully.
+2016-03-10 14:51:01,766 INFO  [main] - Proceso terminado
+2016-03-10 14:51:53,083 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:52:19,150 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:52:29,733 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:52:29,734 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:52:29,735 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:52:29,736 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:52:29,743 INFO  [main] - Total de regiones:4
+2016-03-10 14:52:29,744 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:52:29,748 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:52:29,753 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:52:29,777 INFO  [main] - Total de Zonas:2
+2016-03-10 14:52:29,778 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:52:29,781 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:52:30,658 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:52:30,659 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:52:30,668 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:52:31,275 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:52:31,276 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:52:31,277 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:52:31,277 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:52:32,192 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:52:32,193 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:52:32,194 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:52:32,726 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:52:32,727 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:52:32,728 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:52:32,728 INFO  [main] - 940087898
+2016-03-10 14:52:32,729 INFO  [main] - 1
+2016-03-10 14:52:32,729 INFO  [main] - 2
+2016-03-10 14:52:32,730 INFO  [main] - 3
+2016-03-10 14:52:32,730 INFO  [main] - 4
+2016-03-10 14:52:32,731 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:52:33,716 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:52:33,717 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:52:33,717 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:52:34,329 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:52:34,330 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:52:34,330 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:52:34,331 INFO  [main] - Total de Reiones 
+
+2016-03-10 14:52:35,780 INFO  [main] - The email was sent successfully.
+2016-03-10 14:52:35,781 INFO  [main] - Proceso terminado
+2016-03-10 14:54:30,555 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:54:40,491 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:54:40,492 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:54:40,493 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:54:40,494 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:54:40,501 INFO  [main] - Total de regiones:4
+2016-03-10 14:54:40,501 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:54:40,504 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:54:40,506 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:54:40,533 INFO  [main] - Total de Zonas:2
+2016-03-10 14:54:40,534 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:54:40,536 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:54:41,272 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:54:41,273 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:54:41,286 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:54:45,044 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:54:45,044 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:54:45,045 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:54:45,046 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:54:45,838 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:54:45,839 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:54:45,840 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:54:46,433 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:54:46,434 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:54:46,435 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:54:46,435 INFO  [main] - 940087898
+2016-03-10 14:54:46,436 INFO  [main] - 1
+2016-03-10 14:54:46,437 INFO  [main] - 2
+2016-03-10 14:54:46,437 INFO  [main] - 3
+2016-03-10 14:54:46,438 INFO  [main] - 4
+2016-03-10 14:54:46,438 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:54:47,207 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:54:47,208 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:54:47,209 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:54:47,875 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:54:47,876 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:54:47,876 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:54:49,091 INFO  [main] - The email was sent successfully.
+2016-03-10 14:54:49,092 INFO  [main] - Proceso terminado
+2016-03-10 14:56:40,102 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:56:51,033 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:56:51,034 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:56:51,037 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:56:51,039 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:56:51,046 INFO  [main] - Total de regiones:4
+2016-03-10 14:56:51,047 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:56:51,053 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:56:51,058 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:56:51,080 INFO  [main] - Total de Zonas:2
+2016-03-10 14:56:51,081 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:56:51,085 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 14:56:51,842 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:56:51,842 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:56:51,856 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:56:52,468 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 14:56:52,469 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:56:52,470 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:56:52,471 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 14:56:53,245 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:56:53,245 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:56:53,248 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:56:54,125 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 14:56:54,125 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:56:54,126 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:56:54,126 INFO  [main] - 940087898
+2016-03-10 14:56:54,127 INFO  [main] - 1
+2016-03-10 14:56:54,127 INFO  [main] - 2
+2016-03-10 14:56:54,128 INFO  [main] - 3
+2016-03-10 14:56:54,128 INFO  [main] - 4
+2016-03-10 14:56:54,129 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 14:56:54,921 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:56:54,922 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:56:54,923 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:56:55,458 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 14:56:55,459 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:56:55,460 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:56:56,786 INFO  [main] - The email was sent successfully.
+2016-03-10 14:56:56,787 INFO  [main] - Proceso terminado
+2016-03-10 14:58:34,923 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 14:58:46,255 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 14:58:46,256 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 14:58:46,257 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 14:58:46,258 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 14:58:46,265 INFO  [main] - Total de regiones:4
+2016-03-10 14:58:46,266 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 14:58:46,272 INFO  [main] - Total de Divisiones:1
+2016-03-10 14:58:46,275 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 14:58:46,332 INFO  [main] - Total de Zonas:2
+2016-03-10 14:59:24,979 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 14:59:37,847 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 14:59:39,255 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 14:59:39,257 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:59:39,268 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 14:59:43,795 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@cc62a3b
+2016-03-10 14:59:43,798 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:59:43,801 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 14:59:43,804 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@669253b7
+2016-03-10 14:59:44,542 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:59:44,543 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:59:44,546 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:59:49,396 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@69c43e48
+2016-03-10 14:59:49,397 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:59:49,397 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 14:59:49,397 INFO  [main] - 478182173
+2016-03-10 14:59:49,398 INFO  [main] - 1
+2016-03-10 14:59:49,398 INFO  [main] - 2
+2016-03-10 14:59:49,399 INFO  [main] - 3
+2016-03-10 14:59:49,400 INFO  [main] - 4
+2016-03-10 14:59:49,400 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@c8b96ec
+2016-03-10 14:59:50,249 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 14:59:50,250 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 14:59:50,250 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 14:59:57,087 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7577b641
+2016-03-10 14:59:57,088 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 14:59:57,089 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:03:32,844 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:03:46,904 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:03:46,906 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:03:46,906 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:03:46,907 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:03:46,915 INFO  [main] - Total de regiones:4
+2016-03-10 15:03:46,916 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:03:46,923 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:03:46,927 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:03:46,955 INFO  [main] - Total de Zonas:2
+2016-03-10 15:03:50,381 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:03:50,387 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 15:03:51,327 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:03:51,328 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:03:51,339 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:03:55,470 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 15:03:55,471 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:03:55,472 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:03:55,473 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 15:03:56,329 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:03:56,330 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:03:56,334 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:04:02,497 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 15:04:02,497 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:04:02,498 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:04:02,499 INFO  [main] - 402978317
+2016-03-10 15:04:02,499 INFO  [main] - 1
+2016-03-10 15:04:02,500 INFO  [main] - 2
+2016-03-10 15:04:02,500 INFO  [main] - 3
+2016-03-10 15:04:02,501 INFO  [main] - 4
+2016-03-10 15:04:02,502 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@3e2fc448
+2016-03-10 15:04:03,400 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:04:03,401 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:04:03,402 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:04:09,737 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@60afd40d
+2016-03-10 15:04:09,738 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:04:09,738 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:13:01,131 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:13:11,637 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:13:11,638 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:13:11,639 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:13:11,640 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:13:11,647 INFO  [main] - Total de regiones:4
+2016-03-10 15:13:11,648 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:13:11,653 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:13:11,656 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:13:11,721 INFO  [main] - Total de Zonas:2
+2016-03-10 15:13:16,293 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:13:37,143 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@57f791c6
+2016-03-10 15:13:38,155 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:13:38,156 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:13:38,162 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:13:53,060 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1a6f5124
+2016-03-10 15:13:53,061 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:13:53,062 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:13:53,062 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@29539e36
+2016-03-10 15:13:53,924 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:13:53,925 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:13:53,927 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:14:10,317 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@7cd1ac19
+2016-03-10 15:14:10,318 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:14:10,318 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:14:10,319 INFO  [main] - 402978317
+2016-03-10 15:14:10,320 INFO  [main] - 1
+2016-03-10 15:14:10,320 INFO  [main] - 2
+2016-03-10 15:14:10,321 INFO  [main] - 3
+2016-03-10 15:14:10,321 INFO  [main] - 4
+2016-03-10 15:14:10,322 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@3e2fc448
+2016-03-10 15:14:11,248 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:14:11,249 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:14:11,250 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:14:24,639 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@182b435b
+2016-03-10 15:14:24,639 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:14:24,640 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:14:24,641 INFO  [main] - success:8, errors:0
+2016-03-10 15:14:24,641 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 15:14:24,642 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@60afd40d
+2016-03-10 15:14:25,471 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:14:25,472 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:14:25,473 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:14:39,083 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@79f227a9
+2016-03-10 15:14:39,084 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:14:39,085 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:14:39,085 INFO  [main] - 1987354705
+2016-03-10 15:14:39,086 INFO  [main] - 1
+2016-03-10 15:14:39,087 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@619bd14c
+2016-03-10 15:14:39,867 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:14:39,867 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:14:39,868 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:14:44,212 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3c1e3314
+2016-03-10 15:14:44,213 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:14:44,215 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:14:44,216 INFO  [main] - 426288284
+2016-03-10 15:14:44,217 INFO  [main] - success:2, errors:0
+2016-03-10 15:15:24,467 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:15:38,180 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:15:38,181 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:15:38,182 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:15:38,183 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:15:38,194 INFO  [main] - Total de regiones:4
+2016-03-10 15:15:38,195 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:15:38,201 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:15:38,206 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:15:38,241 INFO  [main] - Total de Zonas:2
+2016-03-10 15:15:38,254 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:15:38,261 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 15:15:39,097 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:15:39,098 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:15:39,108 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:15:39,853 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 15:15:39,856 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:15:39,860 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:15:39,863 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 15:15:40,595 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:15:40,595 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:15:40,596 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:15:41,340 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 15:15:41,340 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:15:41,341 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:15:41,342 INFO  [main] - 940087898
+2016-03-10 15:15:41,342 INFO  [main] - 1
+2016-03-10 15:15:41,343 INFO  [main] - 2
+2016-03-10 15:15:41,343 INFO  [main] - 3
+2016-03-10 15:15:41,343 INFO  [main] - 4
+2016-03-10 15:15:41,344 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 15:15:42,132 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:15:42,133 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:15:42,134 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:15:42,674 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 15:15:42,674 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:15:42,675 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:15:42,676 INFO  [main] - success:8, errors:0
+2016-03-10 15:15:42,676 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 15:15:42,677 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@64a40280
+2016-03-10 15:15:43,577 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:15:43,578 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:15:43,578 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:15:44,172 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@55493582
+2016-03-10 15:15:44,173 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:15:44,173 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:15:44,174 INFO  [main] - 790021811
+2016-03-10 15:15:44,175 INFO  [main] - 1
+2016-03-10 15:15:44,175 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@52c3cb31
+2016-03-10 15:15:44,903 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:15:44,904 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:15:44,904 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:15:45,541 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@19b93fa8
+2016-03-10 15:15:45,541 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:15:45,542 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:15:45,542 INFO  [main] - 282003944
+2016-03-10 15:15:45,542 INFO  [main] - success:2, errors:0
+2016-03-10 15:15:46,870 INFO  [main] - The email was sent successfully.
+2016-03-10 15:15:46,870 INFO  [main] - Proceso terminado
+2016-03-10 15:20:54,953 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:21:06,584 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:21:06,587 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:21:06,588 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:21:06,589 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:21:06,596 INFO  [main] - Total de regiones:4
+2016-03-10 15:21:06,597 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:21:06,602 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:21:06,606 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:21:06,627 INFO  [main] - Total de Zonas:2
+2016-03-10 15:21:09,869 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:21:09,874 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1a15b789
+2016-03-10 15:21:10,763 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:21:10,764 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:10,775 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:21:13,185 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@2a551a63
+2016-03-10 15:21:13,186 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:21:13,186 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:21:13,186 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@6cc0bcf6
+2016-03-10 15:21:14,046 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:21:14,046 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:14,051 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:21:18,240 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5851bd4f
+2016-03-10 15:21:18,240 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:21:18,241 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:21:18,242 INFO  [main] - 1774468680
+2016-03-10 15:21:18,242 INFO  [main] - 1
+2016-03-10 15:21:18,243 INFO  [main] - 2
+2016-03-10 15:21:18,243 INFO  [main] - 3
+2016-03-10 15:21:18,244 INFO  [main] - 4
+2016-03-10 15:21:18,245 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1b39fd82
+2016-03-10 15:21:19,058 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:21:19,060 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:19,060 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:21:23,156 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@160c3ec1
+2016-03-10 15:21:23,156 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:21:23,157 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:21:23,157 INFO  [main] - success:8, errors:0
+2016-03-10 15:21:23,158 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 15:21:23,158 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3153ddfc
+2016-03-10 15:21:23,969 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:21:23,971 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:23,971 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:21:26,585 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1bdaa23d
+2016-03-10 15:21:26,586 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:21:26,587 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:21:26,587 INFO  [main] - 508760925
+2016-03-10 15:21:26,588 INFO  [main] - 1
+2016-03-10 15:21:26,589 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6754ef00
+2016-03-10 15:21:27,568 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:21:27,569 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:27,569 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:21:28,886 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@26f143ed
+2016-03-10 15:21:28,887 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:21:28,888 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:21:28,888 INFO  [main] - 1420012431
+2016-03-10 15:21:28,889 INFO  [main] - success:2, errors:0
+2016-03-10 15:21:30,575 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 15:21:30,576 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@50b0bc4c
+2016-03-10 15:21:31,454 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 15:21:31,455 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:21:31,456 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 15:23:36,115 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:23:47,240 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:23:47,241 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:23:47,242 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:23:47,243 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:23:47,251 INFO  [main] - Total de regiones:4
+2016-03-10 15:23:47,252 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:23:47,259 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:23:47,260 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:23:47,295 INFO  [main] - Total de Zonas:2
+2016-03-10 15:23:52,509 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:23:55,496 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1a15b789
+2016-03-10 15:23:56,823 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:23:56,826 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:23:56,835 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:24:03,323 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@2a551a63
+2016-03-10 15:24:03,324 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:24:03,324 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:24:03,325 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@6cc0bcf6
+2016-03-10 15:24:04,228 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:24:04,229 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:24:04,230 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:24:10,479 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5851bd4f
+2016-03-10 15:24:10,479 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:24:10,481 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:24:10,482 INFO  [main] - 1774468680
+2016-03-10 15:24:10,482 INFO  [main] - 1
+2016-03-10 15:24:10,483 INFO  [main] - 2
+2016-03-10 15:24:10,483 INFO  [main] - 3
+2016-03-10 15:24:10,484 INFO  [main] - 4
+2016-03-10 15:24:10,484 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1b39fd82
+2016-03-10 15:24:11,325 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:24:11,326 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:24:11,327 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:24:18,094 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@160c3ec1
+2016-03-10 15:24:18,095 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:24:18,095 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:24:18,096 INFO  [main] - success:8, errors:0
+2016-03-10 15:24:18,097 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 15:24:18,097 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3153ddfc
+2016-03-10 15:24:18,862 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:24:18,863 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:24:18,864 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:24:22,356 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@1bdaa23d
+2016-03-10 15:24:22,357 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:24:22,358 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:24:22,358 INFO  [main] - 508760925
+2016-03-10 15:24:22,359 INFO  [main] - 1
+2016-03-10 15:24:22,360 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6754ef00
+2016-03-10 15:24:23,049 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:24:23,050 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:24:23,050 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:24:25,542 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@26f143ed
+2016-03-10 15:24:25,543 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:24:25,543 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:24:25,544 INFO  [main] - 1420012431
+2016-03-10 15:24:25,544 INFO  [main] - success:2, errors:0
+2016-03-10 15:24:29,088 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 15:24:29,089 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@50b0bc4c
+2016-03-10 15:24:30,201 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 15:24:30,202 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:24:30,202 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 15:25:19,715 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 15:25:31,132 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 15:25:31,133 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 15:25:31,134 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 15:25:31,135 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 15:25:31,141 INFO  [main] - Total de regiones:4
+2016-03-10 15:25:31,141 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 15:25:31,146 INFO  [main] - Total de Divisiones:1
+2016-03-10 15:25:31,149 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 15:25:31,181 INFO  [main] - Total de Zonas:2
+2016-03-10 15:25:31,182 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 15:25:31,186 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6239aba6
+2016-03-10 15:25:31,999 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 15:25:32,000 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:32,013 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 15:25:32,566 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@291a7e3c
+2016-03-10 15:25:32,567 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:25:32,568 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 15:25:32,568 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@5505ae1a
+2016-03-10 15:25:33,843 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:25:33,844 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:33,845 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:25:34,559 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3899782c
+2016-03-10 15:25:34,560 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:25:34,561 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:25:34,561 INFO  [main] - 940087898
+2016-03-10 15:25:34,562 INFO  [main] - 1
+2016-03-10 15:25:34,563 INFO  [main] - 2
+2016-03-10 15:25:34,563 INFO  [main] - 3
+2016-03-10 15:25:34,564 INFO  [main] - 4
+2016-03-10 15:25:34,565 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1c33c17b
+2016-03-10 15:25:35,273 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 15:25:35,274 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:35,275 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 15:25:36,062 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3f9342d4
+2016-03-10 15:25:36,063 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:25:36,063 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 15:25:36,064 INFO  [main] - success:8, errors:0
+2016-03-10 15:25:36,065 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 15:25:36,065 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@64a40280
+2016-03-10 15:25:37,041 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:25:37,041 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:37,042 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:25:37,820 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@55493582
+2016-03-10 15:25:37,821 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:25:37,822 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:25:37,822 INFO  [main] - 790021811
+2016-03-10 15:25:37,823 INFO  [main] - 1
+2016-03-10 15:25:37,823 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@52c3cb31
+2016-03-10 15:25:38,520 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 15:25:38,520 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:38,521 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 15:25:39,049 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@19b93fa8
+2016-03-10 15:25:39,050 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 15:25:39,051 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 15:25:39,051 INFO  [main] - 282003944
+2016-03-10 15:25:39,052 INFO  [main] - success:2, errors:0
+2016-03-10 15:25:39,053 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 15:25:39,054 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@7f132176
+2016-03-10 15:25:39,865 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 15:25:39,865 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 15:25:39,866 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 16:48:14,116 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 16:48:24,208 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 16:48:24,209 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 16:48:24,209 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 16:48:24,210 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 16:48:24,286 INFO  [main] - Total de regiones:4
+2016-03-10 16:48:24,286 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 16:48:24,322 INFO  [main] - Total de Divisiones:1
+2016-03-10 16:48:24,324 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 16:48:24,388 INFO  [main] - Total de Zonas:2
+2016-03-10 16:48:50,217 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 16:48:56,829 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1a15b789
+2016-03-10 16:48:57,933 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 5 registros
+2016-03-10 16:48:57,934 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:48:57,941 INFO  [main] - Contenido del Array con UPSERT 5 registros
+2016-03-10 16:49:10,096 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@2a551a63
+2016-03-10 16:49:10,097 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 16:49:10,097 INFO  [main] - Contenido del Array de Resultados 5 registros
+2016-03-10 16:49:10,098 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@6cc0bcf6
+2016-03-10 16:49:10,973 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 16:49:10,974 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:49:10,974 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 16:49:19,711 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5851bd4f
+2016-03-10 16:49:19,712 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 16:49:19,712 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 16:49:19,713 INFO  [main] - 1774468680
+2016-03-10 16:49:19,714 INFO  [main] - 1
+2016-03-10 16:49:19,715 INFO  [main] - 2
+2016-03-10 16:49:19,716 INFO  [main] - 3
+2016-03-10 16:49:19,716 INFO  [main] - 4
+2016-03-10 16:49:19,717 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@1b39fd82
+2016-03-10 16:49:20,647 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 16:49:20,648 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:49:20,648 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 16:49:42,671 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@3153ddfc
+2016-03-10 16:49:42,672 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 16:49:42,673 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 16:49:42,673 INFO  [main] - success:8, errors:0
+2016-03-10 16:49:42,674 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@17d375bf]
+2016-03-10 16:49:42,675 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@33a2499c
+2016-03-10 16:49:43,726 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 16:49:43,728 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:49:43,728 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 16:49:47,856 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@323e8306
+2016-03-10 16:49:47,857 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 16:49:47,858 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 16:49:47,858 INFO  [main] - 855724043
+2016-03-10 16:49:47,859 INFO  [main] - 1
+2016-03-10 16:49:47,860 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Contact;@6e9c413e
+2016-03-10 16:49:48,802 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 1 registros
+2016-03-10 16:49:48,803 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:49:48,804 INFO  [main] - Contenido del Array con UPSERT 1 registros
+2016-03-10 16:49:54,835 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@c20be82
+2016-03-10 16:49:54,836 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 16:49:54,837 INFO  [main] - Contenido del Array de Resultados 1 registros
+2016-03-10 16:49:54,839 INFO  [main] - 1647243882
+2016-03-10 16:49:54,839 INFO  [main] - success:2, errors:0
+2016-03-10 16:51:02,906 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d1805]
+2016-03-10 16:51:10,198 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3d526ad9
+2016-03-10 16:51:11,404 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 16:51:11,408 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 16:51:11,412 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 16:54:40,024 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3d526ad9
+2016-03-10 16:54:41,034 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 16:54:41,035 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 500
+2016-03-10 16:54:41,035 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 17:18:18,148 INFO  [main] - [Lcom.sforce.soap.enterprise.sobject.Account;@3d526ad9
+2016-03-10 17:18:19,485 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 2 registros
+2016-03-10 17:18:19,486 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:18:19,487 INFO  [main] - Contenido del Array con UPSERT 2 registros
+2016-03-10 17:20:22,484 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 17:20:33,920 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 17:20:33,921 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 17:20:33,922 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 17:20:33,923 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 17:20:33,987 INFO  [main] - Total de regiones:4
+2016-03-10 17:20:33,988 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 17:20:34,000 INFO  [main] - Total de Divisiones:1
+2016-03-10 17:20:34,003 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 17:20:34,059 INFO  [main] - Total de Zonas:2
+2016-03-10 17:21:29,360 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 17:27:26,606 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 17:27:37,836 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 17:27:37,837 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 17:27:37,838 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 17:27:37,840 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 17:27:37,847 INFO  [main] - Total de regiones:4
+2016-03-10 17:27:37,848 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 17:30:54,781 INFO  [main] - Total de Divisiones:21
+2016-03-10 17:31:16,505 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 17:31:16,581 INFO  [main] - Total de Zonas:25
+2016-03-10 17:31:22,671 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 17:31:41,240 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 356 registros
+2016-03-10 17:31:45,542 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 17:31:45,548 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 17:32:49,255 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 17:32:59,716 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 17:32:59,717 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 17:32:59,718 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 17:32:59,719 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 17:32:59,728 INFO  [main] - Total de regiones:4
+2016-03-10 17:32:59,728 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 17:32:59,735 INFO  [main] - Total de Divisiones:24
+2016-03-10 17:32:59,736 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 17:32:59,771 INFO  [main] - Total de Zonas:25
+2016-03-10 17:32:59,773 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 17:33:11,257 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 359 registros
+2016-03-10 17:33:11,258 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 17:33:11,269 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 17:33:16,228 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@648ee871
+2016-03-10 17:33:16,230 INFO  [main] - UPSERT del Bloque: 2 de 2 del registro: 200 al 359
+2016-03-10 17:33:16,232 INFO  [main] - Contenido del Array con UPSERT 159 registros
+2016-03-10 17:33:20,448 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5e9456ae
+2016-03-10 17:33:20,450 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:33:20,450 INFO  [main] - Contenido del Array de Resultados 359 registros
+2016-03-10 17:33:39,335 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 17:33:39,336 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:33:39,337 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 17:33:40,131 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@50d3bf39
+2016-03-10 17:33:40,132 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:33:40,132 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 17:33:40,133 INFO  [main] - 989520513
+2016-03-10 17:33:40,133 INFO  [main] - 1
+2016-03-10 17:33:40,134 INFO  [main] - 2
+2016-03-10 17:33:40,135 INFO  [main] - 3
+2016-03-10 17:33:40,135 INFO  [main] - 4
+2016-03-10 17:33:55,792 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 17:33:55,794 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:33:55,794 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 17:33:56,336 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5cd61783
+2016-03-10 17:33:56,336 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:33:56,337 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 17:33:56,338 INFO  [main] - success:8, errors:0
+2016-03-10 17:33:56,338 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@189a1e6f, com.sforce.soap.enterprise.sobject.Account@17d375bf, com.sforce.soap.enterprise.sobject.Account@14409544, com.sforce.soap.enterprise.sobject.Account@9b58003a, com.sforce.soap.enterprise.sobject.Account@ef527b0a, com.sforce.soap.enterprise.sobject.Account@18a3748c, com.sforce.soap.enterprise.sobject.Account@d4363950, com.sforce.soap.enterprise.sobject.Account@b1648fbd, com.sforce.soap.enterprise.sobject.Account@8af988cd, com.sforce.soap.enterprise.sobject.Account@13d72002, com.sforce.soap.enterprise.sobject.Account@17d0c1fd, com.sforce.soap.enterprise.sobject.Account@217988d2, com.sforce.soap.enterprise.sobject.Account@3198ad89, com.sforce.soap.enterprise.sobject.Account@1be8e2e6, com.sforce.soap.enterprise.sobject.Account@17f0c9ec, com.sforce.soap.enterprise.sobject.Account@2f8566ee, com.sforce.soap.enterprise.sobject.Account@d134e3f7, com.sforce.soap.enterprise.sobject.Account@4ab732d1, com.sforce.soap.enterprise.sobject.Account@7c3171af, com.sforce.soap.enterprise.sobject.Account@34d91feb, com.sforce.soap.enterprise.sobject.Account@445eb456, com.sforce.soap.enterprise.sobject.Account@3e88281b, com.sforce.soap.enterprise.sobject.Account@4f743a60, com.sforce.soap.enterprise.sobject.Account@184d1041]
+2016-03-10 17:34:04,386 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 24 registros
+2016-03-10 17:34:04,387 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:34:04,391 INFO  [main] - Contenido del Array con UPSERT 24 registros
+2016-03-10 17:34:05,872 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@44de0113
+2016-03-10 17:34:05,872 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:34:05,873 INFO  [main] - Contenido del Array de Resultados 24 registros
+2016-03-10 17:34:05,874 INFO  [main] - 1118969241
+2016-03-10 17:34:05,875 INFO  [main] - 1
+2016-03-10 17:34:05,875 INFO  [main] - 2
+2016-03-10 17:34:05,876 ERROR [main] - com.sforce.soap.enterprise.sobject.Account@b1648fbd
+2016-03-10 17:34:05,877 ERROR [main] - Error en registro '04': Un cuenta principal no puede ser secundario de una cuenta que ya es principal. (CIRCULAR_DEPENDENCY)
+2016-03-10 17:34:15,058 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 24 registros
+2016-03-10 17:34:15,058 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:34:15,059 INFO  [main] - Contenido del Array con UPSERT 24 registros
+2016-03-10 17:34:16,281 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@4d774249
+2016-03-10 17:34:16,282 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:34:16,283 INFO  [main] - Contenido del Array de Resultados 24 registros
+2016-03-10 17:34:16,284 INFO  [main] - 648303898
+2016-03-10 17:34:16,285 INFO  [main] - success:47, errors:1
+2016-03-10 17:34:25,310 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d208b, com.sforce.soap.enterprise.sobject.Account@2e354f, com.sforce.soap.enterprise.sobject.Account@2e2713, com.sforce.soap.enterprise.sobject.Account@2d459b, com.sforce.soap.enterprise.sobject.Account@2e2e11, com.sforce.soap.enterprise.sobject.Account@2e3593, com.sforce.soap.enterprise.sobject.Account@2d2939, com.sforce.soap.enterprise.sobject.Account@2d37bd, com.sforce.soap.enterprise.sobject.Account@2d4d87, com.sforce.soap.enterprise.sobject.Account@2e2691, com.sforce.soap.enterprise.sobject.Account@2d46d1, com.sforce.soap.enterprise.sobject.Account@2d3705, com.sforce.soap.enterprise.sobject.Account@2d5d19, com.sforce.soap.enterprise.sobject.Account@2d55cb, com.sforce.soap.enterprise.sobject.Account@2d4e41, com.sforce.soap.enterprise.sobject.Account@2d5cd5, com.sforce.soap.enterprise.sobject.Account@2d3701, com.sforce.soap.enterprise.sobject.Account@2d564f, com.sforce.soap.enterprise.sobject.Account@2d4647, com.sforce.soap.enterprise.sobject.Account@2d4ecf, com.sforce.soap.enterprise.sobject.Account@2e2ddd, com.sforce.soap.enterprise.sobject.Account@2d54cd, com.sforce.soap.enterprise.sobject.Account@2d5c11, com.sforce.soap.enterprise.sobject.Account@2e1845]
+2016-03-10 17:34:28,267 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 25 registros
+2016-03-10 17:34:28,267 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:34:28,268 INFO  [main] - Contenido del Array con UPSERT 25 registros
+2016-03-10 17:36:38,216 DEBUG [main] - Fecha a procesar:09032016
+2016-03-10 17:36:38,231 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 17:36:38,335 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:36:44,054 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:36:45,579 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:36:47,297 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:36:48,859 DEBUG [main] - loadername = dev.properties
+2016-03-10 17:36:48,861 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 17:36:48,862 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 17:36:48,863 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 17:36:48,864 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 17:36:48,957 INFO  [main] - Total de regiones:4
+2016-03-10 17:36:48,958 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 17:36:48,990 INFO  [main] - Total de Divisiones:24
+2016-03-10 17:36:48,990 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 17:36:49,060 INFO  [main] - Total de Zonas:25
+2016-03-10 17:36:49,077 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 17:36:49,083 DEBUG [main] - To upsert:4
+2016-03-10 17:36:55,435 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:36:56,411 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 359 registros
+2016-03-10 17:36:56,411 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 17:37:08,024 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 17:37:10,687 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@a619c2
+2016-03-10 17:37:10,688 INFO  [main] - UPSERT del Bloque: 2 de 2 del registro: 200 al 359
+2016-03-10 17:37:10,690 INFO  [main] - Contenido del Array con UPSERT 159 registros
+2016-03-10 17:37:13,218 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@52b6319f
+2016-03-10 17:37:13,219 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:37:13,219 INFO  [main] - Contenido del Array de Resultados 359 registros
+2016-03-10 17:37:19,483 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:37:20,386 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 17:37:20,387 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:37:20,388 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 17:37:21,107 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5f303ecd
+2016-03-10 17:37:21,108 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:37:21,109 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 17:37:21,109 INFO  [main] - 1998434604
+2016-03-10 17:37:21,110 INFO  [main] - 1
+2016-03-10 17:37:21,110 INFO  [main] - 2
+2016-03-10 17:37:21,111 INFO  [main] - 3
+2016-03-10 17:37:21,112 INFO  [main] - 4
+2016-03-10 17:37:31,084 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:37:31,951 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 17:37:31,952 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:37:31,953 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 17:37:32,679 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@49a71302
+2016-03-10 17:37:32,683 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:37:32,683 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 17:37:32,684 INFO  [main] - success:8, errors:0
+2016-03-10 17:37:32,684 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@189a1e6f, com.sforce.soap.enterprise.sobject.Account@17d375bf, com.sforce.soap.enterprise.sobject.Account@14409544, com.sforce.soap.enterprise.sobject.Account@9b58003a, com.sforce.soap.enterprise.sobject.Account@ef527b0a, com.sforce.soap.enterprise.sobject.Account@18a3748c, com.sforce.soap.enterprise.sobject.Account@d4363950, com.sforce.soap.enterprise.sobject.Account@b1648fbd, com.sforce.soap.enterprise.sobject.Account@8af988cd, com.sforce.soap.enterprise.sobject.Account@13d72002, com.sforce.soap.enterprise.sobject.Account@17d0c1fd, com.sforce.soap.enterprise.sobject.Account@217988d2, com.sforce.soap.enterprise.sobject.Account@3198ad89, com.sforce.soap.enterprise.sobject.Account@1be8e2e6, com.sforce.soap.enterprise.sobject.Account@17f0c9ec, com.sforce.soap.enterprise.sobject.Account@2f8566ee, com.sforce.soap.enterprise.sobject.Account@d134e3f7, com.sforce.soap.enterprise.sobject.Account@4ab732d1, com.sforce.soap.enterprise.sobject.Account@7c3171af, com.sforce.soap.enterprise.sobject.Account@34d91feb, com.sforce.soap.enterprise.sobject.Account@445eb456, com.sforce.soap.enterprise.sobject.Account@3e88281b, com.sforce.soap.enterprise.sobject.Account@4f743a60, com.sforce.soap.enterprise.sobject.Account@184d1041]
+2016-03-10 17:37:32,687 DEBUG [main] - To upsert:24
+2016-03-10 17:37:42,269 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:37:47,437 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 24 registros
+2016-03-10 17:37:53,980 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:37:58,733 INFO  [main] - Contenido del Array con UPSERT 24 registros
+2016-03-10 17:38:08,424 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@46866946
+2016-03-10 17:38:10,611 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:38:12,855 INFO  [main] - Contenido del Array de Resultados 24 registros
+2016-03-10 17:38:15,958 INFO  [main] - 1993366729
+2016-03-10 17:39:00,578 INFO  [main] - 1
+2016-03-10 17:39:00,579 INFO  [main] - 2
+2016-03-10 17:39:00,580 INFO  [main] - 3
+2016-03-10 17:39:00,580 INFO  [main] - 4
+2016-03-10 17:39:00,580 INFO  [main] - 5
+2016-03-10 17:39:00,580 INFO  [main] - 6
+2016-03-10 17:39:00,581 INFO  [main] - 7
+2016-03-10 17:39:00,582 ERROR [main] - com.sforce.soap.enterprise.sobject.Account@b1648fbd
+2016-03-10 17:39:00,582 ERROR [main] - Error en registro '04': Un cuenta principal no puede ser secundario de una cuenta que ya es principal. (CIRCULAR_DEPENDENCY)
+2016-03-10 17:39:00,583 INFO  [main] - 8
+2016-03-10 17:39:00,584 INFO  [main] - 9
+2016-03-10 17:39:00,584 INFO  [main] - 10
+2016-03-10 17:39:00,586 INFO  [main] - 11
+2016-03-10 17:39:00,587 INFO  [main] - 12
+2016-03-10 17:39:00,587 INFO  [main] - 13
+2016-03-10 17:39:00,588 INFO  [main] - 14
+2016-03-10 17:39:00,588 INFO  [main] - 15
+2016-03-10 17:39:00,589 INFO  [main] - 16
+2016-03-10 17:39:00,589 INFO  [main] - 17
+2016-03-10 17:39:00,589 INFO  [main] - 18
+2016-03-10 17:39:00,590 INFO  [main] - 19
+2016-03-10 17:39:00,591 INFO  [main] - 20
+2016-03-10 17:39:00,592 INFO  [main] - 21
+2016-03-10 17:39:00,592 INFO  [main] - 22
+2016-03-10 17:39:00,592 INFO  [main] - 23
+2016-03-10 17:39:44,935 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:39:51,718 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 24 registros
+2016-03-10 17:39:55,860 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 17:39:58,899 INFO  [main] - Contenido del Array con UPSERT 24 registros
+2016-03-10 17:40:08,695 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@45d6ef73
+2016-03-10 17:40:10,881 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 17:40:12,245 INFO  [main] - Contenido del Array de Resultados 24 registros
+2016-03-10 17:40:17,000 INFO  [main] - 827099978
+2016-03-10 17:51:08,123 DEBUG [main] - Fecha a procesar:09032016
+2016-03-10 17:51:08,124 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 17:51:08,218 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:51:14,716 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:51:16,174 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:51:17,710 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 17:51:19,251 DEBUG [main] - loadername = dev.properties
+2016-03-10 17:51:19,252 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 17:51:19,253 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 17:51:19,254 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 17:51:19,255 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 17:51:19,282 INFO  [main] - Total de regiones:4
+2016-03-10 17:51:19,283 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 17:51:19,304 INFO  [main] - Total de Divisiones:24
+2016-03-10 17:51:19,304 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 17:51:19,391 INFO  [main] - Total de Zonas:25
+2016-03-10 17:51:19,392 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 17:51:19,395 DEBUG [main] - To upsert:4
+2016-03-10 19:19:42,894 DEBUG [main] - Fecha a procesar:09032016
+2016-03-10 19:19:42,895 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 19:19:42,966 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:19:48,465 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:19:49,609 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:19:50,808 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:19:52,085 DEBUG [main] - loadername = dev.properties
+2016-03-10 19:19:52,087 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 19:19:52,088 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 19:19:52,090 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 19:19:52,091 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 19:19:52,209 INFO  [main] - Total de regiones:4
+2016-03-10 19:19:52,209 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 19:19:52,222 INFO  [main] - Total de Divisiones:24
+2016-03-10 19:19:52,224 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 19:19:52,309 INFO  [main] - Total de Zonas:25
+2016-03-10 19:19:52,311 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 19:19:52,316 DEBUG [main] - To upsert:4
+2016-03-10 19:20:21,749 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:20:42,278 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 359 registros
+2016-03-10 19:20:45,209 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 19:20:45,831 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 19:21:42,426 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@a619c2
+2016-03-10 19:21:42,428 INFO  [main] - UPSERT del Bloque: 2 de 2 del registro: 200 al 359
+2016-03-10 19:21:42,429 INFO  [main] - Contenido del Array con UPSERT 159 registros
+2016-03-10 19:21:44,907 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5bcde458
+2016-03-10 19:21:44,909 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:21:44,909 INFO  [main] - Contenido del Array de Resultados 359 registros
+2016-03-10 19:21:49,091 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:21:49,858 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 19:21:49,859 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 19:21:49,860 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 19:21:50,570 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@51827393
+2016-03-10 19:21:50,571 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:21:50,572 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 19:21:50,573 INFO  [main] - 697145861
+2016-03-10 19:21:50,573 INFO  [main] - 1
+2016-03-10 19:21:50,574 INFO  [main] - 2
+2016-03-10 19:21:50,574 INFO  [main] - 3
+2016-03-10 19:21:50,575 INFO  [main] - 4
+2016-03-10 19:21:52,768 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:21:53,436 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 19:21:53,437 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 19:21:53,437 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 19:21:54,038 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5e4fa1da
+2016-03-10 19:21:54,038 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:21:54,039 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 19:21:54,040 INFO  [main] - success:8, errors:0
+2016-03-10 19:27:49,730 DEBUG [main] - Fecha a procesar:09032016
+2016-03-10 19:27:49,731 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 19:27:49,802 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:27:55,419 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:27:56,540 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:27:57,664 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:27:58,795 DEBUG [main] - loadername = dev.properties
+2016-03-10 19:27:58,797 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 19:27:58,798 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 19:27:58,798 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 19:27:58,799 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 19:27:58,805 INFO  [main] - Total de regiones:4
+2016-03-10 19:27:58,805 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 19:27:58,811 INFO  [main] - Total de Divisiones:24
+2016-03-10 19:27:58,812 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 19:27:58,848 INFO  [main] - Total de Zonas:25
+2016-03-10 19:27:58,850 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 19:27:58,857 DEBUG [main] - To upsert:4
+2016-03-10 19:29:18,363 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:29:21,838 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 359 registros
+2016-03-10 19:29:24,465 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 19:29:25,660 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 19:29:34,893 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@648ee871
+2016-03-10 19:29:39,837 INFO  [main] - UPSERT del Bloque: 2 de 2 del registro: 200 al 359
+2016-03-10 19:29:40,233 INFO  [main] - Contenido del Array con UPSERT 159 registros
+2016-03-10 19:29:49,877 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@5e9456ae
+2016-03-10 19:29:52,528 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:29:54,264 INFO  [main] - Contenido del Array de Resultados 359 registros
+2016-03-10 19:32:27,069 DEBUG [main] - Fecha a procesar:09032016
+2016-03-10 19:32:27,071 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-10 19:32:27,125 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:32,843 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:33,941 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:34,929 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:36,007 DEBUG [main] - loadername = dev.properties
+2016-03-10 19:32:36,008 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\region.csv
+2016-03-10 19:32:36,009 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\division.csv
+2016-03-10 19:32:36,010 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\files\zona.csv
+2016-03-10 19:32:36,011 INFO  [main] - Parseando archivo:region.csv
+2016-03-10 19:32:36,017 INFO  [main] - Total de regiones:4
+2016-03-10 19:32:36,017 INFO  [main] - Parseando archivo:division.csv
+2016-03-10 19:32:36,022 INFO  [main] - Total de Divisiones:24
+2016-03-10 19:32:36,022 INFO  [main] - Parseando archivo:zona.csv
+2016-03-10 19:32:36,051 INFO  [main] - Total de Zonas:25
+2016-03-10 19:32:36,051 INFO  [main] - [com.sforce.soap.enterprise.sobject.Account@1837a458, com.sforce.soap.enterprise.sobject.Account@8a0eeabe, com.sforce.soap.enterprise.sobject.Account@bd623f08, com.sforce.soap.enterprise.sobject.Account@13ca72aa]
+2016-03-10 19:32:36,055 DEBUG [main] - To upsert:4
+2016-03-10 19:32:36,057 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:36,614 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 2 bloques y un total de 359 registros
+2016-03-10 19:32:36,615 INFO  [main] - UPSERT del Bloque: 1 de 2 del registro: 0 al 200
+2016-03-10 19:32:36,628 INFO  [main] - Contenido del Array con UPSERT 200 registros
+2016-03-10 19:32:38,901 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@278bb07e
+2016-03-10 19:32:38,901 INFO  [main] - UPSERT del Bloque: 2 de 2 del registro: 200 al 359
+2016-03-10 19:32:38,901 INFO  [main] - Contenido del Array con UPSERT 159 registros
+2016-03-10 19:32:40,581 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@757d6814
+2016-03-10 19:32:40,582 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:32:40,582 INFO  [main] - Contenido del Array de Resultados 359 registros
+2016-03-10 19:32:40,584 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:41,244 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 19:32:41,245 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 19:32:41,246 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 19:32:42,075 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@53e211ee
+2016-03-10 19:32:42,076 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:32:42,076 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 19:32:42,077 INFO  [main] - 293474277
+2016-03-10 19:32:42,078 INFO  [main] - 1
+2016-03-10 19:32:42,079 INFO  [main] - 2
+2016-03-10 19:32:42,079 INFO  [main] - 3
+2016-03-10 19:32:42,080 INFO  [main] - 4
+2016-03-10 19:32:42,082 DEBUG [main] - integracion.force@avon.com.qa
+2016-03-10 19:32:42,745 INFO  [main] - Comienza el proceso de UPSERT en Salesforce con 1 bloques y un total de 4 registros
+2016-03-10 19:32:42,746 INFO  [main] - UPSERT del Bloque: 1 de 1 del registro: 0 al 200
+2016-03-10 19:32:42,746 INFO  [main] - Contenido del Array con UPSERT 4 registros
+2016-03-10 19:32:44,580 INFO  [main] - Variable [Lcom.sforce.soap.enterprise.UpsertResult;@6d1d4d7
+2016-03-10 19:32:44,581 INFO  [main] - Fin del proceso de UPSERT en SalesForce.
+2016-03-10 19:32:44,581 INFO  [main] - Contenido del Array de Resultados 4 registros
+2016-03-10 19:32:44,582 INFO  [main] - success:8, errors:0

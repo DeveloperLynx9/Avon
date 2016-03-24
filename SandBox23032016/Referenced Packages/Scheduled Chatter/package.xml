@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Scheduled Chatter</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <description>Scheduled Chatter allows you to set up Chatter messages to post on an hourly basis.  Use it to broadcast timely reminders &amp; notifications to users in your org, queue up special messages for the week, or post messages in large batches.
+
+For the best experience, sign in as a dedicated Scheduled Chatter &quot;broadcast&quot; user to enable the app.  This will enable the scheduler to post using the dedicated user.</description>
+    <namespacePrefix>SchedChatter</namespacePrefix>
+    <types>
+        <members>PostScheduledPost</members>
+        <members>PostScheduledPostTestClass</members>
+        <members>ScheduledPostController</members>
+        <members>SetupScheduledChatter</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>scheduledChatter</members>
+        <members>scheduledChatterAbout</members>
+        <members>setupscheduledChatter</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>ScheduledPost__c.Body__c</members>
+        <members>ScheduledPost__c.FeedItemID__c</members>
+        <members>ScheduledPost__c.LinkURL__c</members>
+        <members>ScheduledPost__c.ParentId__c</members>
+        <members>ScheduledPost__c.PostDateTime__c</members>
+        <members>ScheduledPost__c.PostToUser__c</members>
+        <members>ScheduledPost__c.Title__c</members>
+        <members>ScheduledPost__c.id__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ScheduledPost__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Scheduled_Chatter</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>ScheduledPost__c-ScheduledPost Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>AutoCompleter</members>
+        <members>autocompleterCss</members>
+        <members>autocompleterLocal</members>
+        <members>clock</members>
+        <members>mootools</members>
+        <members>observer</members>
+        <members>scheduledchatterscreenshot</members>
+        <name>StaticResource</name>
+    </types>
+    <version>36.0</version>
+</Package>

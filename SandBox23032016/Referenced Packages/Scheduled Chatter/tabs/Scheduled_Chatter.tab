@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Use Chatter on your own schedule!</description>
+    <label>Scheduled Chatter</label>
+    <mobileReady>false</mobileReady>
+    <motif>Custom95: Stopwatch</motif>
+    <page>scheduledChatter</page>
+</CustomTab>

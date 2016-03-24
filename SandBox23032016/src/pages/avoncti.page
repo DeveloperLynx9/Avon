@@ -1,0 +1,21 @@
+<apex:page standardController="Contact" extensions="ctrlAvoncti" action="{!redirect}" >
+	<apex:form >
+    
+    <apex:pageBlock title="Resultados de la búsqueda para el teléfono {!tel}" >
+
+        <apex:pageBlockTable value="{!results}" var="rep" columns="5" columnsWidth="20%,20%,20%,20%,20%">
+            <apex:column headerValue="Registro" value="{!rep.Registro__c}" />
+            <apex:column headerValue="Representante">
+                <apex:outputLink value="{!URLFOR($Action.Contact.View, rep.id)}">
+                    {!rep.Name}
+                </apex:outputLink>
+            </apex:column>
+            <apex:column headerValue="Teléfono" value="{!rep.Phone}" />
+            <apex:column headerValue="Móvil" value="{!rep.MobilePhone}" />
+            <apex:column headerValue="Teléfono casa" value="{!rep.HomePhone}" />
+        </apex:pageBlockTable>
+        <apex:messages />
+    </apex:pageBlock>
+    </apex:form>
+    
+</apex:page>

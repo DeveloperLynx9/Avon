@@ -1,0 +1,61 @@
+<apex:page showHeader="false" applyBodyTag="false" standardController="Case" extensions="ctrlSelfService" >
+    <apex:stylesheet value="{!URLFOR($Resource.wtcResources, 'css/helpers.css')}"/>
+    <apex:stylesheet value="{!URLFOR($Resource.wtcResources, 'css/reset.css')}"/>
+    <apex:stylesheet value="{!URLFOR($Resource.wtcResources, 'css/webToCase_style.css')}"/>
+    
+    <body class="webToCast-background">
+        <apex:form >
+        <div class="wrapper">
+            <div class="grid-container ">
+                <div class="grid-40 prefix-30 text-center mt30 mb40">
+                    <apex:image url="{!URLFOR($Resource.wtcResources, 'img/webToCase_avonLogo.png')}"/>
+                </div>
+            </div>
+            <apex:pageBlock rendered="{!NOT(display)}" >
+            <div class="grid-container">
+                <div class="grid-90 prefix-10 mb30">
+                    <p class="text-shadow-light">
+                        Bienvenida a <strong class="text-avon">Avon</strong><br/>
+                        Para hacer tu aclaración por esta vía necesitas:<br/><br/>
+                        1. Llenar todos los campos requeridos.<br/>
+                        2. Validar que la información que vas a enviar sea correcta<br/>
+                        3. En caso de necesitar apoyo ingresa al CHAT en línea.<br/>
+                        4. Después de ingresar la información, debes anotar el número que el sistema te dará, ya que te lo pedirán para dar seguimiento.<br/><br/>
+                        
+                        Si no encuentras en el listado el contenido que deseas consultar, llama al 1000 2866 o del interior de la república (55) 1000 2866 (AVON).
+                    </p>
+                </div>
+            </div>
+            </apex:pageBlock>
+            
+            <apex:pageBlock >
+            <div class="grid-container">
+                <apex:pageBlockSection rendered="{!display}">
+                    Su número de incidencias es: {!caseNumber}
+                </apex:pageBlockSection>
+                
+                <apex:pageBlockButtons rendered="{!NOT(display)}" >
+                    <apex:commandbutton value="Enviar" action="{!save}"/>
+                </apex:pageBlockButtons>
+                
+                <apex:pageBlockSection columns="1" rendered="{!NOT(display)}">
+                    <apex:pageBlockSectionItem >
+                        <apex:outputLabel >Categoría:</apex:outputLabel>
+                        <apex:inputField value="{!myCase.Categoria__c}" required="true" />
+                    </apex:pageBlockSectionItem>
+                    
+                    <apex:inputField label="Tipificación" value="{!myCase.Tipificacion__c}" required="true" />
+                    <apex:inputField label="Sub-Tipificación" value="{!myCase.Sub_Tipificacion__c}" required="true" />
+                    <apex:inputField label="Asunto" value="{!myCase.Subject}" required="true" />
+                    <apex:inputField label="Descripción" value="{!myCase.Description}" required="true" />
+
+                    <apex:messages globalOnly="true" />
+        		</apex:pageBlockSection>
+            </div>
+                
+            
+            </apex:pageBlock>
+        </div>
+		</apex:form>
+    </body>  
+</apex:page>

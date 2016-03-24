@@ -1,0 +1,18 @@
+<apex:page controller="SchedChatter.SetupScheduledChatter" action="{!checkForSetup}">
+<apex:pageBlock >
+<apex:form >
+<br/>
+Scheduled Chatter allows you to utilize the power of Force.com scheduling to queue Chatter messages to post in the future.  
+<br/><br/>
+For best results, use a dedicated user that will broadcast Scheduled Chatter messages in your org.
+<br/><br/>
+<strong>Please log in as a dedicated Scheduled Chatter user before clicking the below button.</strong><br/>  
+<i><apex:messages layout="table"/></i>
+<br/>
+ <apex:commandButton value=" Enable Scheduled Chatter " action="{!setupApp}" styleClass=".btnPrimary .publishersharebutton .btn"/>
+ <br/><br/>
+</apex:form>
+
+</apex:pageBlock>
+    
+</apex:page>

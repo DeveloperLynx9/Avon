@@ -1,0 +1,184 @@
+<apex:page controller="SchedChatter.ScheduledPostController" tabStyle="profile" action="{!checkForSetup}">
+    <head>
+  <apex:includeScript value="{!$Resource.SchedChatter__mootools}"/>
+  <apex:includeScript value="{!$Resource.SchedChatter__AutoCompleter}"/>
+  <apex:includeScript value="{!$Resource.SchedChatter__autocompleterLocal}"/>
+  <apex:includeScript value="{!$Resource.SchedChatter__observer}"/>
+  <link rel="stylesheet" type="text/css" href="{!$Resource.autocompleterCss}" />
+  <link class="user" href="/sCSS/18.0/sprites/1272302187000/Theme3/default/chatter.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    .demo-info
+    {
+      position:           absolute;
+      top:                0;
+      right:              4px;
+      padding:            1px 2px;
+      font-size:          0.9em;
+      color:              #888;
+    }
+    body .bodyDiv #bd_lexi{
+    position:absolute;
+    left:-20px;
+    width:20px;
+    height:100%;
+    background: transparent url('/img/alohaSkin/bd_sprite.png') left top repeat-y;
+}
+
+body .bodyDiv #bd_rlexer{
+    position:absolute;
+    width:20px;
+    height:100%;
+    left: 650px;
+    background: transparent url('/img/alohaSkin/bd_right_shadow.png') top right repeat-y;
+}
+body .bodyDiv #bd_rlexi{
+    position:absolute;
+    width:20px;
+    height:100%;
+
+    right: -20px;
+    background: transparent url('/img/alohaSkin/bd_sprite.png') top right repeat-y;
+}
+        .bPageBlock
+        {
+            
+            background-color:#FF00FF;
+        }
+    .odd { 
+        background-color: #eee;
+    }
+    .even {
+        background-color: #bbb;
+    }
+  </style>
+<script type="text/javascript">
+document.addEvent('domready', function() {
+ 
+    // Test source, list of countries
+    var tokens = ['Rose Gonzalez CRM 9/28/2009', 'Rose Gonzalez CRM 10/5/2009',
+    'Rose Gonzalez CRM 10/12/2009',
+    'Rose Gonzalez CRM 10/19/2009',
+    'Rose Gonzalez CRM 10/26/2009',
+    'Rose Gonzalez CRM 11/2/2009',
+    'Rose Gonzalez CRM 11/9/2009',
+    'Rose Gonzalez CRM 11/16/2009',
+    'Rose Gonzalez CRM 11/23/2009',
+    'Rose Gonzalez CRM 11/30/2009',
+    'Rose Gonzalez CRM 12/7/2009',
+    'Rose Gonzalez CRM 12/14/2009',
+    'Rose Gonzalez CRM 12/21/2009',
+    'Rose Gonzalez CRM 12/28/2009',
+    'Rose Gonzalez CRM 1/4/2010',
+    'Rose Gonzalez CRM 1/11/2010',
+    'Rose Gonzalez CRM 1/19/2010',
+    'Rose Gonzalez CRM 1/25/2010',
+    'Rose Gonzalez CRM 2/1/2010',
+    'Rose Gonzalez CRM 2/8/2010',
+    'Rose Gonzalez CRM 2/16/2010',
+  'Sean Forbes CRM 10/19/2009',
+  'Sean Forbes CRM 10/26/2009',
+  'Sean Forbes CRM 11/2/2009',
+  'Sean Forbes CRM 11/9/2009',
+  'Sean Forbes CRM 11/16/2009',
+  'Sean Forbes CRM 11/23/2009',
+  'Sean Forbes CRM 11/30/2009',
+  'Sean Forbes CRM 12/7/2009',
+  'Sean Forbes CRM 12/14/2009',
+  'Sean Forbes CRM 12/21/2009',
+  'Sean Forbes CRM 12/28/2009',
+  'Sean Forbes CRM 1/4/2010',
+  'Sean Forbes CRM 1/11/2010',
+  'Sean Forbes CRM 1/19/2010',
+  'Sean Forbes CRM 1/25/2010',
+  'Sean Forbes CRM 2/1/2010',
+  'Sean Forbes CRM 2/8/2010',
+  'Sean Forbes CRM 2/16/2010',
+  'Sean Forbes CRM 2/22/2010',
+  'Sean Forbes CRM 3/1/2010',
+  'Sean Forbes CRM 3/8/2010' 
+    ];
+    // selectMode 'type-ahead' allows fast typing
+    new Autocompleter.Local('j_id0:theForm:j_id7:theInput', tokens, {
+        'minLength': 1,
+        'overflow': true,
+        'selectMode': 'type-ahead'
+    });
+});
+</script>
+
+ </head>
+
+
+
+
+
+<div class="bodyDiv" style="margin-top: 10px; margin-left: 230px; float: left; width: 650px" ><div id="bd_l"></div> <div id="bd_rlexer"></div> <div id="motifCurve"><div id="mc_l"></div><div id="mc_r"></div></div><div id="bd_b"><div id="bd_bl"></div><div id="bd_br"></div></div>
+<div class="feedcontainer">
+<div class="cxfeedcontainer feed">
+<div class="cxfeedgroupheader feedgroupheader">
+
+<!--  AASHAY ADD HTML BELOW also, change the style attrib in the bodydiv to make the box bigger change 700px to 850px for example-->
+
+<img src="{!$Resource.clock}" align="left"  /> <h3><font size="6">Schedule a Chatter post</font></h3>
+<br/>
+<br/>
+<br/>
+<br/>
+<div style="clear:all;">
+<apex:form >
+
+<strong>Message: </strong> &nbsp;<apex:inputText size="70" value="{!post.SchedChatter__Body__c}"/><br/><br/>
+<strong> Profile to Post to:&nbsp;</strong> <apex:selectList value="{!userid}" multiselect="false" size="1">
+      <apex:selectOptions value="{!items}"/>
+</apex:selectList><br/><br/>
+<strong>Time to Post &nbsp;:</strong><apex:inputField value="{!post.SchedChatter__PostDateTime__c}"/>
+<br/>
+<i><apex:messages layout="table"/></i>
+<br/>
+ <apex:commandButton value=" Save " action="{!save}" styleClass=".btnPrimary .publishersharebutton .btn"/>
+ <br/><br/>
+</apex:form>
+
+<apex:form >
+<apex:pageBlock >
+    <apex:pageBlockSection title="Posts currently Scheduled" id="PostsCurrentlyScheduled" >
+        <apex:dataTable value="{!allPostsByPostdateAsc}" var="apost" width="610px" columnsWidth="150px, 80px, 10px, 10px" columns="4" cellpadding="1px" cellspacing="1px" border="0" rowClasses="even,odd">            
+            <apex:column >
+                <apex:facet name="header">Post</apex:facet>
+                <apex:outputText value="{!apost.SchedChatter__Body__c}"/>                        
+            </apex:column>
+            <apex:column >
+                <apex:facet name="header">Scheduled At</apex:facet>
+                <apex:outputField value="{!apost.SchedChatter__PostDateTime__c}"/>                     
+            </apex:column>
+            <apex:column >
+                <apex:facet name="header">Posting To</apex:facet>                
+                <apex:outputField value="{!apost.posttouser__r.name}"/>                    
+            </apex:column>
+            <apex:column >
+                <apex:facet name="header">Remove</apex:facet>
+                <apex:commandButton value=" Remove " action="{!deletePost}" rerender="PostsCurrentlyScheduled">
+                    <apex:param name="postToDel" assignTo="{!postToDel}" value="{!apost.id}"/>
+                </apex:commandButton>                                 
+            </apex:column>           
+        </apex:dataTable>
+    </apex:pageBlockSection>
+</apex:pageBlock> 
+</apex:form>
+<!--  AASHAY ADD HTML ABOVE -->
+
+
+
+</div>
+
+</div>
+
+    
+         
+</div></div></div>
+
+   
+    <br/>
+    
+    </apex:page>

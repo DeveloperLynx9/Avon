@@ -1,0 +1,377 @@
+2016-03-07 08:52:19,568 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 08:52:30,839 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 08:52:30,840 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 08:52:30,841 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 08:52:30,844 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 08:52:30,855 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 08:52:30,855 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 09:20:00,179 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 09:20:09,169 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 09:20:09,171 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 09:20:09,172 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 09:20:09,173 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 09:20:09,176 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 09:20:09,177 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 09:46:14,570 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 09:46:24,167 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 09:46:24,168 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 09:46:24,169 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 09:46:24,171 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 09:46:24,173 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 09:46:24,176 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 10:15:35,265 ERROR [main] - Error null
+2016-03-07 10:15:35,269 INFO  [main] - Proceso terminado
+2016-03-07 10:17:15,549 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 10:17:25,268 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 10:17:25,269 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 10:17:25,270 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 10:17:25,273 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 10:17:25,275 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 10:17:25,278 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 10:18:15,617 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 10:18:24,760 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 10:18:24,761 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 10:18:24,762 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 10:18:24,766 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 10:18:24,769 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 10:18:24,771 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 10:18:37,099 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 10:18:46,307 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 10:18:46,308 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 10:18:46,309 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 10:18:46,311 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 10:18:46,313 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 10:18:46,315 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 10:29:06,365 ERROR [main] - Error null
+2016-03-07 10:29:06,369 INFO  [main] - Proceso terminado
+2016-03-07 10:34:19,368 ERROR [main] - Error null
+2016-03-07 10:34:19,372 INFO  [main] - Proceso terminado
+2016-03-07 10:37:48,986 ERROR [main] - Error null
+2016-03-07 10:37:48,990 INFO  [main] - Proceso terminado
+2016-03-07 10:40:55,142 ERROR [main] - Error null
+2016-03-07 10:40:55,145 INFO  [main] - Proceso terminado
+2016-03-07 10:45:51,081 ERROR [main] - Error null
+2016-03-07 10:45:51,085 INFO  [main] - Proceso terminado
+2016-03-07 10:48:14,082 ERROR [main] - Error null
+2016-03-07 10:48:14,087 INFO  [main] - Proceso terminado
+2016-03-07 10:57:07,780 ERROR [main] - Error null
+2016-03-07 10:57:07,784 INFO  [main] - Proceso terminado
+2016-03-07 10:57:50,193 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 10:57:59,845 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 10:57:59,848 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 10:57:59,849 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 10:57:59,852 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 10:57:59,855 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 10:57:59,857 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 11:10:30,052 ERROR [main] - Error null
+2016-03-07 11:10:30,056 INFO  [main] - Proceso terminado
+2016-03-07 11:15:14,011 ERROR [main] - Error null
+2016-03-07 11:15:14,015 INFO  [main] - Proceso terminado
+2016-03-07 11:15:33,056 ERROR [main] - Error null
+2016-03-07 11:15:33,059 INFO  [main] - Proceso terminado
+2016-03-07 11:16:22,222 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 11:16:32,713 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 11:16:32,717 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 11:16:32,718 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 11:16:32,720 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 11:16:32,723 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 11:16:32,727 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 11:24:17,183 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 11:24:28,796 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 11:24:28,797 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 11:24:28,798 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 11:24:28,803 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 11:24:28,805 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 11:24:28,806 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 11:30:42,273 ERROR [main] - Error null
+2016-03-07 11:30:42,277 INFO  [main] - Proceso terminado
+2016-03-07 11:35:15,794 ERROR [main] - Error null
+2016-03-07 11:35:15,799 INFO  [main] - Proceso terminado
+2016-03-07 11:41:21,913 ERROR [main] - Error null
+2016-03-07 11:41:21,917 INFO  [main] - Proceso terminado
+2016-03-07 11:41:22,690 ERROR [main] - Error null
+2016-03-07 11:41:22,693 INFO  [main] - Proceso terminado
+2016-03-07 11:43:59,358 ERROR [main] - Error null
+2016-03-07 11:43:59,362 INFO  [main] - Proceso terminado
+2016-03-07 11:50:51,490 ERROR [main] - Error null
+2016-03-07 11:50:51,493 INFO  [main] - Proceso terminado
+2016-03-07 11:57:59,448 ERROR [main] - Error null
+2016-03-07 11:58:25,379 ERROR [main] - Error null
+2016-03-07 11:58:25,382 INFO  [main] - Proceso terminado
+2016-03-07 12:04:23,965 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 12:04:33,577 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 12:04:33,578 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 12:04:33,579 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 12:04:33,582 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 12:04:33,585 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 12:04:33,586 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 12:08:18,166 ERROR [main] - Error null
+2016-03-07 12:08:18,167 INFO  [main] - Proceso terminado
+2016-03-07 12:29:12,241 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 12:29:21,322 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 12:29:21,324 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 12:29:21,325 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 12:29:21,327 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 12:29:21,330 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 12:29:21,332 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 12:58:19,069 ERROR [main] - Error null
+2016-03-07 12:58:19,071 INFO  [main] - Proceso terminado
+2016-03-07 13:07:46,938 ERROR [main] - Error null
+2016-03-07 13:07:46,940 INFO  [main] - Proceso terminado
+2016-03-07 13:10:30,494 ERROR [main] - Error null
+2016-03-07 13:10:30,496 INFO  [main] - Proceso terminado
+2016-03-07 13:12:09,227 ERROR [main] - Error null
+2016-03-07 13:12:09,229 INFO  [main] - Proceso terminado
+2016-03-07 13:19:25,868 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:19:34,442 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:19:34,443 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:19:34,444 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:19:34,448 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:19:34,450 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:19:34,453 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:20:07,678 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:20:16,360 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:20:16,361 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:20:16,362 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:20:16,364 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:20:58,044 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:21:06,640 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:21:06,641 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:21:06,642 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:21:06,644 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:21:50,473 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:21:58,893 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:21:58,894 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:21:58,895 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:21:58,897 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:25:02,065 ERROR [main] - Error null
+2016-03-07 13:25:02,068 INFO  [main] - Proceso terminado
+2016-03-07 13:26:10,005 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:26:18,083 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:26:18,084 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:26:18,084 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:26:18,087 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:26:18,090 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:26:18,091 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:32:02,589 ERROR [main] - Error null
+2016-03-07 13:32:02,593 INFO  [main] - Proceso terminado
+2016-03-07 13:32:21,919 ERROR [main] - Error null
+2016-03-07 13:32:21,921 INFO  [main] - Proceso terminado
+2016-03-07 13:35:31,534 ERROR [main] - Error null
+2016-03-07 13:35:31,538 INFO  [main] - Proceso terminado
+2016-03-07 13:36:43,257 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:36:51,444 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:36:51,446 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:36:51,447 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:36:51,452 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:36:51,455 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:36:51,457 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:42:08,925 ERROR [main] - Error null
+2016-03-07 13:42:08,927 INFO  [main] - Proceso terminado
+2016-03-07 13:42:25,042 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:42:33,414 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:42:33,415 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:42:33,415 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:42:33,419 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:42:33,421 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:42:33,424 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:42:44,172 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:42:52,358 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:42:52,360 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:42:52,361 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:42:52,363 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:42:52,365 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:42:52,366 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:43:08,603 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:43:16,681 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:43:16,682 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:43:16,682 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:43:16,685 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:43:16,687 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:43:16,689 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:43:47,698 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:43:55,887 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:43:55,889 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:43:55,889 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:43:55,896 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:43:55,899 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:43:55,905 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:44:08,977 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:44:16,909 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:44:16,910 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:44:16,911 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:44:16,914 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:44:16,916 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:44:16,919 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:49:01,531 ERROR [main] - Error null
+2016-03-07 13:49:01,535 INFO  [main] - Proceso terminado
+2016-03-07 13:49:48,108 ERROR [main] - Error null
+2016-03-07 13:49:48,112 INFO  [main] - Proceso terminado
+2016-03-07 13:51:13,623 ERROR [main] - Error null
+2016-03-07 13:51:13,627 INFO  [main] - Proceso terminado
+2016-03-07 13:52:23,528 ERROR [main] - Error null
+2016-03-07 13:52:23,532 INFO  [main] - Proceso terminado
+2016-03-07 13:54:22,817 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 13:54:31,445 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 13:54:31,447 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 13:54:31,448 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 13:54:31,450 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 13:54:31,451 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 13:54:31,453 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 13:59:00,188 ERROR [main] - Error null
+2016-03-07 13:59:00,192 INFO  [main] - Proceso terminado
+2016-03-07 14:00:40,337 ERROR [main] - Error null
+2016-03-07 14:00:40,339 INFO  [main] - Proceso terminado
+2016-03-07 14:02:07,520 ERROR [main] - Error null
+2016-03-07 14:02:07,522 INFO  [main] - Proceso terminado
+2016-03-07 14:04:04,996 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 14:04:13,365 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 14:04:13,366 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 14:04:13,367 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 14:04:13,369 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 14:04:13,372 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 14:04:13,375 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 14:05:35,612 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 14:05:44,121 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 14:05:44,122 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 14:05:44,123 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 14:05:44,125 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 14:05:44,126 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 14:05:44,127 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 14:06:15,230 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 14:06:23,890 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 14:06:23,891 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 14:06:23,892 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 14:06:23,896 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 14:06:23,898 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 14:06:23,901 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 14:08:29,169 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 14:08:37,718 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 14:08:37,719 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 14:08:37,722 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 14:08:37,725 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 14:08:37,727 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 14:08:37,729 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 14:10:10,850 ERROR [main] - Error null
+2016-03-07 14:10:10,853 INFO  [main] - Proceso terminado
+2016-03-07 14:11:17,572 ERROR [main] - Error null
+2016-03-07 14:11:35,142 ERROR [main] - Error null
+2016-03-07 14:11:35,146 INFO  [main] - Proceso terminado
+2016-03-07 14:11:35,147 ERROR [main] - Error null
+2016-03-07 14:11:35,149 INFO  [main] - Proceso terminado
+2016-03-07 14:15:06,933 ERROR [main] - Error null
+2016-03-07 14:15:06,938 INFO  [main] - Proceso terminado
+2016-03-07 14:17:34,190 ERROR [main] - Error null
+2016-03-07 14:17:34,194 INFO  [main] - Proceso terminado
+2016-03-07 14:17:53,645 ERROR [main] - Error null
+2016-03-07 14:17:53,649 INFO  [main] - Proceso terminado
+2016-03-07 14:18:38,598 ERROR [main] - Error null
+2016-03-07 14:18:38,600 INFO  [main] - Proceso terminado
+2016-03-07 14:19:04,204 ERROR [main] - Error null
+2016-03-07 14:19:04,208 INFO  [main] - Proceso terminado
+2016-03-07 14:23:57,375 ERROR [main] - Error null
+2016-03-07 14:23:57,379 INFO  [main] - Proceso terminado
+2016-03-07 14:43:40,509 ERROR [main] - Error null
+2016-03-07 14:43:41,958 INFO  [main] - The email was sent successfully.
+2016-03-07 14:43:41,960 INFO  [main] - Proceso terminado
+2016-03-07 14:46:59,123 ERROR [main] - Error null
+2016-03-07 14:46:59,126 INFO  [main] - Proceso terminado
+2016-03-07 14:47:43,025 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 14:47:52,799 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 14:47:52,800 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 14:47:52,804 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 14:47:52,809 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 14:47:52,812 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 14:47:52,815 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 14:58:17,065 ERROR [main] - Error null
+2016-03-07 14:58:17,068 INFO  [main] - Proceso terminado
+2016-03-07 17:39:51,238 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 17:40:01,243 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 17:40:01,244 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 17:40:01,245 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 17:40:01,246 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 17:40:01,288 INFO  [main] - Total de regiones:3
+2016-03-07 17:40:01,289 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 17:40:01,317 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 17:40:58,321 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 17:41:08,112 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 17:41:08,113 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 17:41:08,114 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 17:41:08,119 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 17:41:08,127 INFO  [main] - Total de regiones:3
+2016-03-07 17:41:08,128 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 17:41:08,137 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 17:41:09,700 INFO  [main] - The email was sent successfully.
+2016-03-07 17:41:09,705 INFO  [main] - Proceso terminado
+2016-03-07 17:52:17,292 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 17:52:26,823 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 17:52:26,824 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 17:52:26,825 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 17:52:26,829 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 17:52:26,836 INFO  [main] - Total de regiones:3
+2016-03-07 17:52:26,837 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 17:52:26,845 INFO  [main] - Total de Divisiones:13
+2016-03-07 17:52:26,852 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 17:52:26,923 INFO  [main] - Total de Zonas:2
+2016-03-07 17:52:28,607 INFO  [main] - The email was sent successfully.
+2016-03-07 17:52:28,608 INFO  [main] - Proceso terminado
+2016-03-07 17:55:24,491 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 17:55:34,222 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 17:55:34,223 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 17:55:34,224 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 17:55:34,227 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 17:55:34,235 INFO  [main] - Total de regiones:3
+2016-03-07 17:55:34,236 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 17:55:34,244 INFO  [main] - Total de Divisiones:13
+2016-03-07 17:55:34,247 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 17:55:34,309 INFO  [main] - Total de Zonas:2
+2016-03-07 17:55:35,605 INFO  [main] - The email was sent successfully.
+2016-03-07 17:55:35,606 INFO  [main] - Proceso terminado
+2016-03-07 17:57:45,242 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 17:57:55,018 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 17:57:55,021 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 17:57:55,026 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 17:57:55,027 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 17:57:55,092 INFO  [main] - Total de regiones:3
+2016-03-07 17:57:55,093 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 17:57:55,116 INFO  [main] - Total de Divisiones:13
+2016-03-07 17:57:55,119 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 17:57:55,259 INFO  [main] - Total de Zonas:2
+2016-03-07 17:57:56,805 INFO  [main] - The email was sent successfully.
+2016-03-07 17:57:56,808 INFO  [main] - Proceso terminado
+2016-03-07 23:14:35,146 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 23:14:47,634 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 23:14:47,635 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 23:14:47,636 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 23:14:47,636 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 23:14:47,677 INFO  [main] - Total de regiones:3
+2016-03-07 23:14:47,678 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 23:14:47,702 INFO  [main] - Total de Divisiones:13
+2016-03-07 23:14:47,710 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 23:14:47,959 INFO  [main] - Total de Zonas:2
+2016-03-07 23:14:49,202 INFO  [main] - The email was sent successfully.
+2016-03-07 23:14:49,205 INFO  [main] - Proceso terminado
+2016-03-07 23:21:23,483 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 23:21:31,607 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 23:21:31,608 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 23:21:31,609 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 23:21:31,610 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 23:21:31,618 INFO  [main] - Total de regiones:3
+2016-03-07 23:21:31,619 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 23:21:31,626 INFO  [main] - Total de Divisiones:13
+2016-03-07 23:21:31,628 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 23:21:31,674 INFO  [main] - Total de Zonas:2
+2016-03-07 23:21:32,834 INFO  [main] - The email was sent successfully.
+2016-03-07 23:21:32,834 INFO  [main] - Proceso terminado
+2016-03-07 23:24:06,770 INFO  [main] - Consultando tipo de registro 'Representante'...
+2016-03-07 23:24:14,817 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\region.txt
+2016-03-07 23:24:14,819 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\division.txt
+2016-03-07 23:24:14,824 INFO  [main] - Buscando archivo: C:\Developer\Avon\JerarquiaParser\src\zona.txt
+2016-03-07 23:24:14,825 INFO  [main] - Parseando archivo:region.txt
+2016-03-07 23:24:14,830 INFO  [main] - Total de regiones:3
+2016-03-07 23:24:14,831 INFO  [main] - Parseando archivo:division.txt
+2016-03-07 23:24:14,834 INFO  [main] - Total de Divisiones:13
+2016-03-07 23:24:14,837 INFO  [main] - Parseando archivo:zona.txt
+2016-03-07 23:24:14,885 INFO  [main] - Total de Zonas:2
+2016-03-07 23:24:15,794 INFO  [main] - The email was sent successfully.
+2016-03-07 23:24:15,794 INFO  [main] - Proceso terminado

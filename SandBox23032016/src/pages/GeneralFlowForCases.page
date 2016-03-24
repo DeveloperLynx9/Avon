@@ -1,0 +1,4 @@
+<apex:page standardController="Case" extensions="ctrlGeneralFlowForCases" tabStyle="Case">
+    <flow:interview name="avon_ejemplo" interview="{!myFlow}" finishLocation="{!finish}" >
+    </flow:interview>
+</apex:page>
