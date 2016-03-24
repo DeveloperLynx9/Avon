@@ -34,18 +34,23 @@ public class ParserZona extends RootParser{
 		zona.setEXTERNAL_ID__c('Z'+campos[0].trim());
 		zona.setRecordTypeId(rtZona);
 		
-		String ExternalId = "";
-		try {
-			ExternalId = StringUtils.leftPad(campos[3].trim(), 8, "0");
+			String ExternalId = "";
+			try {
+				ExternalId = StringUtils.leftPad(campos[3].trim(), 8, "0");
+				logger.info("Registro: " + ExternalId);
+				
 			} catch (Exception e) {
-			logger.error(ExternalId + "Error en ficha:" + e.toString() );
-		}
+				logger.error(ExternalId + "Error en ficha:" + e.toString() );
+			}
 		
-		User gerente = new User();
-		gerente.setFirstName( campos[4].trim());
-		gerente.setLastName( campos[5].trim() );
-		gerente.setEmail(campos[6]);
-	
+			User gerente = new User();
+			String apellido =campos[4].trim();
+			if(apellido.length()>80){
+				apellido= apellido.substring(0, 80);
+			}
+			gerente.setFirstName( campos[4].trim());
+			gerente.setLastName( campos[5].trim() );
+			gerente.setEmail(campos[6]);
 						
 			if(mapaGerentes==null){
 				mapaGerentes = new HashMap<String, User>();
