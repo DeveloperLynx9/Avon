@@ -58,6 +58,7 @@ public class ParserDivision extends RootParser{
 			}
 			mapDivision.put(division.getEXTERNAL_ID__c(), division);
 		}
+	
 	public HashMap<String, Account> getMapDivision() {
 		return mapDivision;
 	}

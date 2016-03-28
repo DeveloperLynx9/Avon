@@ -27,6 +27,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 		super(MOD);
 		this.ivMod=ivMod;
 	}
+	
 	@Override
 	void item(String[] campos) {
  		Movimiento__c ivr = new Movimiento__c();
@@ -41,9 +42,8 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			ivr.setRecordTypeId(ivMod);
 			
 			ivr.setTipo_Modificacion__c("COD");
-			logger.info("Tipo de Modificación:" + ivr.getTipo_Modificacion__c());
+			logger.info("Tipo de ModificaciÃ³n:" + ivr.getTipo_Modificacion__c());
 			
-			//ivr.setExternal_Id_c__c(campos[0].trim());
 			ivr.setExternal_Id_c__c(key);
 			logger.info("External:" + ivr.getExternal_Id_c__c());
 		
@@ -63,14 +63,13 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			
 			Calendar cal = Calendar.getInstance();
 			cal.setTime(fechaIVR);
-			
 			String noCamp = campos[4].trim();
 			
 			String aCampania = cal.get(Calendar.YEAR) + StringUtils.leftPad(noCamp, 2, '0');
 			Campania_Avon__c cam = new Campania_Avon__c();
 			cam.setExternal_Id__c(aCampania);
 			ivr.setA_Campania__r(cam);
-			logger.info("A Campaña:" + aCampania);
+			logger.info("A CampaÃ±a:" + aCampania);
 			
 			String dValor = campos[6].trim();
 			Double ddValor = 0.00;
@@ -93,7 +92,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			logger.info("A Valor:" + aValor);
 			
 			ivr.setAutorizacion_IVR__c(campos[10].trim());
-			logger.info("Autorización: " + campos[10]);
+			logger.info("AutorizaciÃ³n: " + campos[10]);
 			
 			ivr.setDigitos__c(campos[11].trim());
 			logger.info("Digitos: " + ivr.getDigitos__c());
@@ -101,8 +100,10 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			if(mapMod==null){
 				mapMod = new HashMap<String, Movimiento__c>();
 			}
-			mapMod.putAll (getmapMod());
-		}		
+			mapMod.put (ivr.getExternal_Id_c__c(), ivr);
+			
+		}	
+	
 	public HashMap<String, Movimiento__c> getmapMod() {
 		return mapMod;
 		}
@@ -112,4 +113,5 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 	public void setIvMod(String ivMod) {
 		this.ivMod = ivMod;
 	}
+	
 }

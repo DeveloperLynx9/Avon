@@ -123,7 +123,6 @@ public class JerarquiaProceso {
 			
 		}catch(Exception e){
 			logger.error("Error " + e.getMessage());
-			//messages.append("Error consultando el tipo de registro 'Representante':" + e.getMessage());
 			return false;
 		}
 		
@@ -176,7 +175,7 @@ public class JerarquiaProceso {
 						fZona = fTempMay_z;
 					}
  			if (fRegion==null){
-				logger.error( "No se encontro el archivo: region_" + dateFile+ ".csv \n" );
+				logger.error( "No se encontro el archivo: region_" + dateFile + ".csv \n" );
 				messages.append( "No se encontro el archivo: region_160308.csv \n" );
 				} 
 			if(fDivision==null){
@@ -403,6 +402,7 @@ public class JerarquiaProceso {
 	}	
 	
 	private Boolean store_d(){
+		
 	//------------------------------DIVISIONES---------------------//
 		Boolean success =true;
 		List<Account> listSFObjs = new ArrayList<Account>(mapDivision.values());// solo los valores
@@ -413,28 +413,28 @@ public class JerarquiaProceso {
 		SForceClient sfc = new SForceClient();
 		try {
 			logger.debug("To upsert:" + arrSFObjs.length);
-			Integer total_d = arrSFObjs.length;
-			Integer totalSuccess_d = 0;
-			Integer totalUpdated_d = 0;
-			Integer totalInserted_d = 0;
-			Integer totalError_d = 0;
-			Integer index_d=-1;
+			Integer total = arrSFObjs.length;
+			Integer totalSuccess = 0;
+			Integer totalUpdated = 0;
+			Integer totalInserted = 0;
+			Integer totalError = 0;
+			Integer index=-1;
 			//Upsert Cuentas -> DIVISIONES
-			UpsertResult[] results_d = sfc.upsertObjects("EXTERNAL_ID__c" ,arrSFObjs);
-				if(results_d!=null){
-					results_d.hashCode();
-					for(UpsertResult result:results_d){
-					index_d++;
+			UpsertResult[] results = sfc.upsertObjects("EXTERNAL_ID__c" ,arrSFObjs);
+				if(results!=null){
+					results.hashCode();
+					for(UpsertResult result:results){
+					index++;
 					if(result==null){
 						continue;
 					}	
 					if(result.isSuccess()){
-						totalSuccess_d++;
+						totalSuccess++;
 						if(result.isCreated()){
-							totalInserted_d++;
+							totalInserted++;
 						}else{
-							totalUpdated_d++;
-							logger.info(totalUpdated_d);
+							totalUpdated++;
+							logger.info(totalUpdated);
 						}
 						continue;
 					}
@@ -442,8 +442,8 @@ public class JerarquiaProceso {
 					if(errors==null){
 						continue;
 					}
-					totalError_d++;
-					Account acc = (Account)arrSFObjs[index_d];
+					totalError++;
+					Account acc = (Account)arrSFObjs[index];
 					for(com.sforce.soap.enterprise.Error error:errors){
 						if(errors==null){
 							continue;
@@ -475,21 +475,21 @@ public class JerarquiaProceso {
 				UpsertResult[]fin = sfc.upsertObjects("Registro__c",arraySocio);
 				logger.info(fin.hashCode());
 				if(fin!=null){
-					results_d.hashCode();
-					index_d=0;
-					totalSuccess_d=0;
-					totalUpdated_d=0;
+					results.hashCode();
+					index=0;
+					totalSuccess=0;
+					totalUpdated=0;
 					for(UpsertResult result:fin){
-					index_d++;
+					index++;
 					if(result==null){
 						continue;
 					}	
 					if(result.isSuccess()){
-						totalSuccess_d++;
+						totalSuccess++;
 						if(result.isCreated()){
-							totalInserted_d++;
+							totalInserted++;
 						}else{
-							totalUpdated_d++;
+							totalUpdated++;
 						}
 						continue;
 					}
@@ -497,8 +497,8 @@ public class JerarquiaProceso {
 					if(errors==null){
 						continue;
 					}
-					totalError_d++;
-					Account acc = (Account)arrSFObjs[index_d];
+					totalError++;
+					Account acc = (Account)arrSFObjs[index];
 					for(com.sforce.soap.enterprise.Error error:errors){
 						if(errors==null){
 							continue;
@@ -511,13 +511,13 @@ public class JerarquiaProceso {
 					}	
 				}
 			}
-			logger.info("success:" + totalSuccess_d + ", errors:" + totalError_d);
+			logger.info("success:" + totalSuccess + ", errors:" + totalError);
 			messages.append("\n   Total de Divisiones    \n\n");
-			messages.append(" Total de registros procesados:" + total_d + "\n");
-			messages.append(" Total de registros exitosos:" + totalSuccess_d + "\n");
-			messages.append(" Total de registros erroneos:" + totalError_d + "\n");
-			messages.append(" Total de registros actualizados:" + totalUpdated_d + "\n");
-			messages.append(" Total de registros insertados:" + totalInserted_d + "\n");
+			messages.append(" Total de registros procesados:" + total + "\n");
+			messages.append(" Total de registros exitosos:" + totalSuccess + "\n");
+			messages.append(" Total de registros erroneos:" + totalError + "\n");
+			messages.append(" Total de registros actualizados:" + totalUpdated + "\n");
+			messages.append(" Total de registros insertados:" + totalInserted + "\n");
 		} catch (Exception e) {
 			logger.error("Error actualizando registros:" + e.getMessage());
 			messages.append("Error subiendo la información a Salesforce.com \n");
@@ -539,32 +539,32 @@ public class JerarquiaProceso {
 			SForceClient sfc = new SForceClient();
 			try {
 				logger.debug("To upsert:" + arrSFObjs.length);
-				Integer total_z = arrSFObjs.length;
-				Integer totalSuccess_z = 0;
-				Integer totalUpdated_z = 0;
-				Integer totalInserted_z = 0;
-				Integer totalError_z = 0;
-				Integer index_z=-1;
+				Integer total = arrSFObjs.length;
+				Integer totalSuccess = 0;
+				Integer totalUpdated = 0;
+				Integer totalInserted = 0;
+				Integer totalError= 0;
+				Integer index=-1;
 				//Upsert Cuentas -> Zona
-				UpsertResult[] results_z = null;
+				UpsertResult[] results = null;
 				try{
-					results_z = sfc.upsertObjects("EXTERNAL_ID__c" ,arrSFObjs);
+					results = sfc.upsertObjects("EXTERNAL_ID__c" ,arrSFObjs);
 				}catch(Exception e){
 					logger.error("Error actualizando zonas:" + e.getMessage());
 				}
-					if(results_z!=null){
-						results_z.hashCode();
-						for(UpsertResult result:results_z){
-						index_z++;
+					if(results!=null){
+						results.hashCode();
+						for(UpsertResult result:results){
+						index++;
 						if(result==null){
 							continue;
 						}	
 						if(result.isSuccess()){
-							totalSuccess_z++;
+							totalSuccess++;
 							if(result.isCreated()){
-								totalInserted_z++;
+								totalInserted++;
 							}else{
-								totalUpdated_z++;
+								totalUpdated++;
 							}
 							continue;
 						}
@@ -572,8 +572,8 @@ public class JerarquiaProceso {
 						if(errors==null){
 							continue;
 						}
-						totalError_z++;
-						Account acc = (Account)arrSFObjs[index_z];
+						totalError++;
+						Account acc = (Account)arrSFObjs[index];
 						for(com.sforce.soap.enterprise.Error error:errors){
 							if(errors==null){
 								continue;
@@ -607,31 +607,31 @@ public class JerarquiaProceso {
 					
 					UpsertResult[]fin = sfc.upsertObjects("Registro__c",arraySocio);
 					if(fin!=null){
-						results_z.hashCode();
-						index_z=0;
-						totalSuccess_z=0;
-						totalUpdated_z=0;
+						results.hashCode();
+						index=0;
+						totalSuccess=0;
+						totalUpdated=0;
 												
-						for(UpsertResult result_z:fin){
-						index_z++;
-						if(result_z==null){
+						for(UpsertResult result:fin){
+						index++;
+						if(result==null){
 							continue;
 						}	
-						if(result_z.isSuccess()){
-							totalSuccess_z++;
-							if(result_z.isCreated()){
-								totalInserted_z++;
+						if(result.isSuccess()){
+							totalSuccess++;
+							if(result.isCreated()){
+								totalInserted++;
 							}else{
-								totalUpdated_z++;
+								totalUpdated++;
 							}
 							continue;
 						}
-						com.sforce.soap.enterprise.Error[] errors = result_z.getErrors();
+						com.sforce.soap.enterprise.Error[] errors = result.getErrors();
 						if(errors==null){
 							continue;
 						}
-						totalError_z++;
-						Contact acc = arraySocio[index_z];
+						totalError++;
+						Contact acc = arraySocio[index];
 						for(com.sforce.soap.enterprise.Error error:errors){
 							if(errors==null){
 								continue;
@@ -644,13 +644,13 @@ public class JerarquiaProceso {
 						}	
 					}
 				}
-				logger.info("success:" + totalSuccess_z + ", errors:" + totalError_z);
+				logger.info("success:" + totalSuccess + ", errors:" + totalError);
 				messages.append("\n\n     Total de Zonas     \n\n");
-				messages.append(" Total de registros procesados:" + total_z + "\n");
-				messages.append(" Total de registros exitosos:" + total_z + "\n");
-				messages.append(" Total de registros erroneos:" + totalError_z + "\n");
-				messages.append(" Total de registros actualizados:" + total_z + "\n");
-				messages.append(" Total de registros insertados:" + totalInserted_z + "\n");
+				messages.append(" Total de registros procesados:" + total + "\n");
+				messages.append(" Total de registros exitosos:" + total + "\n");
+				messages.append(" Total de registros erroneos:" + totalError + "\n");
+				messages.append(" Total de registros actualizados:" + total + "\n");
+				messages.append(" Total de registros insertados:" + totalInserted + "\n");
 				
 			} catch (Exception e) {
 				logger.error("Error actualizando registros:" + e.getMessage());
@@ -660,4 +660,5 @@ public class JerarquiaProceso {
 			}
 			return success;
 		}	
-	}
+	
+}

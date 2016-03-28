@@ -68,8 +68,7 @@ public class ivrParser {
 
 		public ivrParser(){
 				messages = new StringBuffer();
-		};
-		private Date   	date;
+		};private Date   	date;
 		
 		private Boolean init(String indate){
 			SimpleDateFormat sdf 			= new SimpleDateFormat("ddMMyyyy");
@@ -101,7 +100,7 @@ public class ivrParser {
 				return false;
 			}
 			try{
-				//Leer Configuración 
+				//Leer ConfiguraciÃ³n 
 				String loaderName		= new String("");
 				Loader verify 			= new Loader("parser.properties");
 				isDevEnv				= verify.getBoolean("parser.isDevEnv");
@@ -113,14 +112,18 @@ public class ivrParser {
 				Loader loader			= new Loader(loaderName);
 				sFilesPath		 	    = loader.getString("files.path");
 
+				
+				SimpleDateFormat formatDateFile = new SimpleDateFormat("yyMMdd");
+				String dateFile = formatDateFile.format(date);
+				
 				//Buscar Archvo
 				StringBuilder sbFile = new StringBuilder();
 				sbFile.append(sFilesPath);
-				sbFile.append("fMOD2610.txt");
+				sbFile.append("MOD.txt");
 				
 				StringBuilder sbFile_d = new StringBuilder();
 				sbFile_d.append(sFilesPath);
-				sbFile_d.append("fMAN2610.txt");
+				sbFile_d.append("MAN.txt");
 				
 				File fTempMay = new File( sbFile.toString() );
 				logger.info("Buscando archivo: "+fTempMay);
@@ -133,12 +136,12 @@ public class ivrParser {
 						MAN = fTempMay_d;	
 					}
 				if (MOD==null){
-				logger.error( "No se encontro el archivo: fMOD2610.txt" );
-				messages.append( "No se encontro el archivo: fMOD2610.txt\n");
+				logger.error( "No se encontro el archivo: MOD_" + dateFile + ".txt" );
+				messages.append( "No se encontro el archivo: MOD_" + dateFile + ".txt\n");
 					} 
 				if(MAN==null){
-				logger.error( "No se encontro el archivo: fMAN2610.txt" );
-				messages.append( "No se encontro el archivo: fMAN2610.tx\n");
+				logger.error( "No se encontro el archivo: MAN_ " + dateFile + ".txt" );
+				messages.append( "No se encontro el archivo: MAN_" + dateFile + ".tx\n");
 					}
 				if(MOD==null && MAN==null ){
 					return false;
@@ -162,7 +165,7 @@ public class ivrParser {
 					messages.append("Error parseando el archivo: " + MOD.getName() + ", error:" + e.getMessage());
 				}
 				mapMod  = p.getmapMod();
-				logger.info("Total de archivos procesados < Código 235 >: " + mapMod.size());
+				logger.info("Total de archivos MOD procesados < CÃ³digo 235 >: " + mapMod.size());
 			}
 		
 		 if (MAN != null) {
@@ -175,8 +178,7 @@ public class ivrParser {
 				messages.append("Error parseando el archivo: " + MAN.getName() + ", error:" + e.getMessage());
 			}
 			mapMan = p.getmapMan();
-			logger.info("Total de archivos procesados < Código 236 >: " + mapMan.size());
-			
+			logger.info("Total de archivos MAN procesados < CÃ³digo 236 >: " + mapMan.size());
 		}
 	} 
 		
@@ -185,7 +187,7 @@ public class ivrParser {
 			Boolean success =true;
 			
 				List<Movimiento__c> listSFObjs = new ArrayList<Movimiento__c>(mapMod.values());// solo los valores
-				Movimiento__c[] arrSFObjs = new Movimiento__c[listSFObjs.size()];//número de elementos 
+				Movimiento__c[] arrSFObjs = new Movimiento__c[listSFObjs.size()];//nÃºmero de elementos 
 				arrSFObjs = listSFObjs.toArray(arrSFObjs);
 				
 				SForceClient sfc = new SForceClient();
@@ -301,7 +303,7 @@ public class ivrParser {
 					messages.append(" Total de registros insertados:" + totalInserted + "\n");
 				} catch (Exception e) {
 					logger.error("Error actualizando registros:" + e.getMessage());
-					messages.append("Error subiendo la información a Salesforce.com \n");
+					messages.append("Error subiendo la informaciï¿½n a Salesforce.com \n");
 					messages.append(e.getMessage());
 					success = false;
 				}
