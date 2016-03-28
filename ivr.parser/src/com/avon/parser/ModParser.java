@@ -100,7 +100,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			if(mapMod==null){
 				mapMod = new HashMap<String, Movimiento__c>();
 			}
-			mapMod.put (ivr.getExternal_Id_c__c(), ivr);
+			mapMod.put(ivr.getExternal_Id_c__c(), ivr);
 			
 		}	
 	

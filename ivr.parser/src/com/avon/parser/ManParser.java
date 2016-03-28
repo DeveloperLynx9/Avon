@@ -92,7 +92,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 					if(mapMan==null){
 						mapMan = new HashMap<String, Movimiento__c>();
 					}
-					mapMan.put (ivr.getExternal_Id_c__c(), ivr);
+					mapMan.put(ivr.getExternal_Id_c__c(), ivr);
 				}	
 			
 			public HashMap<String, Movimiento__c> getmapMan() {

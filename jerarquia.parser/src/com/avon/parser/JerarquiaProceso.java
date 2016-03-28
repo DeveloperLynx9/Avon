@@ -247,7 +247,6 @@ public class JerarquiaProceso {
 		List<Account> listSFObjs = new ArrayList<Account>(mapRegion.values());// solo los valores
 		Account[] arrSFObjs = new Account[listSFObjs.size()];//número de elementos 
 		arrSFObjs = listSFObjs.toArray(arrSFObjs);
-		logger.info(listSFObjs);
 		
 		SForceClient sfc = new SForceClient();
 		try {
@@ -408,7 +407,6 @@ public class JerarquiaProceso {
 		List<Account> listSFObjs = new ArrayList<Account>(mapDivision.values());// solo los valores
 		Account[] arrSFObjs = new Account[listSFObjs.size()];//número de elementos 
 		arrSFObjs = listSFObjs.toArray(arrSFObjs);
-		logger.info(listSFObjs);
 		
 		SForceClient sfc = new SForceClient();
 		try {
@@ -420,7 +418,7 @@ public class JerarquiaProceso {
 			Integer totalError = 0;
 			Integer index=-1;
 			//Upsert Cuentas -> DIVISIONES
-			UpsertResult[] results = sfc.upsertObjects("EXTERNAL_ID__c" ,arrSFObjs);
+			UpsertResult[] results = sfc.upsertObjects("External_Id_c__c" ,arrSFObjs);
 				if(results!=null){
 					results.hashCode();
 					for(UpsertResult result:results){
