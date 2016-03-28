@@ -40,7 +40,6 @@ public class ParserRegion extends RootParser{
 			} catch (Exception e) {
 				logger.error(ExternalId + "Error en ficha:" + e.toString() );
 			}
-			
 			User gerente = new User();
 			String apellido =campos[4].trim();
 			if(apellido.length()>80){

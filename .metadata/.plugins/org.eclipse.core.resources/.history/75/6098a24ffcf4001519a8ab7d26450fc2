@@ -65,6 +65,5 @@ public class ParserDivision extends RootParser{
 	public HashMap<String, User> getMapaGerentes() {
 		return mapaGerentes;
 	}
-
 }
 	

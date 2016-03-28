@@ -197,8 +197,8 @@ public class JerarquiaProceso {
 		return true;
 	}
 	
+	
 	protected void parse(){
-		
 		// parser jerarquia
 		if (fRegion != null) {
 			logger.info("Parseando archivo:" + fRegion.getName() );
@@ -240,10 +240,11 @@ public class JerarquiaProceso {
 			logger.info("Total de Zonas:" + mapZona.size());
 	 	}
 	}
-	
 	private Boolean store(){
 		
-	//------------------------------REGIONES--------------------------//
+		
+		
+	//------------------------------REGIONES---------------------//
 		Boolean success =true;
 		List<Account> listSFObjs = new ArrayList<Account>(mapRegion.values());// solo los valores
 		Account[] arrSFObjs = new Account[listSFObjs.size()];//número de elementos 
@@ -260,7 +261,7 @@ public class JerarquiaProceso {
 			Integer totalInserted = 0;
 			Integer totalError = 0;
 			
-			ArrayList<User> gerentes = new ArrayList<User>(mapaGerentes.values());
+			ArrayList<Contact> gerentes = new ArrayList<Contact>(mapaGerentes.values());
 			Contact[] arrayGerentes = new Contact[gerentes.size()];
 			gerentes.toArray(arrayGerentes);
 			//Upsert Contactos -> Gerentes 
@@ -529,7 +530,6 @@ public class JerarquiaProceso {
 	
 
 	private Boolean store_z(){
-		
 		//------------------------------ZONAS---------------------//
 			Boolean success =true;
 			List<Account> listSFObjs = new ArrayList<Account>(mapZona.values());// solo los valores

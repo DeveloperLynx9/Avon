@@ -67,7 +67,6 @@ public class ParserRegion extends RootParser{
 	public HashMap<String, Account> getMapRegion() {
 		return mapRegion;
 	}
-	
 	public HashMap<String, User> getMapaGerentes() {
 		return mapaGerentes;
 	}

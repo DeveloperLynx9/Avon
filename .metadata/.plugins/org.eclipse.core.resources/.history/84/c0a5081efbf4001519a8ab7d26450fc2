@@ -45,6 +45,7 @@ public class ParserZona extends RootParser{
 		gerente.setLastName( campos[5].trim() );
 		gerente.setEmail(campos[6]);
 	
+						
 			if(mapaGerentes==null){
 				mapaGerentes = new HashMap<String, User>();
 			}
@@ -59,6 +60,7 @@ public class ParserZona extends RootParser{
 				mapZona = new HashMap<String, Account>();
 			}
 			mapZona.put(zona.getEXTERNAL_ID__c(), zona);
+				
 		}
 
 	public HashMap<String, Account> getMapZona() {

@@ -529,7 +529,6 @@ public class JerarquiaProceso {
 	
 
 	private Boolean store_z(){
-		
 		//------------------------------ZONAS---------------------//
 			Boolean success =true;
 			List<Account> listSFObjs = new ArrayList<Account>(mapZona.values());// solo los valores
