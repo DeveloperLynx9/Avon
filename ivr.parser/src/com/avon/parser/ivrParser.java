@@ -184,6 +184,7 @@ public class ivrParser {
 		private Boolean store(){
 
 			Boolean success =true;
+			ArrayList<String> keys = new ArrayList<String>( mapMod.keySet());
 			List<Movimiento__c> listSFObjs = new ArrayList<Movimiento__c>(mapMod.values());// solo los valores
 			Movimiento__c[] arrSFObjs = new Movimiento__c[listSFObjs.size()];//número de elementos 
 			arrSFObjs = listSFObjs.toArray(arrSFObjs);
@@ -200,7 +201,7 @@ public class ivrParser {
 					Integer index=-1;
 					
 					//Upsert  -> MOD
-					UpsertResult[] results = sfc.upsertObjects("External_Id_c__c" ,arrSFObjs);
+					UpsertResult[] results = sfc.upsertObjects("External_Id__c" ,arrSFObjs);
 					if(results!=null){
 						results.hashCode();
 						for(UpsertResult result:results){
@@ -229,8 +230,8 @@ public class ivrParser {
 								continue;
 							}else
 							logger.error(acc);
-							logger.error("Error en registro '" + acc.getExternal_Id_c__c() + "': " + error.getMessage() + " (" + error.getStatusCode() + ")");
-							messages.append("Error en registro '" + acc.getExternal_Id_c__c() + "': ");
+							logger.error("Error en registro '" + acc.getExternal_Id__c() + "': " + error.getMessage() + " (" + error.getStatusCode() + ")");
+							messages.append("Error en registro '" + acc.getExternal_Id__c() + "': ");
 							messages.append(error.getMessage() + " (" + error.getStatusCode() + ") \n");
 							success = false;
 						}	

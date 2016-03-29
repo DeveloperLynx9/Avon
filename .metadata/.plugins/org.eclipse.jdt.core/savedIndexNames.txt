@@ -5,7 +5,6 @@ INDEX VERSION 1.127+C:\Developer\Avon\.metadata\.plugins\org.eclipse.jdt.core
 972965919.index
 1624377654.index
 1812437159.index
-3055454868.index
 3463984128.index
 2586668862.index
 108921576.index

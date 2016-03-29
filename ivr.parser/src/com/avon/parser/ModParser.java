@@ -44,8 +44,8 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			ivr.setTipo_Modificacion__c("COD");
 			logger.info("Tipo de Modificación:" + ivr.getTipo_Modificacion__c());
 			
-			ivr.setExternal_Id_c__c(key);
-			logger.info("External:" + ivr.getExternal_Id_c__c());
+			ivr.setExternal_Id__c(key);
+			logger.info("External:" + ivr.getExternal_Id__c());
 		
 			ivr.setMotivo__c(campos[5].trim());
 			logger.info("Motivo: "+ ivr.getMotivo__c());
@@ -100,7 +100,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			if(mapMod==null){
 				mapMod = new HashMap<String, Movimiento__c>();
 			}
-			mapMod.put(ivr.getExternal_Id_c__c(), ivr);
+			mapMod.put(ivr.getExternal_Id__c(), ivr);
 			
 		}	
 	

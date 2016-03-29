@@ -417,6 +417,7 @@ public class JerarquiaProceso {
 			Integer totalInserted = 0;
 			Integer totalError = 0;
 			Integer index=-1;
+			
 			//Upsert Cuentas -> DIVISIONES
 			UpsertResult[] results = sfc.upsertObjects("External_Id_c__c" ,arrSFObjs);
 				if(results!=null){

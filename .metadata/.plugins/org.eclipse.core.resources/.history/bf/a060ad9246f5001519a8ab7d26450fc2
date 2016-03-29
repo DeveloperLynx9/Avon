@@ -1,0 +1,10 @@
+# usuario de sandbox
+user.name=integracion.force@avon.com.qa
+user.password=Dreamforce2015$tXuTzcSM4OYobPDTAto5SUAwA
+#endpoint=https://test.salesforce.com/services/Soap/c/33.0
+https://test.salesforce.com/services/Soap/c/36.0
+
+# usuario de producci€n
+#user.name=integracion.force@avon.com
+#user.password=Avon1234#63Ie9NT7SBu8deRHu5YIw8nDG
+#endpoint=https://login.salesforce.com/services/Soap/c/33.0

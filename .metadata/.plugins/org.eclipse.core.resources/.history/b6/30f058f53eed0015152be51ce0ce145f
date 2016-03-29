@@ -1,5 +1,0 @@
-package com.sforce.soap.enterprise.sobject;
-
-public enum Movimiento__c {
-
-}

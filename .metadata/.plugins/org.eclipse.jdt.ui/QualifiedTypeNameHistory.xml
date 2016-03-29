@@ -32,6 +32,6 @@
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.UserRole"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.User"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

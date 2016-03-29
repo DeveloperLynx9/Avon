@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="ArrayList&lt;Contact&gt; asociado = new ArrayList&lt;Contact&gt;(mapaAsociado.values());" key="selection"/>
+		<item value="external" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="guarda"/>
-			<item value="fRegion"/>
-			<item value="FMOD"/>
-			<item value="MOD"/>
-			<item value="rp.finalizar"/>
-			<item value="rpFinalizar"/>
-			<item value="yy"/>
-			<item value="vacio"/>
+			<item value="External"/>
+			<item value="campania"/>
+			<item value="_z"/>
+			<item value="putAll"/>
+			<item value="putall"/>
+			<item value="txt"/>
+			<item value=".TX|T"/>
+			<item value=".CSV"/>
 		</list>
 		<list key="replacehistory">
 			<item value=""/>

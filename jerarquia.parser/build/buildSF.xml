@@ -21,7 +21,7 @@
 	<target name="buildStubs">
 		<antcall target="buildStub" >	
 			<!-- <param name="wsdl" value="${basedir}/build/wsdl/ClienteDatosgralesSoap.wsdl.xml" /> -->
-			<param name="wsdl" value="${basedir}/build/wsdl/SFDC16MAR2016.xml" />
+			<param name="wsdl" value="${basedir}/build/wsdl/SFDC28032016.xml" />
 			
 		</antcall>
 	</target>
