@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Salesforce.com Enterprise Web Services API Version 36.0
-Generated on 2016-03-29 00:22:20 +0000.
+Generated on 2016-03-29 22:18:19 +0000.
 
 Package Versions:
 Salesforce Communities Management (for Communities with Chatter) (Version: 5.1, Namespace: ca_collab_2_0)
@@ -10837,7 +10837,7 @@ All Rights Reserved
                         <element name="Department" nillable="true" minOccurs="0" type="xsd:string"/>
                         <element name="DigestFrequency" nillable="true" minOccurs="0" type="xsd:string"/>
                         <element name="Division" nillable="true" minOccurs="0" type="xsd:string"/>
-                        <element name="ESTRUCUTURA_ID__c" nillable="true" minOccurs="0" type="xsd:string"/>
+                        <element name="ESTRUCTURA_ID__c" nillable="true" minOccurs="0" type="xsd:string"/>
                         <element name="EXTERNAL_ID__c" nillable="true" minOccurs="0" type="xsd:string"/>
                         <element name="Email" nillable="true" minOccurs="0" type="xsd:string"/>
                         <element name="EmailEncodingKey" nillable="true" minOccurs="0" type="xsd:string"/>

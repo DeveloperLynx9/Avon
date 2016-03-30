@@ -17,7 +17,6 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="javax.mail.Store"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="com.sforce.async.SObject"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Contact"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Movimiento__c"/>
@@ -33,5 +32,10 @@
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.User"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.sforce.ws.wsdl.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.UpsertResult"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.SObject"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

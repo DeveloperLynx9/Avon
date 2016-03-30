@@ -3,25 +3,31 @@ package com.avon.parser;
 import java.io.File;
 import java.util.HashMap;
 
-import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
 import com.sforce.soap.enterprise.sobject.Account;
 import com.sforce.soap.enterprise.sobject.User;
 
 public class ParserZona extends RootParser{
+	
 	private Logger logger = Logger.getLogger(this.getClass());
+	private HashMap<String, Account> mapParent;
 	private HashMap<String, Account> mapZona;
-	private HashMap<String, User> mapaGerentes;
+	private StringBuffer errors = new StringBuffer();
 	
 	private String rtZona;
 	
 	public void setupParser() {
 	}
 	
-	public ParserZona(File fZona,String rtZona) {
+	public String getErrors(){
+		return errors.toString();
+	}
+	
+	public ParserZona(File fZona,String rtZona, HashMap<String, Account> mapParent) {
 		super(fZona);
 		this.rtZona= rtZona;
+		this.mapParent = mapParent;
 	}
 
 	@Override
@@ -29,44 +35,33 @@ public class ParserZona extends RootParser{
 		
 		Account zona = new Account();
 			
-		zona.setName(campos[1].trim());
-		zona.setEXTERNAL_ID__c('Z'+campos[0].trim());
+		zona.setName(campos[2].trim());
+		zona.setEXTERNAL_ID__c(campos[2].trim());
 		zona.setRecordTypeId(rtZona);
 		
-		String ExternalId = "";
-		try {
-			ExternalId = StringUtils.leftPad(campos[3].trim(), 8, "0");
-			} catch (Exception e) {
-			logger.error(ExternalId + "Error en ficha:" + e.toString() );
+		String keyParent = campos[1].trim();
+		Account parent = mapParent.get(keyParent);
+		if(parent!=null){
+			Account parentTmp = new Account();
+			parentTmp.setEXTERNAL_ID__c(parent.getEXTERNAL_ID__c());
+			zona.setParent(parentTmp);
+		}else{
+			logger.error("División: " + keyParent + " no encontrada para la zona:" + zona.getName()+ "\n");
+			errors.append("División: " + keyParent + " no encontrada para la zona:" + zona.getName()+ "\n");
 		}
 		
-		User gerente = new User();
-		gerente.setFirstName( campos[4].trim());
-		gerente.setLastName( campos[5].trim() );
-		gerente.setEmail(campos[6]);
-	
-			if(mapaGerentes==null){
-				mapaGerentes = new HashMap<String, User>();
-			}
-			
-			mapaGerentes.put(gerente.getEmail(), gerente);
-			
-			User owner = new User();
-			owner.setEmail(campos[6].trim());
-			zona.setOwner(owner);
-			
-			if(mapZona==null){
-				mapZona = new HashMap<String, Account>();
-			}
-			mapZona.put(zona.getEXTERNAL_ID__c(), zona);
+		User owner = new User();
+		owner.setESTRUCTURA_ID__c(campos[6].trim());
+		zona.setOwner(owner);
+		
+		if(mapZona==null){
+			mapZona = new HashMap<String, Account>();
 		}
+		mapZona.put(zona.getEXTERNAL_ID__c(), zona);
+	}
 
 	public HashMap<String, Account> getMapZona() {
 		return mapZona;
-	}
-
-	public HashMap<String, User> getMapaGerentes() {
-		return mapaGerentes;
 	}
 
 }

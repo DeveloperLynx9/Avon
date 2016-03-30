@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<project name="AVON" default="buildStubs" basedir="..">
+<project name="AVON-jerarquia" default="buildStubs" basedir="..">
 	<property name="JarsDir"  		value="${basedir}/build/jars" />
 	<property name="ClassesDir"  	value="${basedir}/build/classes" />
 	<property name="nowrapped" 		value="true" /> 

@@ -66,7 +66,7 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
 
     private java.lang.String division;
 
-    private java.lang.String ESTRUCUTURA_ID__c;
+    private java.lang.String ESTRUCTURA_ID__c;
 
     private java.lang.String EXTERNAL_ID__c;
 
@@ -393,7 +393,7 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
            java.lang.String department,
            java.lang.String digestFrequency,
            java.lang.String division,
-           java.lang.String ESTRUCUTURA_ID__c,
+           java.lang.String ESTRUCTURA_ID__c,
            java.lang.String EXTERNAL_ID__c,
            java.lang.String email,
            java.lang.String emailEncodingKey,
@@ -571,7 +571,7 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
         this.department = department;
         this.digestFrequency = digestFrequency;
         this.division = division;
-        this.ESTRUCUTURA_ID__c = ESTRUCUTURA_ID__c;
+        this.ESTRUCTURA_ID__c = ESTRUCTURA_ID__c;
         this.EXTERNAL_ID__c = EXTERNAL_ID__c;
         this.email = email;
         this.emailEncodingKey = emailEncodingKey;
@@ -1301,22 +1301,22 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
 
 
     /**
-     * Gets the ESTRUCUTURA_ID__c value for this User.
+     * Gets the ESTRUCTURA_ID__c value for this User.
      * 
-     * @return ESTRUCUTURA_ID__c
+     * @return ESTRUCTURA_ID__c
      */
-    public java.lang.String getESTRUCUTURA_ID__c() {
-        return ESTRUCUTURA_ID__c;
+    public java.lang.String getESTRUCTURA_ID__c() {
+        return ESTRUCTURA_ID__c;
     }
 
 
     /**
-     * Sets the ESTRUCUTURA_ID__c value for this User.
+     * Sets the ESTRUCTURA_ID__c value for this User.
      * 
-     * @param ESTRUCUTURA_ID__c
+     * @param ESTRUCTURA_ID__c
      */
-    public void setESTRUCUTURA_ID__c(java.lang.String ESTRUCUTURA_ID__c) {
-        this.ESTRUCUTURA_ID__c = ESTRUCUTURA_ID__c;
+    public void setESTRUCTURA_ID__c(java.lang.String ESTRUCTURA_ID__c) {
+        this.ESTRUCTURA_ID__c = ESTRUCTURA_ID__c;
     }
 
 
@@ -4318,9 +4318,9 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
             ((this.division==null && other.getDivision()==null) || 
              (this.division!=null &&
               this.division.equals(other.getDivision()))) &&
-            ((this.ESTRUCUTURA_ID__c==null && other.getESTRUCUTURA_ID__c()==null) || 
-             (this.ESTRUCUTURA_ID__c!=null &&
-              this.ESTRUCUTURA_ID__c.equals(other.getESTRUCUTURA_ID__c()))) &&
+            ((this.ESTRUCTURA_ID__c==null && other.getESTRUCTURA_ID__c()==null) || 
+             (this.ESTRUCTURA_ID__c!=null &&
+              this.ESTRUCTURA_ID__c.equals(other.getESTRUCTURA_ID__c()))) &&
             ((this.EXTERNAL_ID__c==null && other.getEXTERNAL_ID__c()==null) || 
              (this.EXTERNAL_ID__c!=null &&
               this.EXTERNAL_ID__c.equals(other.getEXTERNAL_ID__c()))) &&
@@ -4854,8 +4854,8 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
         if (getDivision() != null) {
             _hashCode += getDivision().hashCode();
         }
-        if (getESTRUCUTURA_ID__c() != null) {
-            _hashCode += getESTRUCUTURA_ID__c().hashCode();
+        if (getESTRUCTURA_ID__c() != null) {
+            _hashCode += getESTRUCTURA_ID__c().hashCode();
         }
         if (getEXTERNAL_ID__c() != null) {
             _hashCode += getEXTERNAL_ID__c().hashCode();
@@ -5506,8 +5506,8 @@ public class User  extends com.sforce.soap.enterprise.sobject.SObject  implement
         elemField.setNillable(true);
         typeDesc.addFieldDesc(elemField);
         elemField = new org.apache.axis.description.ElementDesc();
-        elemField.setFieldName("ESTRUCUTURA_ID__c");
-        elemField.setXmlName(new javax.xml.namespace.QName("urn:sobject.enterprise.soap.sforce.com", "ESTRUCUTURA_ID__c"));
+        elemField.setFieldName("ESTRUCTURA_ID__c");
+        elemField.setXmlName(new javax.xml.namespace.QName("urn:sobject.enterprise.soap.sforce.com", "ESTRUCTURA_ID__c"));
         elemField.setXmlType(new javax.xml.namespace.QName("http://www.w3.org/2001/XMLSchema", "string"));
         elemField.setMinOccurs(0);
         elemField.setNillable(true);

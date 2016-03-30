@@ -316,8 +316,6 @@ public class SForceClient {
 				parameters.setExternalIDFieldName(upsertFieldName);
 				
 				results = stub.upsert(parameters);
-				logger.info("Variable " + results);
-				
 				res.addAll(Arrays.asList(results));
 			}
 			logger.info("Fin del proceso de UPSERT en SalesForce.");
@@ -502,7 +500,7 @@ public class SForceClient {
 			subject = "ERROR:";
 		}
 
-		subject += " Actualizacion Jerarquía Avon";
+		subject += " Actualizacion JerarquÃ­a Avon";
 		message.setSubject(subject);
 		message.setPlainTextBody(emailBody);
 		
