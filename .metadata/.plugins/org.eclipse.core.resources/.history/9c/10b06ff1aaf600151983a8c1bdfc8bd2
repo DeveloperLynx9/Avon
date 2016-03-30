@@ -140,7 +140,7 @@ public class JerarquiaProceso {
 				
 			StringBuilder sbFile_z = new StringBuilder();
 				sbFile_z.append(sFilesPath);
-				sbFile_z.append("zonas_" + dateFile + ".csv");
+				sbFile_z.append("zona_" + dateFile + ".csv");
 		
 			File fTempMay = new File( sbFile.toString() );
 			logger.info("Buscando archivo: "+fTempMay);
@@ -166,7 +166,7 @@ public class JerarquiaProceso {
 				messages.append( "No se encontro el archivo:  division_" + dateFile + ".csv \n" );
 			} 
 			if (fZona==null){
-				logger.error( "No se encontro el archivo: zonas_" + dateFile + ".csv \n" );
+				logger.error( "No se encontro el archivo: zona_" + dateFile + ".csv \n" );
 				messages.append( "No se encontro el archivo: zonas_" + dateFile + ".csv \n" );				
 			}
 			if (fRegion == null && fDivision == null && fZona  == null){
@@ -224,25 +224,25 @@ public class JerarquiaProceso {
 	private Boolean store(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapRegion.values());
-		return storeGral(listSFObjs, "Región");		
+		return storeGral(listSFObjs);		
 		
 	}	
 	
 	private Boolean store_d(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapDivision.values());
-		return storeGral(listSFObjs, "División");
+		return storeGral(listSFObjs);
 		
 	}	
 	
 	private Boolean store_z(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapZona.values());
-		return storeGral(listSFObjs, "Zona");
+		return storeGral(listSFObjs);
 		
 	}
 	
-		private Boolean storeGral(ArrayList<Account> toUpsert,String modulo){
+		private Boolean storeGral(ArrayList<Account> toUpsert){
 	
 			ArrayList<Account> sinPropietario = new ArrayList<Account>();
 			
@@ -351,14 +351,17 @@ public class JerarquiaProceso {
 					}
 				}
 				
-							
+				
+				
+				
+				
 				logger.info("success:" + totalSuccess + ", errors:" + totalError);
 				messages.append(" \n   Reporte Final  \n\n");
-				messages.append(" Total de registros " + modulo + " procesados:" + total + "\n\n");
-				messages.append(" Total de registros " + modulo + " exitosos:" + totalSuccess+ "\n");
-				messages.append(" Total de registros " + modulo + " erroneos:" + totalError + "\n\n");
-				messages.append(" Total de registros " + modulo + " actualizados:" + totalUpdated + "\n");
-				messages.append(" Total de registros " + modulo + " insertados:" + totalInserted + "\n\n");
+				messages.append(" Total de registros procesados:" + total + "\n\n");
+				messages.append(" Total de registros exitosos:" + totalSuccess+ "\n");
+				messages.append(" Total de registros erroneos:" + totalError + "\n\n");
+				messages.append(" Total de registros actualizados:" + totalUpdated + "\n");
+				messages.append(" Total de registros insertados:" + totalInserted + "\n\n");
 				
 			} catch (Exception e) {
 				logger.error("Error actualizando registros:" + e.getMessage());

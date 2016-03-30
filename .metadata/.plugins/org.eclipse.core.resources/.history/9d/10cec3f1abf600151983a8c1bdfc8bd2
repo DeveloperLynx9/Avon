@@ -140,7 +140,7 @@ public class JerarquiaProceso {
 				
 			StringBuilder sbFile_z = new StringBuilder();
 				sbFile_z.append(sFilesPath);
-				sbFile_z.append("zonas_" + dateFile + ".csv");
+				sbFile_z.append("zona_" + dateFile + ".csv");
 		
 			File fTempMay = new File( sbFile.toString() );
 			logger.info("Buscando archivo: "+fTempMay);
@@ -224,21 +224,21 @@ public class JerarquiaProceso {
 	private Boolean store(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapRegion.values());
-		return storeGral(listSFObjs, "Región");		
+		return storeGral(listSFObjs);		
 		
 	}	
 	
 	private Boolean store_d(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapDivision.values());
-		return storeGral(listSFObjs, "División");
+		return storeGral(listSFObjs);
 		
 	}	
 	
 	private Boolean store_z(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapZona.values());
-		return storeGral(listSFObjs, "Zona");
+		return storeGral(listSFObjs);
 		
 	}
 	
@@ -354,10 +354,10 @@ public class JerarquiaProceso {
 							
 				logger.info("success:" + totalSuccess + ", errors:" + totalError);
 				messages.append(" \n   Reporte Final  \n\n");
-				messages.append(" Total de registros " + modulo + " procesados:" + total + "\n\n");
+				messages.append(" Total de registros" + modulo + "procesados:" + total + "\n\n");
 				messages.append(" Total de registros " + modulo + " exitosos:" + totalSuccess+ "\n");
-				messages.append(" Total de registros " + modulo + " erroneos:" + totalError + "\n\n");
-				messages.append(" Total de registros " + modulo + " actualizados:" + totalUpdated + "\n");
+				messages.append(" Total de registros " + modulo + "erroneos:" + totalError + "\n\n");
+				messages.append(" Total de registros " + modulo + "actualizados:" + totalUpdated + "\n");
 				messages.append(" Total de registros " + modulo + " insertados:" + totalInserted + "\n\n");
 				
 			} catch (Exception e) {
