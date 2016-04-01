@@ -63,7 +63,7 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 					String aCampania = cal.get(Calendar.YEAR) + StringUtils.leftPad(noCamp, 2, '0');
 					Campania_Avon__c cam = new Campania_Avon__c();
 					cam.setExternal_Id__c(aCampania);
-					ivr.setA_Campania__r(cam);
+					ivr.setA_Campania__r(cam);	
 					logger.info("A Campaña:" +aCampania);
 					
 					String dValor = campos[6].trim();

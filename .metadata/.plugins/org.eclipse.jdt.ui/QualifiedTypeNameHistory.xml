@@ -35,7 +35,7 @@
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="com.sforce.ws.wsdl.Collection"/>
 <fullyQualifiedTypeName name="java.util.Collection"/>
-<fullyQualifiedTypeName name="com.sforce.soap.enterprise.UpsertResult"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.SObject"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sforce.soap.enterprise.UpsertResult"/>
 </qualifiedTypeNameHistroy>

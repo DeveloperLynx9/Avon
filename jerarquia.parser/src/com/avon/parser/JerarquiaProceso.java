@@ -224,7 +224,7 @@ public class JerarquiaProceso {
 	private Boolean store(){
 		
 		ArrayList<Account> listSFObjs = new ArrayList<Account>(mapRegion.values());
-		return storeGral(listSFObjs, "Región");		
+		return storeGral(listSFObjs, "Región");			
 		
 	}	
 	
@@ -301,7 +301,6 @@ public class JerarquiaProceso {
 								acc.setOwner(null);
 								sinPropietario.add(acc);
 								continue;
-								
 							}
 							
 							logger.error("Error en registro '" + acc.getEXTERNAL_ID__c() + "': " + error.getMessage() + " (" + error.getStatusCode() + ")");
@@ -350,8 +349,6 @@ public class JerarquiaProceso {
 						}
 					}
 				}
-				
-							
 				logger.info("success:" + totalSuccess + ", errors:" + totalError);
 				messages.append(" \n   Reporte Final  \n\n");
 				messages.append(" Total de registros " + modulo + " procesados:" + total + "\n\n");
