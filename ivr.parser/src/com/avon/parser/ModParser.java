@@ -8,6 +8,7 @@ import java.util.HashMap;
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
+import com.avon.parser.util.Loader;
 import com.sforce.soap.enterprise.sobject.Campania_Avon__c;
 import com.sforce.soap.enterprise.sobject.Contact;
 import com.sforce.soap.enterprise.sobject.Movimiento__c;
@@ -18,6 +19,8 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 	private Logger logger = Logger.getLogger(this.getClass());
 	private HashMap<String, Movimiento__c> mapMod;
 	
+	private Loader motivos = null;
+	
 	private String ivMod;
 
 	public void setupParser() {
@@ -26,6 +29,12 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 	public ModParser(File MOD, String ivMod) {
 		super(MOD);
 		this.ivMod=ivMod;
+		
+		try{
+			motivos = new Loader("sforce.properties");
+		}catch(Exception e){
+			logger.error("Error leyendo motivos de las propiedades:" + e.getMessage());
+		}
 	}
 	
 	@Override
@@ -33,7 +42,6 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
  		Movimiento__c ivr = new Movimiento__c();
 			
 			String registro =StringUtils.leftPad(campos[2].trim(), 8, '0');
-			//No detecta key 
 			String key = super.getFile().getName()+ registro;
 
 			Contact rep = new Contact();
@@ -47,7 +55,20 @@ import com.sforce.soap.enterprise.sobject.Movimiento__c;
 			ivr.setExternal_Id__c(key);
 			logger.info("External:" + ivr.getExternal_Id__c());
 		
-			ivr.setMotivo__c(campos[5].trim());
+			String motivo = StringUtils.leftPad(campos[5].trim(),2,"0");
+			String motivoValor = null;
+			if(motivos!=null){
+				try{
+					motivoValor = motivos.getString("motivo." + motivo);
+				}catch(Exception e){
+					logger.error("Motivo " + motivo + " no encontrado en properties");
+				}
+			}
+			if(motivoValor==null){
+				logger.error("Motivo " + motivo + " no encontrado en properties");
+				motivoValor = motivo;
+			}
+			ivr.setMotivo__c(motivoValor);
 			logger.info("Motivo: "+ ivr.getMotivo__c());
 			
 			//Parseo de fecha 

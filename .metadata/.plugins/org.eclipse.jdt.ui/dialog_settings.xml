@@ -3,6 +3,7 @@
 	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
 	<item value="3" key="TypeHierarchyViewPart.orientation"/>
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="C:\Apps\CRM\rx\exe\ivr.parser\lib" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="C:\Apps\CRM\rx\IVR\Input\Ivr.parser" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
@@ -69,11 +70,12 @@
 	</section>
 	<section name="FatJarPackageWizard">
 		<item value="C:\Developer\Avon" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
-		<item value="JerarquiaProceso (1) - jerarquia.parser" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
-		<item value="C:\Apps\CRM\rx\exe\jerarquia.parser\jerarquia-parser.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="ivr.parser - ivr.parser" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="C:\Apps\CRM\rx\exe\ivr.parser\ivr-parser.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
 		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
 		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
 		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Apps\CRM\rx\exe\ivr.parser\ivr-parser.jar"/>
 			<item value="C:\Apps\CRM\rx\exe\jerarquia.parser\jerarquia-parser.jar"/>
 		</list>
 		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
@@ -130,6 +132,8 @@
 		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
 		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Apps\CRM\rx\exe\ivr.parser\lib\SFDC04042016.jar"/>
+			<item value="jerarquia.parser\lib\SFDC04042016.jar"/>
 			<item value="jerarquia.parser/lib/sfdc-18MAR2016.jar"/>
 			<item value="C:\Users\85942\Desktop\JerarquiaParser.jar"/>
 		</list>

@@ -14,7 +14,6 @@ import com.avon.parser.util.AvonDAO;
 import com.avon.parser.util.Loader;
 import com.avon.parser.util.SForceClient;
 import com.sforce.soap.enterprise.UpsertResult;
-import com.sforce.soap.enterprise.sobject.Campania_Avon__c;
 import com.sforce.soap.enterprise.sobject.Movimiento__c;
 
 
@@ -25,8 +24,7 @@ public class ivrParser {
 	private String sFilesPath;
 	private boolean isDevEnv;
 	
-	private String ivMod=null;
-	private String ivMan=null;
+	private String rtModificaciones=null;
 
 	public StringBuffer messages = null;
 	protected File MAN = null;
@@ -57,8 +55,7 @@ public class ivrParser {
 			}
 		
 		public void finalizar(Boolean success, String emailBody) {
-			// Liberar recursos
-			// Cerrar conexiones.
+
 			SForceClient sfc = new SForceClient();
 			try{
 				sfc.sendEmail(success, emailBody, this.date);
@@ -73,6 +70,8 @@ public class ivrParser {
 		};private Date   	date;
 		
 		private Boolean init(String indate){
+			
+			 
 			SimpleDateFormat sdf 			= new SimpleDateFormat("ddMMyyyy");
 			indate							= StringUtils.trimToNull(indate);
 			if(indate==null){
@@ -95,7 +94,7 @@ public class ivrParser {
 			
 			AvonDAO dao = new AvonDAO ();
 			try{
-				ivMod=dao.getRecordType("Movimiento__c", "Modificaciones");
+				rtModificaciones=dao.getRecordType("Movimiento__c", "Modificaciones");
 			}catch(Exception e){
 				messages.append("Error en registros" + e.getMessage());
 				return false;
@@ -151,6 +150,7 @@ public class ivrParser {
 					return false;
 				}
 		}
+			
 		catch(Exception e){
 			e.printStackTrace();
 			}
@@ -161,7 +161,7 @@ public class ivrParser {
 			
 			if (MOD != null) {
 					logger.info("Parseando archivo:" + MOD.getName() );
-					ModParser p = new ModParser(MOD,ivMod);
+					ModParser p = new ModParser(MOD,rtModificaciones);
 				try {
 					p.parse();
 				} catch (Exception e) {
@@ -171,10 +171,9 @@ public class ivrParser {
 				mapMod  = p.getmapMod();
 				logger.info("Total de archivos MOD procesados < Código 235 >: " + mapMod.size());
 			}
-	
 			if (MAN != null) {
 				logger.info("Parseando archivo:" + MAN.getName() );
-				ManParser p = new ManParser(MAN,ivMan);
+				ManParser p = new ManParser(MAN,rtModificaciones);
 			try {
 				p.parse();
 			} catch (Exception e) {
@@ -202,8 +201,6 @@ public class ivrParser {
 			Movimiento__c[] arrSFObjs = new Movimiento__c[toUpsert.size()]; 
 			arrSFObjs = toUpsert.toArray(arrSFObjs);
 			
-			Campania_Avon__c camp = new Campania_Avon__c();
-			camp.getExternal_Id__c();
 			
 				SForceClient sfc = new SForceClient();
 				try {
@@ -215,7 +212,8 @@ public class ivrParser {
 					Integer totalError = 0;
 					Integer index=-1;
 					
-					//Upsert  -> MOD
+					//Upsert 
+					
 					UpsertResult[] results = sfc.upsertObjects("External_Id__c" ,arrSFObjs);
 					if(results!=null){
 						for(UpsertResult result:results){

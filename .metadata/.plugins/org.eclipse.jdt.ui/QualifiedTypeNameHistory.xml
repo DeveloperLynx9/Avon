@@ -21,12 +21,10 @@
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Contact"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Movimiento__c"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.Campania_Avon__c"/>
-<fullyQualifiedTypeName name="com.avon.parser.util.Loader"/>
 <fullyQualifiedTypeName name="java.util.logging.Logger"/>
 <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="org.apache.axis.utils.StringUtils"/>
-<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.UserRole"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -36,6 +34,8 @@
 <fullyQualifiedTypeName name="com.sforce.ws.wsdl.Collection"/>
 <fullyQualifiedTypeName name="java.util.Collection"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.sobject.SObject"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.sforce.soap.enterprise.UpsertResult"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.avon.parser.util.Loader"/>
+<fullyQualifiedTypeName name="org.apache.commons.lang.StringUtils"/>
 </qualifiedTypeNameHistroy>
