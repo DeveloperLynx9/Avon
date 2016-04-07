@@ -1,0 +1,11 @@
+#***************************************************#
+#       Prod config
+#***************************************************#
+# Path to files, (terminate line with "/").
+file.prefix.bids=BIDSRPT_IW_TRNSCTN_HSTRY_
+file.prefix.cdw=CDW_BIDS_PRIVILEGE_
+files.path=/Apps/CRM/rx/
+filesbck.path=/Apps/CRM/rxBck
+
+email.to=jonathan.aranda@avon.com;luis.roa@avon.com;daniel.jasso@avon.com
+email.bcc=sf@lynx9.com

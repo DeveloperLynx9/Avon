@@ -1,0 +1,11 @@
+#***************************************************#
+#       Dev config
+#***************************************************#
+# Path to files, (terminate line with "/").
+#files.path=/Apps/CRM/rx/
+files.path=C:/Developer/Avon/ivr.parser/files/
+filesbck.path=/Apps/CRM/rxBck
+
+email.to=ara.sereno@lynx9.com;jonathan.aranda@avon.com
+email.bcc=sf@lynx9.com
+ivr.mod.codigo=01
